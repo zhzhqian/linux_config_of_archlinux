@@ -8,6 +8,8 @@ return require("packer").startup(function()
 	})
 	-- 主题
 	use("ful1e5/onedark.nvim")
+	use("rmehri01/onenord.nvim")
+	use("xiyaowong/nvim-transparent")
 	-- 对齐线
 	use("lukas-reineke/indent-blankline.nvim")
 	-- 状态栏
