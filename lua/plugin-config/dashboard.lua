@@ -1,6 +1,7 @@
-vim.g.dashboard_default_executive = "fzf"
+local alpha = require("alpha")
+local dashboard = require("alpha.themes.dashboard")
 
-vim.g.dashboard_custom_header = {
+dashboard.section.header.val = {
 	[[                                             ]],
 	[[                                             ]],
 	[[                                             ]],
@@ -17,6 +18,17 @@ vim.g.dashboard_custom_header = {
 	[[                                             ]],
 }
 
-vim.g.dashboard_custom_footer = {
+dashboard.section.buttons.val = {
+	dashboard.button("r", "  > Recent", ":History<CR>"),
+	dashboard.button("e", "  > New file", ":ene <BAR> startinsert <CR>"),
+	dashboard.button("f", "  > Find file", ":Files<CR>"),
+	dashboard.button("w", "  > Find word", ":Rg<CR>"),
+	dashboard.button("s", "  > PackerSync", ":PackerSync<CR>"),
+	dashboard.button("q", "  > Quit NVIM", ":qa<CR>"),
+}
+
+dashboard.section.footer = {
 	[[ Consider everything deeply but still remain fearless. ]],
 }
+
+alpha.setup(dashboard.opts)

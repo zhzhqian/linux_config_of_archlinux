@@ -10,6 +10,8 @@ return require("packer").startup(function()
 	use("ful1e5/onedark.nvim")
 	use("rmehri01/onenord.nvim")
 	use("xiyaowong/nvim-transparent")
+	-- 首页
+	use("goolord/alpha-nvim")
 	-- 对齐线
 	use("lukas-reineke/indent-blankline.nvim")
 	-- 状态栏
@@ -55,8 +57,6 @@ return require("packer").startup(function()
 		requires = { { "honza/vim-snippets", rtp = "." } },
 	})
 	use("quangnguyen30192/cmp-nvim-ultisnips")
-	-- 首页
-	use("glepnir/dashboard-nvim")
 	use({
 		"max397574/better-escape.nvim",
 		config = function()
