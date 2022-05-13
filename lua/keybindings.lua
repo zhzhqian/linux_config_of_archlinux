@@ -1,9 +1,7 @@
 vim.g.mapleader = " "
 vim.g.maplocalleader = " "
 local map = vim.api.nvim_set_keymap
-
 local opt = { noremap = true, silent = true }
-
 -- Visual模式 复制到系统剪贴板
 map("v", "<C-y>", '"+y', opt)
 -- Insert right
@@ -12,40 +10,32 @@ map("i", "<C-f>", "<Right>", opt)
 map("n", "<leader>ss", ":vsp<CR>", opt)
 -- 关闭当前
 map("n", "<leader>x", "<C-w>c", opt)
--- 关闭其他
--- Alt + hjkl  窗口之间跳转
-map("n", "<A-h>", "<C-w>h", opt)
-map("n", "<A-j>", "<C-w>j", opt)
-map("n", "<A-k>", "<C-w>k", opt)
-map("n", "<A-l>", "<C-w>l", opt)
+-- 新 tab 打开当前页面
+map("n", "<leader>t", "<C-w>T", opt)
 -- visual模式下缩进代码
 map("v", "<", "<gv", opt)
 map("v", ">", ">gv", opt)
 -- 上下移动选中文本
 map("v", "J", ":move '>+1<CR>gv-gv", opt)
 map("v", "K", ":move '<-2<CR>gv-gv", opt)
-
+-- 切换tab
 map("n", "<leader>1", "1gt<ct>", opt)
 map("n", "<leader>2", "2gt<ct>", opt)
 map("n", "<leader>3", "3gt<ct>", opt)
 map("n", "<leader>4", "4gt<ct>", opt)
 map("n", "<leader>5", "5gt<ct>", opt)
-
--- fzf.vim
-map("n", "<C-p>", ":Files<CR>", opt)
-map("n", "<A-f>", ":Lines<CR>", opt)
-map("n", "<leader>c", ":Rg<CR>", opt)
-map("n", "<leader>b", ":Buffers<CR>", opt)
-
 -- hop.nvim
 map("n", "<leader>w", ":HopWord<CR>", opt)
 map("n", "<leader>l", ":HopLine<CR>", opt)
-
 -- vista.vim
 map("n", "<leader>\\", ":Vista!!<CR>", { noremap = true })
-
 -- mundo
 map("n", "<leader>u", ":MundoToggle<CR>", opt)
+-- fzf.vim
+map("n", ",f", ":Files<CR>", opt)
+map("n", ",q", ":Lines<CR>", opt)
+map("n", ",w", ":Rg<CR>", opt)
+map("n", ",b", ":Buffers<CR>", opt)
 
 local pluginKeys = {}
 
@@ -53,30 +43,28 @@ map("n", "<leader>e", ":NvimTreeToggle<CR>", opt)
 
 pluginKeys.nvimTreeList = {
 	-- 打开文件或文件夹
-	{ key = { "<CR>", "o", "<2-LeftMouse>" }, action = "vsplit" },
+	{ key = { "<CR>", "o", "<2-LeftMouse>" }, action = "tabnew" },
 	{ key = "e", action = "edit" },
 	-- 分屏打开文件
-	{ key = "v", action = "vsplit" },
-	{ key = "h", action = "split" },
+	{ key = "s", action = "vsplit" },
 	-- 显示隐藏文件
 	{ key = "i", action = "toggle_ignored" }, -- Ignore (node_modules)
 	{ key = ".", action = "toggle_dotfiles" }, -- Hide (dotfiles)
 	-- 文件操作
-	{ key = "<F5>", action = "refresh" },
 	{ key = "a", action = "create" },
 	{ key = "d", action = "remove" },
 	{ key = "r", action = "rename" },
 	{ key = "x", action = "cut" },
 	{ key = "c", action = "copy" },
 	{ key = "p", action = "paste" },
-	{ key = "s", action = "system_open" },
+	{ key = "o", action = "system_open" },
 }
 
 pluginKeys.mapLSP = function(mapbuf)
 	-- rename
-	mapbuf("n", "<leader>rr", "<cmd>lua vim.lsp.buf.rename()<CR>", opt)
+	mapbuf("n", ",r", "<cmd>lua vim.lsp.buf.rename()<CR>", opt)
 	-- code action
-	mapbuf("n", "<space>ca", "<cmd>lua vim.lsp.buf.code_action()<CR>", opt)
+	mapbuf("n", "<leader>ca", "<cmd>lua vim.lsp.buf.code_action()<CR>", opt)
 	-- go xx
 	mapbuf("n", "gd", "<cmd>lua vim.lsp.buf.definition()<CR>", opt)
 	mapbuf("n", "gh", "<cmd>lua vim.lsp.buf.hover()<CR>", opt)

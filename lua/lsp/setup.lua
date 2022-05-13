@@ -4,6 +4,7 @@ local lsp_servers = {
 	"gopls",
 	"pyright",
 	"jsonls",
+	"bashls",
 }
 -- using plug "nvim-lsp-installer" to ensure the installation
 -- should before the lsp config

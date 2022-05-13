@@ -14,6 +14,7 @@ return require("packer").startup(function()
 	use("goolord/alpha-nvim")
 	-- 对齐线
 	use("lukas-reineke/indent-blankline.nvim")
+	use({ "akinsho/bufferline.nvim", tag = "v2.*", requires = "kyazdani42/nvim-web-devicons" })
 	-- 状态栏
 	use("nvim-lualine/lualine.nvim")
 	-- 编辑历史
