@@ -70,4 +70,5 @@ return require("packer").startup(function()
 	use({ "github/copilot.vim" })
 	-- 格式化代码
 	use({ "jose-elias-alvarez/null-ls.nvim", requires = "nvim-lua/plenary.nvim" })
+	use({ "rlue/vim-barbaric" })
 end)
