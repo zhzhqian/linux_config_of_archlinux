@@ -13,7 +13,7 @@ cd ~/.config/nvim && python -m venv nvim-python
 cd $HOME && ./.config/nvim/nvim-python/bin/python3 -m pip install pynvim
 ```
 
-## in vim command line
+## In vim command line
 
 ```vim
 #install the plugin
@@ -21,3 +21,5 @@ cd $HOME && ./.config/nvim/nvim-python/bin/python3 -m pip install pynvim
 #ensure neovim work properly
 :checkheath
 ```
+
+### No LSP version is on branch `no-lsp`.
