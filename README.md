@@ -2,7 +2,6 @@
 
 ## Clone the repo and prepare the enviroments
 
-```shell
 git clone https://github.com/Zwlin98/nvim ~/.config/nvim
 
 git clone --depth 1 https://github.com/wbthomason/packer.nvim\
