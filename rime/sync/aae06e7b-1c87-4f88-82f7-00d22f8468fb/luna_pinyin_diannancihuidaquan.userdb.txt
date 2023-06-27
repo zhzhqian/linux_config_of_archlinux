@@ -1,0 +1,485 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin_diannancihuidaquan
+#@/db_type	userdb
+#@/rime_version	1.7.3
+#@/user_id	aae06e7b-1c87-4f88-82f7-00d22f8468fb
+a er fa 	阿尔法	c=1 d=2e-08 t=0
+a pa qi 	阿帕奇	c=1 d=2e-08 t=0
+ai bi te 	爱必特	c=1 d=2e-08 t=0
+ai di mai si 	爱迪麦斯	c=1 d=2e-08 t=0
+ai er sha 	艾尔莎	c=1 d=2e-08 t=0
+ai guo zhe 	爱国者	c=1 d=2e-08 t=0
+ai ke ji 	爱科技	c=1 d=2e-08 t=0
+ai ken 	艾肯	c=1 d=2e-08 t=0
+ai ling 	艾凌	c=1 d=2e-08 t=0
+ai mo sheng 	艾默生	c=1 d=2e-08 t=0
+ai tai 	艾泰	c=1 d=2e-08 t=0
+ai wai 	艾崴	c=1 d=2e-08 t=0
+an tai ke 	安泰科	c=1 d=2e-08 t=0
+ang da 	昂达	c=1 d=2e-08 t=0
+ao ka 	奥卡	c=1 d=2e-08 t=0
+ao ke ma 	澳柯玛	c=1 d=2e-08 t=0
+ao lin ba si 	奥林巴斯	c=1 d=2e-08 t=0
+ao mai 	奥迈	c=1 d=2e-08 t=0
+ao mei jia 	奥美嘉	c=1 d=2e-08 t=0
+ao ni 	奥尼	c=1 d=2e-08 t=0
+ao sen 	傲森	c=1 d=2e-08 t=0
+ao si ka 	奥斯卡	c=1 d=2e-08 t=0
+ao te lan xing 	奥特蓝星	c=1 d=2e-08 t=0
+ba bi lu 	巴比禄	c=1 d=2e-08 t=0
+ba de shi 	霸得世	c=1 d=2e-08 t=0
+bai nao tong 	百脑通	c=1 d=2e-08 t=0
+bai sheng 	百盛	c=1 d=2e-08 t=0
+bai shi de 	百事得	c=1 d=2e-08 t=0
+bai shi ling 	百事灵	c=1 d=2e-08 t=0
+bai ya dong li 	拜亚动力	c=1 d=2e-08 t=0
+bai yu 	佰钰	c=1 d=2e-08 t=0
+bao bai 	宝柏	c=1 d=2e-08 t=0
+bao de 	宝德	c=1 d=2e-08 t=0
+bao li de 	保利德	c=1 d=2e-08 t=0
+bao sheng 	宝盛	c=1 d=2e-08 t=0
+bao wei 	宝威	c=1 d=2e-08 t=0
+bao yun 	宝韵	c=1 d=2e-08 t=0
+bei er jin 	贝尔金	c=1 d=2e-08 t=0
+bei ou hai dao 	北欧海盗	c=1 d=2e-08 t=0
+bei qi 	贝奇	c=1 d=2e-08 t=0
+bei tong 	北通	c=1 d=2e-08 t=0
+ben chi 	奔驰	c=1 d=2e-08 t=0
+bi si te 	必思特	c=1 d=2e-08 t=0
+bo da tong xin 	博达通信	c=1 d=2e-08 t=0
+bo di 	博帝	c=1 d=2e-08 t=0
+bo mei te 	博美特	c=1 d=2e-08 t=0
+bo sheng 	博声	c=1 d=2e-08 t=0
+cai hong ling 	彩虹翎	c=1 d=2e-08 t=0
+chang cheng 	长城	c=1 d=2e-08 t=0
+chang ting 	畅听	c=1 d=2e-08 t=0
+chao pin zhe 	超频者	c=1 d=2e-08 t=0
+chao sheng 	超胜	c=1 d=2e-08 t=0
+chao wei 	超微	c=1 d=2e-08 t=0
+chao xian ling 	超线灵	c=1 d=2e-08 t=0
+cheng qi 	承启	c=1 d=2e-08 t=0
+chong ji bo 	冲击波	c=1 d=2e-08 t=0
+chuang jian 	创见	c=1 d=2e-08 t=0
+chuang xin 	创新	c=1 d=2e-08 t=0
+da bai sha 	大白鲨	c=1 d=2e-08 t=0
+da er you 	达尔优	c=1 d=2e-08 t=0
+da shui niu 	大水牛	c=1 d=2e-08 t=0
+da yin ke 	达音科	c=1 d=2e-08 t=0
+da zhong 	大众	c=1 d=2e-08 t=0
+dai er 	戴尔	c=1 d=2e-08 t=0
+de guo tan ke 	德国坦克	c=1 d=2e-08 t=0
+di ba 	迪霸	c=1 d=2e-08 t=0
+di lan heng jin 	迪兰恒进	c=1 d=2e-08 t=0
+dian yuan 	电源	c=1 d=2e-08 t=0
+ding xing 	顶星	c=1 d=2e-08 t=0
+dong fang cheng 	东方城	c=1 d=2e-08 t=0
+dong fang ming zhu 	东方明珠	c=1 d=2e-08 t=0
+dong li xian feng 	动力先锋	c=1 d=2e-08 t=0
+dong lin 	东林	c=1 d=2e-08 t=0
+dong yuan 	东远	c=1 d=2e-08 t=0
+dong zhi 	东芝	c=1 d=2e-08 t=0
+duo cai 	多彩	c=1 d=2e-08 t=0
+en di ya 	恩帝亚	c=1 d=2e-08 t=0
+fan deng hao 	范登豪	c=1 d=2e-08 t=0
+fan shan 	饭山	c=1 d=2e-08 t=0
+fang jia 	方佳	c=1 d=2e-08 t=0
+fang zheng 	方正	c=1 d=2e-08 t=0
+fei li pu 	飞利浦	c=1 d=2e-08 t=0
+fei shi meng 	飞仕盟	c=1 d=2e-08 t=0
+fei yu xing 	飞鱼星	c=1 d=2e-08 t=0
+fen da 	奋达	c=1 d=2e-08 t=0
+fu hao 	富豪	c=1 d=2e-08 t=0
+fu shi 	富士	c=1 d=2e-08 t=0
+fu shi kang 	富士康	c=1 d=2e-08 t=0
+fu shi shi le 	富士施乐	c=1 d=2e-08 t=0
+fu shi tong 	富士通	c=1 d=2e-08 t=0
+gao chuang 	高创	c=1 d=2e-08 t=0
+gao rui 	高锐	c=1 d=2e-08 t=0
+gao si 	高斯	c=1 d=2e-08 t=0
+ge wei er 	格威尔	c=1 d=2e-08 t=0
+geng sheng 	耕升	c=1 d=2e-08 t=0
+guan meng 	冠盟	c=1 d=2e-08 t=0
+guang dian 	光电	c=1 d=2e-08 t=0
+guang qu 	光驱	c=1 d=2e-08 t=0
+guo ji shang yong ji qi 	国际商用机器	c=1 d=2e-08 t=0
+hai dao chuan 	海盗船	c=1 d=2e-08 t=0
+hai er 	海尔	c=1 d=2e-08 t=0
+hai li shi 	海力士	c=1 d=2e-08 t=0
+hai long dian zi cheng 	海龙电子城	c=1 d=2e-08 t=0
+hai tian di 	海天地	c=1 d=2e-08 t=0
+hai xiao 	海啸	c=1 d=2e-08 t=0
+han shi wei 	瀚士威	c=1 d=2e-08 t=0
+han wang 	汉王	c=1 d=2e-08 t=0
+hang jia 	航嘉	c=1 d=2e-08 t=0
+hao feng 	皓峰	c=1 d=2e-08 t=0
+hao fu 	好福	c=1 d=2e-08 t=0
+hao lai wu 	好莱坞	c=1 d=2e-08 t=0
+hao teng 	皓腾	c=1 d=2e-08 t=0
+hao teng 	豪腾	c=1 d=2e-08 t=0
+hao xin 	浩鑫	c=1 d=2e-08 t=0
+he dian 	荷电	c=1 d=2e-08 t=0
+hei jin 	黑金	c=1 d=2e-08 t=0
+hei jin gang 	黑金刚	c=1 d=2e-08 t=0
+hei zuan 	黑钻	c=1 d=2e-08 t=0
+heng li 	亨利	c=1 d=2e-08 t=0
+heng mei 	恒美	c=1 d=2e-08 t=0
+heng wei 	恒威	c=1 d=2e-08 t=0
+hong ji 	宏基	c=1 d=2e-08 t=0
+hong yu 	鸿宇	c=1 d=2e-08 t=0
+hong zhan 	鸿展	c=1 d=2e-08 t=0
+hou jia jun 	厚嘉骏	c=1 d=2e-08 t=0
+hua qing 	华擎	c=1 d=2e-08 t=0
+hua sheng 	华盛	c=1 d=2e-08 t=0
+hua shuo 	华硕	c=1 d=2e-08 t=0
+hua wei 	华为	c=1 d=2e-08 t=0
+huan xiang 	幻象	c=1 d=2e-08 t=0
+hui gu 	慧谷	c=1 d=2e-08 t=0
+hui hai 	慧海	c=1 d=2e-08 t=0
+hui long 	惠隆	c=1 d=2e-08 t=0
+hui mei 	惠美	c=1 d=2e-08 t=0
+hui pu 	惠普	c=1 d=2e-08 t=0
+hui shi jia 	惠士嘉	c=1 d=2e-08 t=0
+hui wei 	惠威	c=1 d=2e-08 t=0
+hui yuan 	慧源	c=1 d=2e-08 t=0
+ji dian 	极典	c=1 d=2e-08 t=0
+ji jia 	技嘉	c=1 d=2e-08 t=0
+ji meng 	吉盟	c=1 d=2e-08 t=0
+ji su 	极速	c=1 d=2e-08 t=0
+ji zhan 	技展	c=1 d=2e-08 t=0
+jia bai li 	加佰利	c=1 d=2e-08 t=0
+jia de mei 	佳的美	c=1 d=2e-08 t=0
+jia dian xia xiang 	家电下乡	c=1 d=2e-08 t=0
+jia dun 	甲盾	c=1 d=2e-08 t=0
+jian ji 	建基	c=1 d=2e-08 t=0
+jian qi 	建碁	c=1 d=2e-08 t=0
+jian qun 	健群	c=1 d=2e-08 t=0
+jian xing 	建兴	c=1 d=2e-08 t=0
+jie bo 	捷波	c=1 d=2e-08 t=0
+jie jia 	捷嘉	c=1 d=2e-08 t=0
+jie ling 	杰灵	c=1 d=2e-08 t=0
+jie wei 	杰微	c=1 d=2e-08 t=0
+jin bang 	金邦	c=1 d=2e-08 t=0
+jin chang cheng 	金长城	c=1 d=2e-08 t=0
+jin he tian 	金河田	c=1 d=2e-08 t=0
+jin kui hua 	金葵花	c=1 d=2e-08 t=0
+jin lang 	金浪	c=1 d=2e-08 t=0
+jin ming 	金铭	c=1 d=2e-08 t=0
+jin pin 	金品	c=1 d=2e-08 t=0
+jin shan 	金山	c=1 d=2e-08 t=0
+jin shan du ba 	金山毒霸	c=1 d=2e-08 t=0
+jin shan wang dun 	金山网盾	c=1 d=2e-08 t=0
+jin shi gang 	金士刚	c=1 d=2e-08 t=0
+jin shi tai 	金士泰	c=1 d=2e-08 t=0
+jin tai ke 	金泰克	c=1 d=2e-08 t=0
+jin te er 	金特尔	c=1 d=2e-08 t=0
+jin yong 	劲永	c=1 d=2e-08 t=0
+jing ling 	精灵	c=1 d=2e-08 t=0
+jing wei 	精威	c=1 d=2e-08 t=0
+jing xin 	晶芯	c=1 d=2e-08 t=0
+jing ya 	精亚	c=1 d=2e-08 t=0
+jing ying 	精英	c=1 d=2e-08 t=0
+ju feng 	飓风	c=1 d=2e-08 t=0
+jue shi 	爵士	c=1 d=2e-08 t=0
+jun xing 	隽星	c=1 d=2e-08 t=0
+jun yi 	骏一	c=1 d=2e-08 t=0
+ka ba si ji 	卡巴斯基	c=1 d=2e-08 t=0
+kang bai 	康柏	c=1 d=2e-08 t=0
+kang bo 	康博	c=1 d=2e-08 t=0
+kang he 	康和	c=1 d=2e-08 t=0
+kang neng pu shi 	康能普视	c=1 d=2e-08 t=0
+kang shu 	康舒	c=1 d=2e-08 t=0
+ke da 	柯达	c=1 d=2e-08 t=0
+ke di ya 	科迪亚	c=1 d=2e-08 t=0
+ke lu ji 	刻录机	c=1 d=2e-08 t=0
+ke rui jia 	可瑞加	c=1 d=2e-08 t=0
+ke rui wo 	柯瑞沃	c=1 d=2e-08 t=0
+ke shi da 	科士达	c=1 d=2e-08 t=0
+ke wo da 	科沃达	c=1 d=2e-08 t=0
+ku ke 	酷客	c=1 d=2e-08 t=0
+ku leng zhi zun 	酷冷至尊	c=1 d=2e-08 t=0
+lai de 	铼德	c=1 d=2e-08 t=0
+lan bao shi 	蓝宝石	c=1 d=2e-08 t=0
+lan se yao ji 	蓝色妖姬	c=1 d=2e-08 t=0
+lan xin 	兰欣	c=1 d=2e-08 t=0
+lan ya zhi jia 	蓝牙之家	c=1 d=2e-08 t=0
+lang du 	朗度	c=1 d=2e-08 t=0
+lang ke mi ni 	朗科迷你	c=1 d=2e-08 t=0
+lang sheng 	朗胜	c=1 d=2e-08 t=0
+lang shi 	朗视	c=1 d=2e-08 t=0
+le zhi bang 	乐之邦	c=1 d=2e-08 t=0
+lei bo 	雷柏	c=1 d=2e-08 t=0
+lei ke 	磊科	c=1 d=2e-08 t=0
+lei ke sha 	雷克沙	c=1 d=2e-08 t=0
+lei she wang xun 	雷射网讯	c=1 d=2e-08 t=0
+li guang 	理光	c=1 d=2e-08 t=0
+li jie 	力杰	c=1 d=2e-08 t=0
+li jing 	力晶	c=1 d=2e-08 t=0
+li min 	利民	c=1 d=2e-08 t=0
+li sheng 	力胜	c=1 d=2e-08 t=0
+li tai 	丽台	c=1 d=2e-08 t=0
+li te 	力特	c=1 d=2e-08 t=0
+li xiang zhi guang 	理想之光	c=1 d=2e-08 t=0
+li xun 	力迅	c=1 d=2e-08 t=0
+lian bao 	联宝	c=1 d=2e-08 t=0
+lian li 	联力	c=1 d=2e-08 t=0
+lian xiang 	联想	c=1 d=2e-08 t=0
+lian zhi 	联志	c=1 d=2e-08 t=0
+liang tian 	良田	c=1 d=2e-08 t=0
+liang zi 	量子	c=1 d=2e-08 t=0
+lie hu 	猎狐	c=1 d=2e-08 t=0
+ling biao 	灵标	c=1 d=2e-08 t=0
+ling yi 	零壹	c=1 d=2e-08 t=0
+long ji 	龙基	c=1 d=2e-08 t=0
+lu you qi 	路由器	c=1 d=2e-08 t=0
+luo dan 	罗丹	c=1 d=2e-08 t=0
+luo ji 	罗技	c=1 d=2e-08 t=0
+ma ke lai wen sen 	马克莱文森	c=1 d=2e-08 t=0
+ma si te 	玛思特	c=1 d=2e-08 t=0
+mai bo 	麦博	c=1 d=2e-08 t=0
+mai di 	迈笛	c=1 d=2e-08 t=0
+mai ke sai er 	麦克赛尔	c=1 d=2e-08 t=0
+mai pu 	迈普	c=1 d=2e-08 t=0
+mai tuo 	迈拓	c=1 d=2e-08 t=0
+mai wei 	迈威	c=1 d=2e-08 t=0
+man bu zhe 	漫步者	c=1 d=2e-08 t=0
+mei ge 	美格	c=1 d=2e-08 t=0
+mei guang 	镁光	c=1 d=2e-08 t=0
+mei ji 	美基	c=1 d=2e-08 t=0
+mei jiao long 	美蛟龙	c=1 d=2e-08 t=0
+mei jie 	梅捷	c=1 d=2e-08 t=0
+mei lan ri lan 	梅兰日兰	c=1 d=2e-08 t=0
+mei li long 	美丽珑	c=1 d=2e-08 t=0
+mei qi 	美齐	c=1 d=2e-08 t=0
+mei ru hua 	美如画	c=1 d=2e-08 t=0
+mei shang mei 	美上美	c=1 d=2e-08 t=0
+mei shi tong 	每时通	c=1 d=2e-08 t=0
+meng tian 	蒙恬	c=1 d=2e-08 t=0
+meng xiang jia 	梦想家	c=1 d=2e-08 t=0
+ming guan 	铭冠	c=1 d=2e-08 t=0
+ming ji 	明基	c=1 d=2e-08 t=0
+ming xuan 	铭瑄	c=1 d=2e-08 t=0
+ming yue 	明月	c=1 d=2e-08 t=0
+mo su 	魔速	c=1 d=2e-08 t=0
+mo xi 	摩西	c=1 d=2e-08 t=0
+na pu si 	纳普斯	c=1 d=2e-08 t=0
+na si 	纳思	c=1 d=2e-08 t=0
+na wei shi 	纳伟仕	c=1 d=2e-08 t=0
+nan fang gao ke 	南方高科	c=1 d=2e-08 t=0
+nan fang jin zheng 	南方金正	c=1 d=2e-08 t=0
+nei cun 	内存	c=1 d=2e-08 t=0
+neng liang zhi yuan 	能量之源	c=1 d=2e-08 t=0
+ni piao 	妮飘	c=1 d=2e-08 t=0
+niu man 	纽曼	c=1 d=2e-08 t=0
+pan ying 	磐英	c=1 d=2e-08 t=0
+pan zheng 	磐正	c=1 d=2e-08 t=0
+pin ni gao 	品尼高	c=1 d=2e-08 t=0
+ping guo 	苹果	c=1 d=2e-08 t=0
+ping guo xin gai nian 	苹果新概念	c=1 d=2e-08 t=0
+pu nuo fei 	浦诺菲	c=1 d=2e-08 t=0
+qi cai hong 	七彩虹	c=1 d=2e-08 t=0
+qi heng 	启亨	c=1 d=2e-08 t=0
+qi ke 	奇克	c=1 d=2e-08 t=0
+qi lun 	麒仑	c=1 d=2e-08 t=0
+qi meng 	七盟	c=1 d=2e-08 t=0
+qi xi shu ma 	七喜数码	c=1 d=2e-08 t=0
+qi xiang 	祺祥	c=1 d=2e-08 t=0
+qiang yang 	强氧	c=1 d=2e-08 t=0
+qiao hai 	俏海	c=1 d=2e-08 t=0
+qiao wei 	侨威	c=1 d=2e-08 t=0
+qin mao 	勤茂	c=1 d=2e-08 t=0
+qing hua qi tian 	清华奇天	c=1 d=2e-08 t=0
+qing hua tong fang 	清华同方	c=1 d=2e-08 t=0
+qing hua zi guang 	清华紫光	c=1 d=2e-08 t=0
+qing qi bing 	轻骑兵	c=1 d=2e-08 t=0
+qing yun 	青云	c=1 d=2e-08 t=0
+qu shi 	趋势	c=1 d=2e-08 t=0
+quan han 	全汉	c=1 d=2e-08 t=0
+quan ma 	全码	c=1 d=2e-08 t=0
+ri li 	日立	c=1 d=2e-08 t=0
+rui jie wang luo 	锐捷网络	c=1 d=2e-08 t=0
+sai bei si 	赛贝思	c=1 d=2e-08 t=0
+sai nuo wei 	赛诺威	c=1 d=2e-08 t=0
+sai tai ke 	赛钛客	c=1 d=2e-08 t=0
+sai tian 	赛天	c=1 d=2e-08 t=0
+san di 	三帝	c=1 d=2e-08 t=0
+san er 	三尔	c=1 d=2e-08 t=0
+san ling 	三菱	c=1 d=2e-08 t=0
+san nuo 	三诺	c=1 d=2e-08 t=0
+san re bo shi 	散热博士	c=1 d=2e-08 t=0
+san re wang 	散热王	c=1 d=2e-08 t=0
+san xing 	三星	c=1 d=2e-08 t=0
+sang ba da 	桑巴达	c=1 d=2e-08 t=0
+sen hai sai er 	森海塞尔	c=1 d=2e-08 t=0
+sen song ni 	森松尼	c=1 d=2e-08 t=0
+sha du 	杀毒	c=1 d=2e-08 t=0
+sha du ruan jian 	杀毒软件	c=1 d=2e-08 t=0
+shan dun 	山顿	c=1 d=2e-08 t=0
+shan shui 	山水	c=1 d=2e-08 t=0
+shan te 	山特	c=1 d=2e-08 t=0
+shang wang ben 	上网本	c=1 d=2e-08 t=0
+shen zhou 	神舟	c=1 d=2e-08 t=0
+shen zhou shu ma 	神州数码	c=1 d=2e-08 t=0
+sheng chuang 	胜创	c=1 d=2e-08 t=0
+sheng die 	晟碟	c=1 d=2e-08 t=0
+sheng fu 	生富	c=1 d=2e-08 t=0
+sheng ji 	升技	c=1 d=2e-08 t=0
+sheng mai 	声迈	c=1 d=2e-08 t=0
+shi dai 	世代	c=1 d=2e-08 t=0
+shi ji da ji 	世纪大吉	c=1 d=2e-08 t=0
+shi ji guan jun 	世纪冠军	c=1 d=2e-08 t=0
+shi ji zhi xing 	世纪之星	c=1 d=2e-08 t=0
+shi pin jiao cheng 	视频教程	c=1 d=2e-08 t=0
+shi ying 	视盈	c=1 d=2e-08 t=0
+shou hu xing 	守护星	c=1 d=2e-08 t=0
+shou mai 	首迈	c=1 d=2e-08 t=0
+shou tong 	首通	c=1 d=2e-08 t=0
+shu er 	舒尔	c=1 d=2e-08 t=0
+shu guang 	曙光	c=1 d=2e-08 t=0
+shu ke 	数科	c=1 d=2e-08 t=0
+shu ma duo 	数码多	c=1 d=2e-08 t=0
+shuang fei yan 	双飞燕	c=1 d=2e-08 t=0
+shuang jie 	双捷	c=1 d=2e-08 t=0
+shuang min 	双敏	c=1 d=2e-08 t=0
+shui leng wang 	水冷王	c=1 d=2e-08 t=0
+shui xing 	水星	c=1 d=2e-08 t=0
+shuo jing 	硕菁	c=1 d=2e-08 t=0
+shuo mei ke 	硕美科	c=1 d=2e-08 t=0
+shuo tai ke 	硕泰克	c=1 d=2e-08 t=0
+si ba da ke 	斯巴达克	c=1 d=2e-08 t=0
+si hua 	思华	c=1 d=2e-08 t=0
+si ke 	思科	c=1 d=2e-08 t=0
+si min 	思民	c=1 d=2e-08 t=0
+si tong 	四通	c=1 d=2e-08 t=0
+si wei 	思维	c=1 d=2e-08 t=0
+song xia 	松下	c=1 d=2e-08 t=0
+suo ni 	索尼	c=1 d=2e-08 t=0
+suo wei 	索威	c=1 d=2e-08 t=0
+tai an 	泰安	c=1 d=2e-08 t=0
+tai da 	台达	c=1 d=2e-08 t=0
+tai dian 	台电	c=1 d=2e-08 t=0
+tai ji 	跆基	c=1 d=2e-08 t=0
+tai xun 	台讯	c=1 d=2e-08 t=0
+tai yang hua 	太阳花	c=1 d=2e-08 t=0
+teng da 	腾达	c=1 d=2e-08 t=0
+tian lang 	天朗	c=1 d=2e-08 t=0
+tian min 	天敏	c=1 d=2e-08 t=0
+tian pu 	田浦	c=1 d=2e-08 t=0
+tian wei 	天威	c=1 d=2e-08 t=0
+tian ya wu feng 	天涯无风	c=1 d=2e-08 t=0
+tong fang guang pan 	同方光盘	c=1 d=2e-08 t=0
+tong wei 	同维	c=1 d=2e-08 t=0
+tu lang 	土狼	c=1 d=2e-08 t=0
+wan li 	万丽	c=1 d=2e-08 t=0
+wan nuo 	万诺	c=1 d=2e-08 t=0
+wang da 	网达	c=1 d=2e-08 t=0
+wang jian 	网件	c=1 d=2e-08 t=0
+wang xing 	网星	c=1 d=2e-08 t=0
+wei bao 	威宝	c=1 d=2e-08 t=0
+wei er 	微尔	c=1 d=2e-08 t=0
+wei gang 	威刚	c=1 d=2e-08 t=0
+wei ge 	唯歌	c=1 d=2e-08 t=0
+wei ke 	微克	c=1 d=2e-08 t=0
+wei lai zhan shi 	未来战士	c=1 d=2e-08 t=0
+wei ruan 	微软	c=1 d=2e-08 t=0
+wei sheng 	威盛	c=1 d=2e-08 t=0
+wei sheng 	微昇	c=1 d=2e-08 t=0
+wei tong 	威通	c=1 d=2e-08 t=0
+wei wang 	维网	c=1 d=2e-08 t=0
+wei xing 	微星	c=1 d=2e-08 t=0
+wei xun 	伟训	c=1 d=2e-08 t=0
+wei zi 	微子	c=1 d=2e-08 t=0
+wen ming 	文明	c=1 d=2e-08 t=0
+wu zhou 	五舟	c=1 d=2e-08 t=0
+xi ba 	西霸	c=1 d=2e-08 t=0
+xi bu shu ju 	西部数据	c=1 d=2e-08 t=0
+xi jie 	希捷	c=1 d=2e-08 t=0
+xi shi 	希仕	c=1 d=2e-08 t=0
+xia nuo 	侠诺	c=1 d=2e-08 t=0
+xia xin 	夏新	c=1 d=2e-08 t=0
+xian dai 	现代	c=1 d=2e-08 t=0
+xian feng 	先锋	c=1 d=2e-08 t=0
+xian ka 	显卡	c=1 d=2e-08 t=0
+xian ma 	先马	c=1 d=2e-08 t=0
+xian shi qi 	显示器	c=1 d=2e-08 t=0
+xiang jiao 	香蕉	c=1 d=2e-08 t=0
+xiang sheng 	翔升	c=1 d=2e-08 t=0
+xiao dai shu 	小袋鼠	c=1 d=2e-08 t=0
+xiao ying ba 	小影霸	c=1 d=2e-08 t=0
+xin ba da 	辛巴达	c=1 d=2e-08 t=0
+xin gu 	鑫谷	c=1 d=2e-08 t=0
+xin guan dian 	新观点	c=1 d=2e-08 t=0
+xin gui 	新贵	c=1 d=2e-08 t=0
+xin ju 	新巨	c=1 d=2e-08 t=0
+xin ke 	新科	c=1 d=2e-08 t=0
+xin shi 	信实	c=1 d=2e-08 t=0
+xin si lu 	新思路	c=1 d=2e-08 t=0
+xin tai 	新泰	c=1 d=2e-08 t=0
+xin xiang 	欣向	c=1 d=2e-08 t=0
+xing cun 	星存	c=1 d=2e-08 t=0
+xing ying 	星盈	c=1 d=2e-08 t=0
+xing yu quan 	星宇泉	c=1 d=2e-08 t=0
+xun jie 	迅捷	c=1 d=2e-08 t=0
+xun jing 	讯景	c=1 d=2e-08 t=0
+xun tuo 	讯拓	c=1 d=2e-08 t=0
+xun yi 	讯宜	c=1 d=2e-08 t=0
+ya bao 	雅宝	c=1 d=2e-08 t=0
+ya hu 	雅虎	c=1 d=2e-08 t=0
+ya lan shi 	雅兰仕	c=1 d=2e-08 t=0
+ya ma ha 	雅马哈	c=1 d=2e-08 t=0
+ya se 	亚瑟	c=1 d=2e-08 t=0
+ye tian 	冶天	c=1 d=2e-08 t=0
+yi bao 	忆宝	c=1 d=2e-08 t=0
+yi cun 	易存	c=1 d=2e-08 t=0
+yi dian 	艺电	c=1 d=2e-08 t=0
+yi ke 	意科	c=1 d=2e-08 t=0
+yi mei xun 	易美逊	c=1 d=2e-08 t=0
+yi shi kong 	亿时空	c=1 d=2e-08 t=0
+yi tuo 	易拓	c=1 d=2e-08 t=0
+yi zhuo 	艺卓	c=1 d=2e-08 t=0
+yin te mei 	音特美	c=1 d=2e-08 t=0
+yin xin 	银欣	c=1 d=2e-08 t=0
+ying chi 	影驰	c=1 d=2e-08 t=0
+ying fei ling 	英飞凌	c=1 d=2e-08 t=0
+ying jia 	盈佳	c=1 d=2e-08 t=0
+ying mai 	英迈	c=1 d=2e-08 t=0
+ying mei 	映美	c=1 d=2e-08 t=0
+ying pai 	映派	c=1 d=2e-08 t=0
+ying pan 	硬盘	c=1 d=2e-08 t=0
+ying shi di guo 	影视帝国	c=1 d=2e-08 t=0
+ying tai 	映泰	c=1 d=2e-08 t=0
+ying tai 	鹰泰	c=1 d=2e-08 t=0
+ying te er 	英特尔	c=1 d=2e-08 t=0
+ying tong 	盈通	c=1 d=2e-08 t=0
+ying yin da shi 	影音大师	c=1 d=2e-08 t=0
+yong yang 	永阳	c=1 d=2e-08 t=0
+you ji 	友基	c=1 d=2e-08 t=0
+you kang 	友康	c=1 d=2e-08 t=0
+you li 	友立	c=1 d=2e-08 t=0
+you pai 	优派	c=1 d=2e-08 t=0
+you tai 	佑泰	c=1 d=2e-08 t=0
+you ze 	佑泽	c=1 d=2e-08 t=0
+yu xin 	禹信	c=1 d=2e-08 t=0
+yu zhan 	宇瞻	c=1 d=2e-08 t=0
+yuan gang 	圆刚	c=1 d=2e-08 t=0
+yuan ju 	元聚	c=1 d=2e-08 t=0
+yuan xing 	源兴	c=1 d=2e-08 t=0
+yue hai yang bo 	越海扬波	c=1 d=2e-08 t=0
+ze zhi 	泽志	c=1 d=2e-08 t=0
+zhen tian ke ji 	震天科技	c=1 d=2e-08 t=0
+zheng rui 	正睿	c=1 d=2e-08 t=0
+zhi da 	至达	c=1 d=2e-08 t=0
+zhi mei 	志美	c=1 d=2e-08 t=0
+zhi ming 	致铭	c=1 d=2e-08 t=0
+zhi qi 	芝奇	c=1 d=2e-08 t=0
+zhi rong 	致荣	c=1 d=2e-08 t=0
+zhi xiang 	智翔	c=1 d=2e-08 t=0
+zhong bao 	中宝	c=1 d=2e-08 t=0
+zhong guan cun 	中关村	c=1 d=2e-08 t=0
+zhong huan 	中环	c=1 d=2e-08 t=0
+zhong jie zhe 	终结者	c=1 d=2e-08 t=0
+zhong xing 	中兴	c=1 d=2e-08 t=0
+zhong yi shu kuan 	中怡数宽	c=1 d=2e-08 t=0
+zhu ban 	主板	c=1 d=2e-08 t=0
+zhuo mu niao 	啄木鸟	c=1 d=2e-08 t=0
+zuan shi 	钻石	c=1 d=2e-08 t=0
+zuo ni 	佐尼	c=1 d=2e-08 t=0

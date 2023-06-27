@@ -1,0 +1,4 @@
+# luna_pinyin.custom.yaml
+
+patch:
+  "switches/@0/reset": 1

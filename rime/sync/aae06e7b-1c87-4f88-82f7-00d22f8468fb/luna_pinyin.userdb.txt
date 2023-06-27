@@ -1,0 +1,3464 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin
+#@/db_type	userdb
+#@/rime_version	1.7.3
+#@/tick	6912
+#@/user_id	aae06e7b-1c87-4f88-82f7-00d22f8468fb
+a 	啊	c=11 d=0.0676654 t=6912
+a a a a 	啊啊啊啊	c=0 d=9.44524e-07 t=6912
+a a a a a a 	啊啊啊啊啊啊	c=0 d=9.44524e-07 t=6912
+a li 	阿里	c=0 d=1.19555e-14 t=6912
+a li yun 	阿里雲	c=1 d=1.20154e-13 t=6912
+ai 	愛	c=1 d=1.01387e-15 t=6912
+an 	按	c=1 d=0.00272578 t=6912
+an quan 	安全	c=4 d=9.93222e-05 t=6912
+an quan mi yao 	安全密鑰	c=1 d=4.38384e-05 t=6912
+an quan qi dong 	安全啓動	c=1 d=3.23143e-05 t=6912
+an quan xing 	安全性	c=1 d=2.13015e-14 t=6912
+an zhao 	按照	c=1 d=1.45321e-15 t=6912
+an zhuang 	安裝	c=4 d=8.00856e-07 t=6912
+an zhuang ci ku 	安裝詞庫	c=1 d=8.0487e-06 t=6912
+ba 	吧	c=1 d=0.00891728 t=6912
+ba 	把	c=7 d=5.66026e-05 t=6912
+ba gu wen 	八股文	c=1 d=0.0165727 t=6912
+bai du 	百度	c=0 d=1.07101e-14 t=6912
+bai du wang pan 	百度網盤	c=1 d=1.07638e-13 t=6912
+ban 	半	c=1 d=0.0136366 t=6912
+ban 	板	c=1 d=2.47277e-05 t=6912
+ban ben 	版本	c=2 d=7.7518e-06 t=6912
+ban ben hao 	版本號	c=1 d=7.67467e-05 t=6912
+ban ben xin xi 	版本信息	c=1 d=7.79066e-05 t=6912
+ban gong 	辦公	c=1 d=1.17775e-13 t=6912
+ban ma 	斑馬	c=0 d=1.94611e-07 t=6912
+ban ma de 	斑馬的	c=1 d=5.17115e-07 t=6912
+ban ma shou yi 	斑馬獸醫	c=2 d=1.48256e-06 t=6912
+ban yi dao 	搬移到	c=1 d=3.58297e-14 t=6912
+ban zhu ren 	班主任	c=1 d=1.68782e-11 t=6912
+bang ding 	綁定	c=1 d=0.000144603 t=6912
+bang wo 	幫我	c=1 d=0.000283018 t=6912
+bang zhu 	幫助	c=1 d=0.136695 t=6912
+bao 	包	c=2 d=3.78134e-09 t=6912
+bao 	報	c=1 d=0.000190664 t=6912
+bao chi 	保持	c=1 d=0.00437178 t=6912
+bao chi qi 	保持其	c=1 d=0.0439369 t=6912
+bao cun 	保存	c=1 d=6.50841e-08 t=6912
+bao cun le 	保存了	c=1 d=6.54104e-07 t=6912
+bao cuo 	報錯	c=1 d=3.73786e-10 t=6912
+bao dao 	報道	c=4 d=0.000425069 t=6912
+bao dao zheng 	報道證	c=3 d=0.000342137 t=6912
+bao gao 	報告	c=0 d=9.54016e-07 t=6912
+bao han le 	包含了	c=3 d=0.000109471 t=6912
+bao hu de 	保護的	c=1 d=2.69398e-12 t=6912
+bao kuo 	包括	c=14 d=0.00142136 t=6912
+bao kuo de 	包括的	c=1 d=7.19168e-05 t=6912
+bao kuo le 	包括了	c=2 d=0.000167475 t=6912
+bao kuo le yi xia 	包括了以下	c=1 d=7.59831e-05 t=6912
+bao liu 	保留	c=0 d=3.50116e-08 t=6912
+bao liu le 	保留了	c=0 d=0.0384812 t=6912
+bao liu zhe xie 	保留這些	c=1 d=3.51871e-07 t=6912
+bao qian 	抱歉	c=1 d=3.66419e-13 t=6912
+bao shou 	保守	c=0 d=0.0980199 t=6912
+bao you 	抱有	c=1 d=1.84677e-11 t=6912
+bao zheng 	保證	c=2 d=0.930413 t=6912
+bao zhuang 	包裝	c=1 d=0.0100017 t=6912
+bei 	背	c=1 d=0.0164078 t=6912
+bei 	被	c=24 d=0.313497 t=6912
+bei diao yong 	被調用	c=1 d=1.59283e-06 t=6912
+bei guang fan 	被廣泛	c=1 d=0.722527 t=6912
+bei guang fan shi yong 	被廣泛使用	c=1 d=0.172907 t=6912
+bei ji suan 	被計算	c=1 d=3.09829e-10 t=6912
+bei jing 	北京	c=1 d=0.0129068 t=6912
+bei qi ta de 	被其他的	c=1 d=0.00184551 t=6912
+bei ren wei 	被認爲	c=0 d=6.38062e-10 t=6912
+bei xin 	北新	c=0 d=5.44943e-07 t=6912
+bei xin kang yuan 	北新康苑	c=1 d=5.47674e-06 t=6912
+bei zhi xing 	被執行	c=1 d=2.02978e-05 t=6912
+ben 	本	c=0 d=6.23813e-09 t=6912
+ben ren 	本人	c=2 d=4.63498e-11 t=6912
+ben ren bu zhe me jue de 	本人不這麼覺得	c=1 d=6.2694e-08 t=6912
+ben shen 	本身	c=1 d=5.79034e-14 t=6912
+ben tou 	奔頭	c=1 d=1.25339e-10 t=6912
+ben wen 	本文	c=1 d=1.49335e-12 t=6912
+bi 	比	c=5 d=0.225016 t=6912
+bi guan qie 	比關切	c=1 d=1.78725e-08 t=6912
+bi jiao 	比較	c=7 d=5.25105e-06 t=6912
+bi jiao can shu 	比較參數	c=1 d=3.4059e-06 t=6912
+bi jiao da 	比較大	c=0 d=2.91885e-15 t=6912
+bi jiao da de 	比較大的	c=1 d=4.10865e-07 t=6912
+bi jiao de 	比較的	c=0 d=4.78868e-08 t=6912
+bi jiao de shi 	比較的是	c=2 d=4.8248e-07 t=6912
+bi jiao de shi hou 	比較的時候	c=1 d=2.41837e-07 t=6912
+bi jiao rong yi 	比較容易	c=0 d=4.71709e-15 t=6912
+bi jiao rong yi de 	比較容易的	c=1 d=4.74073e-14 t=6912
+bi jiao shi 	比較時	c=1 d=2.38237e-07 t=6912
+bi jiao wan 	比較晚	c=1 d=0.00027603 t=6912
+bi jiao xiang deng 	比較相等	c=1 d=2.25488e-07 t=6912
+bi jing 	畢竟	c=2 d=0.582748 t=6912
+bi mian 	避免	c=1 d=0.0118247 t=6912
+bi mian zhe ge wen ti 	避免這個問題	c=1 d=1.96504e-06 t=6912
+bi ru 	比如	c=25 d=1.86165 t=6912
+bi ru dui yu ru xia cheng xu 	比如對於如下程序	c=1 d=0.0471227 t=6912
+bi te 	比特	c=0 d=4.94277e-06 t=6912
+bi te liu 	比特流	c=2 d=0.000108262 t=6912
+bi xu 	必須	c=8 d=0.0171122 t=6912
+bi xu bei 	必須被	c=1 d=4.78838e-14 t=6912
+bi xu gao 	必須高	c=1 d=4.32225e-15 t=6912
+bi xu shi 	必須是	c=2 d=4.66085e-07 t=6912
+bi xu yao 	必須要	c=0 d=5.40825e-06 t=6912
+bi xu yi 	必須以	c=1 d=1.02849e-07 t=6912
+bi ye 	畢業	c=11 d=0.000219315 t=6912
+bi ye hou 	畢業後	c=1 d=1.14216e-05 t=6912
+bi ye sheng 	畢業生	c=2 d=1.97238e-11 t=6912
+bi ye zheng 	畢業證	c=2 d=0.000160054 t=6912
+bian cheng 	編程	c=3 d=0.0327837 t=6912
+bian cheng ren yuan fei chang nan shou 	編程人員非常難受	c=1 d=0.163654 t=6912
+bian cheng xing 	編程性	c=1 d=0.158817 t=6912
+bian cheng yu yan 	編程語言	c=1 d=7.95075e-09 t=6912
+bian de 	變的	c=0 d=4.16156e-05 t=6912
+bian hua 	變化	c=1 d=1.71245e-05 t=6912
+bian jie 	邊界	c=0 d=1.74402e-15 t=6912
+bian liang 	變量	c=6 d=3.7456e-09 t=6912
+bian liang de 	變量的	c=1 d=5.29017e-10 t=6912
+bian ma 	編碼	c=3 d=1.8899e-14 t=6912
+bian wei 	變爲	c=1 d=1.76979e-08 t=6912
+bian yi 	便宜	c=1 d=1.51226e-13 t=6912
+bian yi 	編譯	c=12 d=2.0444e-09 t=6912
+bian yi qi 	編譯器	c=2 d=3.57593e-07 t=6912
+bian yi qi hui 	編譯器會	c=1 d=3.5449e-06 t=6912
+bian yi wan 	編譯完	c=1 d=2.91132e-13 t=6912
+biao 	表	c=0 d=1.21105e-09 t=6912
+biao da 	表達	c=1 d=0.155673 t=6912
+biao da shi 	表達式	c=11 d=4.97214e-06 t=6912
+biao da shi de 	表達式的	c=1 d=2.52316e-06 t=6912
+biao da shi shi 	表達式時	c=1 d=3.08284e-10 t=6912
+biao da wo de 	表達我的	c=1 d=2.05192e-15 t=6912
+biao ge 	表格	c=2 d=2.01372e-11 t=6912
+biao ji 	標記	c=1 d=1.21676e-14 t=6912
+biao ming 	表明	c=2 d=6.77579e-09 t=6912
+biao shi 	表示	c=10 d=0.0837474 t=6912
+biao shi fu 	標識符	c=1 d=1.18695e-07 t=6912
+biao shi yi ge 	表示一個	c=2 d=3.91509e-08 t=6912
+biao zhi 	標誌	c=0 d=0.0120633 t=6912
+biao zhi xin xi 	標誌信息	c=1 d=0.121238 t=6912
+biao zhun 	標準	c=2 d=0.132489 t=6912
+biao zhun de 	標準的	c=1 d=4.77683e-15 t=6912
+biao zhun ku 	標準庫	c=1 d=6.85538e-07 t=6912
+biao zhun ku nei de 	標準庫內的	c=1 d=3.25604e-06 t=6912
+biao zhun ku zhong 	標準庫中	c=1 d=3.06642e-06 t=6912
+bie ming 	別名	c=2 d=2.55983e-07 t=6912
+bing 	並	c=2 d=8.70528e-06 t=6912
+bing bu 	並不	c=0 d=0.000310451 t=6912
+bing bu hui 	並不會	c=0 d=0.000263203 t=6912
+bing bu jian rong 	並不兼容	c=1 d=2.66672e-10 t=6912
+bing bu shi 	並不是	c=2 d=9.8596e-05 t=6912
+bing bu xian ding 	並不限定	c=1 d=0.00311976 t=6912
+bing bu ying xiang 	並不影響	c=1 d=3.19982e-07 t=6912
+bing chu li 	並處理	c=1 d=1.20674e-05 t=6912
+bing fei 	並非	c=0 d=4.17075e-08 t=6912
+bing mei you 	並沒有	c=2 d=0.481947 t=6912
+bing mei you chu xian 	並沒有出現	c=1 d=0.0485578 t=6912
+bing qie 	並且	c=20 d=1.49466 t=6912
+bing qie jiang 	並且將	c=1 d=1.82336e-08 t=6912
+bing qie ke yi zheng ming 	並且可以證明	c=1 d=0.00115923 t=6912
+bing qie shi 	並且是	c=2 d=4.68222e-06 t=6912
+bing qie ta shi 	並且他是	c=1 d=1.28801e-07 t=6912
+bing qie ti gong 	並且提供	c=1 d=0.147342 t=6912
+bing qie yao gei shi xian zhe 	並且要給實現者	c=1 d=0.142274 t=6912
+bing qie yi huo de 	並且已獲得	c=1 d=3.43125e-05 t=6912
+bing qie you 	並且有	c=0 d=4.0169e-07 t=6912
+bing qie you xiang tong de 	並且有相同的	c=1 d=4.03704e-06 t=6912
+bing wei 	並未	c=0 d=4.14064e-11 t=6912
+bing wei bei shi yong 	並未被使用	c=1 d=4.1614e-10 t=6912
+bing xing 	並行	c=1 d=0.00333999 t=6912
+bing xing de 	並行的	c=1 d=0.00130051 t=6912
+bing xing fa chu ma 	並行發出嗎	c=1 d=0.0026189 t=6912
+bo 	波	c=1 d=8.89973e-12 t=6912
+bu 	不	c=5 d=0.0746284 t=6912
+bu 	步	c=1 d=2.40754e-13 t=6912
+bu an quan 	不安全	c=1 d=3.29671e-05 t=6912
+bu bian 	不變	c=1 d=1.82398e-12 t=6912
+bu chong 	補充	c=0 d=0.000122477 t=6912
+bu chong tu 	不衝突	c=1 d=0.00166672 t=6912
+bu chong tu de 	補充突的	c=1 d=0.00123091 t=6912
+bu da 	不大	c=1 d=2.67408e-13 t=6912
+bu duan 	不斷	c=2 d=6.57191e-11 t=6912
+bu dui 	不對	c=2 d=7.66745e-11 t=6912
+bu duo de 	不多的	c=1 d=8.48616e-11 t=6912
+bu er 	布爾	c=0 d=6.39714e-11 t=6912
+bu er biao da shi 	布爾表達式	c=1 d=6.42921e-10 t=6912
+bu fen 	部分	c=8 d=0.0720106 t=6912
+bu fen he 	部分和	c=1 d=0.00511796 t=6912
+bu fen shi yong ruan jian 	部分使用軟件	c=1 d=7.87566e-15 t=6912
+bu gan 	不敢	c=0 d=2.17843e-14 t=6912
+bu geng xin 	不更新	c=1 d=1.48975e-13 t=6912
+bu guan 	不管	c=0 d=0.000790705 t=6912
+bu guan zai na ge 	不管在哪個	c=1 d=0.00794669 t=6912
+bu guo 	不過	c=2 d=0.00775048 t=6912
+bu hao guo 	不好過	c=1 d=1.22857e-10 t=6912
+bu he fa de 	不合法的	c=1 d=5.38311e-09 t=6912
+bu hui 	不會	c=3 d=0.0224928 t=6912
+bu hui de 	不會的	c=1 d=1.00085e-10 t=6912
+bu hui qi zuo yong 	不會起作用	c=1 d=2.76077e-06 t=6912
+bu hui tai da 	不會太大	c=1 d=0.170333 t=6912
+bu hui zai 	不會再	c=0 d=1.22223e-09 t=6912
+bu hui zai qi ta di fang 	不會再其他地方	c=1 d=1.22836e-08 t=6912
+bu jian 	部件	c=1 d=6.87523e-05 t=6912
+bu jian rong 	不兼容	c=0 d=2.0403e-08 t=6912
+bu jian rong de 	不兼容的	c=1 d=2.05052e-07 t=6912
+bu jiao 	補交	c=2 d=7.56515e-13 t=6912
+bu ke 	不可	c=0 d=2.28896e-08 t=6912
+bu ke bian de 	不可變的	c=1 d=2.30043e-07 t=6912
+bu ke jian 	不可見	c=4 d=0.0235177 t=6912
+bu ke jian de 	不可見的	c=1 d=1.66241e-09 t=6912
+bu ke yi 	不可以	c=0 d=2.51707e-08 t=6912
+bu ke yi ji cheng 	不可以繼承	c=1 d=2.52969e-07 t=6912
+bu lang fei ji suan zi yuan ne 	不浪費計算資源呢	c=1 d=1.06238e-06 t=6912
+bu man zu 	不滿足	c=1 d=3.08651e-09 t=6912
+bu man zu de 	不滿足的	c=1 d=3.09776e-08 t=6912
+bu neng 	不能	c=8 d=0.00013661 t=6912
+bu neng bei 	不能被	c=0 d=3.43242e-10 t=6912
+bu neng bei you hua wei 	不能被優化爲	c=1 d=3.44963e-09 t=6912
+bu neng jie shou 	不能接受	c=0 d=0.00295994 t=6912
+bu neng shi 	不能是	c=1 d=8.65464e-07 t=6912
+bu neng yong 	不能用	c=1 d=1.13099e-07 t=6912
+bu pa ku 	不怕苦	c=1 d=3.45021e-11 t=6912
+bu pi pei 	不匹配	c=1 d=1.80552e-10 t=6912
+bu qing chu 	不清楚	c=1 d=1.51958e-11 t=6912
+bu ran 	不然	c=1 d=7.0177e-11 t=6912
+bu ru dong wu 	哺乳動物	c=2 d=1.39113e-06 t=6912
+bu ru dong wu shou yi 	哺乳動物獸醫	c=1 d=7.44912e-07 t=6912
+bu shi 	不實	c=0 d=3.39065e-13 t=6912
+bu shi 	不是	c=6 d=6.97199e-06 t=6912
+bu shi bi xu yao 	不是必須要	c=1 d=5.43536e-05 t=6912
+bu shi xian 	不實現	c=2 d=7.30783e-12 t=6912
+bu shi yong 	不適用	c=0 d=2.09701e-07 t=6912
+bu shu 	部署	c=2 d=6.33133e-06 t=6912
+bu tai 	不太	c=1 d=2.13079e-14 t=6912
+bu tong 	不同	c=8 d=0.00522777 t=6912
+bu tong de 	不同的	c=1 d=3.68067e-08 t=6912
+bu tong de shi 	不同的是	c=2 d=5.02262e-08 t=6912
+bu tong di zhi de 	不同地址的	c=2 d=5.07445e-12 t=6912
+bu tong lei xing 	不同類型	c=0 d=3.5898e-08 t=6912
+bu wen ding 	不穩定	c=0 d=2.46891e-16 t=6912
+bu xiang 	不向	c=1 d=3.73757e-11 t=6912
+bu xiang 	不想	c=1 d=3.37259e-08 t=6912
+bu xing 	不行	c=1 d=0.0103063 t=6912
+bu xu yao 	不需要	c=2 d=0.0223386 t=6912
+bu yi ding 	不一定	c=1 d=2.02557e-10 t=6912
+bu yi ding zai 	不一定在	c=1 d=0.324652 t=6912
+bu yi yang 	不一樣	c=1 d=1.09001e-14 t=6912
+bu yi yang de 	不一樣的	c=0 d=1.18591e-07 t=6912
+bu yi zhi 	不一致	c=1 d=0.0066709 t=6912
+bu yong 	不用	c=3 d=0.194017 t=6912
+bu yong deng dao 	不用等到	c=1 d=0.285076 t=6912
+bu yong xiang 	不用像	c=1 d=0.666977 t=6912
+bu zheng que 	不正確	c=0 d=0.000211225 t=6912
+bu zhi chi 	不支持	c=3 d=6.11002e-13 t=6912
+bu zhi ding 	不指定	c=1 d=6.96467e-10 t=6912
+bu zhu dong 	不主動	c=1 d=0.00600598 t=6912
+bu zou 	步驟	c=0 d=4.92684e-06 t=6912
+bu zu 	不足	c=1 d=4.13066e-11 t=6912
+ca chu 	擦除	c=0 d=3.38074e-08 t=6912
+cai 	才	c=0 d=0.0955997 t=6912
+cai ji 	採集	c=0 d=9.83572e-13 t=6912
+cai ji biao 	採集表	c=1 d=9.88503e-12 t=6912
+cai ji suan 	才計算	c=1 d=1.81396e-06 t=6912
+cai liao 	材料	c=5 d=5.53179e-06 t=6912
+cai neng 	才能	c=3 d=0.334752 t=6912
+cai neng da dao 	才能達到	c=1 d=0.904837 t=6912
+cai neng fang wen dao 	才能訪問到	c=1 d=0.00436124 t=6912
+cai neng rang 	纔能讓	c=0 d=8.78544e-08 t=6912
+cai yong 	採用	c=1 d=0.0205042 t=6912
+cai yong de 	採用的	c=1 d=6.49161e-06 t=6912
+cai you 	纔有	c=2 d=0.000742862 t=6912
+cai zhi xing 	才執行	c=1 d=0.960789 t=6912
+cai zhi xing ji suan 	才執行計算	c=1 d=1.70832e-06 t=6912
+can jia 	參加	c=2 d=3.17136e-13 t=6912
+can kao 	參考	c=2 d=0.00069264 t=6912
+can shu 	參數	c=14 d=3.06108e-06 t=6912
+can shu chuan di 	參數傳遞	c=1 d=2.93149e-06 t=6912
+can shu de 	參數的	c=1 d=1.52746e-07 t=6912
+can shu hua 	參數化	c=2 d=0.00951658 t=6912
+can shu lei 	參數類	c=1 d=7.10104e-07 t=6912
+can shu lei de 	參數類的	c=2 d=1.3347e-06 t=6912
+cang ku 	倉庫	c=1 d=9.02962e-06 t=6912
+cao 	草	c=4 d=4.4414e-08 t=6912
+cao zu 	曹族	c=1 d=2.00507e-08 t=6912
+cao zuo 	操作	c=21 d=0.0231931 t=6912
+cao zuo de 	操作的	c=2 d=0.0247421 t=6912
+cao zuo de di zhi shi yi yang de 	操作的地址是一樣的	c=1 d=0.0867261 t=6912
+cao zuo fu hao kai shi 	操作符號開始	c=1 d=1.04927e-07 t=6912
+cao zuo han shu 	操作函數	c=1 d=2.8025e-06 t=6912
+cao zuo xi tong 	操作系統	c=8 d=5.70025e-06 t=6912
+cao zuo xi tong de 	操作系統的	c=1 d=7.31927e-07 t=6912
+ce ding 	測定	c=0 d=3.37259e-09 t=6912
+ce lve 	策略	c=0 d=3.07645e-16 t=6912
+ce shi 	測試	c=2 d=7.13856e-06 t=6912
+ceng shu 	層數	c=1 d=7.25014e-12 t=6912
+cha 	差	c=1 d=0.00932553 t=6912
+cha kan 	查看	c=2 d=2.55757e-13 t=6912
+cha ru 	插入	c=2 d=3.24463e-07 t=6912
+cha ru pai xu 	插入排序	c=1 d=2.62613e-06 t=6912
+cha ru zai 	插入在	c=1 d=1.11434e-09 t=6912
+cha zai 	差在	c=1 d=0.0101022 t=6912
+chan sheng de 	產生的	c=1 d=3.76667e-14 t=6912
+chang 	長	c=1 d=1.08141e-09 t=6912
+chang de 	長的	c=0 d=1.09228e-10 t=6912
+chang de kuo hao li mian 	長的括號裏面	c=1 d=1.09775e-09 t=6912
+chang gui 	常規	c=0 d=2.20415e-05 t=6912
+chang jian 	常見	c=3 d=3.4682e-07 t=6912
+chang jian de 	常見的	c=1 d=3.07645e-15 t=6912
+chang jian lei xing 	常見類型	c=1 d=3.27236e-06 t=6912
+chang jing 	場景	c=0 d=2.1717e-07 t=6912
+chang jing bi jiao shao jian 	場景比較少見	c=1 d=2.18259e-06 t=6912
+chang liang 	常量	c=0 d=1.16263e-09 t=6912
+chang liang de 	常量的	c=1 d=1.16845e-08 t=6912
+chang shi 	嘗試	c=2 d=2.76755e-06 t=6912
+chang shu 	常數	c=1 d=1.20404e-08 t=6912
+chang yong de 	常用的	c=1 d=0.110251 t=6912
+chang you 	常有	c=0 d=2.47362e-09 t=6912
+chao chu 	超出	c=0 d=1.07638e-14 t=6912
+chao chu da xiao 	超出大小	c=1 d=1.08178e-13 t=6912
+chao guo 	超過	c=0 d=0.000127476 t=6912
+chao guo yi ge xie 	超過一個寫	c=1 d=0.00128115 t=6912
+chao lei 	超類	c=1 d=1.52668e-07 t=6912
+che 	車	c=1 d=8.7446e-11 t=6912
+chen 	晨	c=1 d=0.0142642 t=6912
+chen 	陳	c=1 d=3.60963e-13 t=6912
+cheng 	成	c=0 d=1.97146e-16 t=6912
+cheng bei 	城北	c=1 d=8.68026e-11 t=6912
+cheng bei zhen 	城北鎮	c=1 d=7.71708e-11 t=6912
+cheng ben 	成本	c=0 d=0.0140858 t=6912
+cheng ben kai xiao 	成本開銷	c=1 d=0.141564 t=6912
+cheng dan 	承擔	c=1 d=2.94008e-11 t=6912
+cheng du 	成都	c=8 d=0.0203979 t=6912
+cheng du 	程度	c=1 d=4.68224e-15 t=6912
+cheng du na li 	成都哪裏	c=1 d=0.0184074 t=6912
+cheng du shi 	成都市	c=1 d=8.29805e-12 t=6912
+cheng gong 	成功	c=1 d=0.0316662 t=6912
+cheng ji 	成績	c=0 d=1.74794e-12 t=6912
+cheng ji you liang 	成績優良	c=1 d=1.7567e-11 t=6912
+cheng le 	成了	c=0 d=4.50645e-07 t=6912
+cheng li 	成立	c=0 d=0.071177 t=6912
+cheng nuo 	承諾	c=0 d=2.38399e-16 t=6912
+cheng wei 	成爲	c=7 d=1.16476 t=6912
+cheng wei 	稱爲	c=6 d=8.87674e-06 t=6912
+cheng wei le wo 	成爲了我	c=1 d=1.98135e-15 t=6912
+cheng xu 	程序	c=21 d=1.16998 t=6912
+cheng xu de 	程序的	c=1 d=0.0604343 t=6912
+cheng xu xing neng 	程序性能	c=1 d=0.0239676 t=6912
+cheng xu yi chu 	程序移除	c=1 d=3.3471e-07 t=6912
+cheng xu yuan 	程序員	c=0 d=0.0748264 t=6912
+cheng xu zhong 	程序中	c=1 d=6.6079e-09 t=6912
+cheng yuan 	成員	c=7 d=2.66051e-07 t=6912
+cheng yuan bian liang 	成員變量	c=3 d=4.45453e-06 t=6912
+cheng yuan han shu 	成員函數	c=1 d=1.11974e-07 t=6912
+cheng yuan han shu de 	成員函數的	c=1 d=8.17173e-08 t=6912
+cheng zhi wei 	稱之爲	c=1 d=2.28382e-10 t=6912
+chi ge fan 	喫個飯	c=1 d=0.0194482 t=6912
+chong 	沖	c=1 d=2.49372e-15 t=6912
+chong 	重	c=2 d=0.000921645 t=6912
+chong fu 	重複	c=2 d=6.7892e-08 t=6912
+chong man 	充滿	c=1 d=3.8514e-11 t=6912
+chong pai xu 	重排序	c=1 d=2.97064e-15 t=6912
+chong tu 	衝突	c=1 d=0.00137763 t=6912
+chong xie 	重寫	c=1 d=1.74283e-06 t=6912
+chong xin 	重新	c=5 d=0.0353633 t=6912
+chong xin ji suan 	重新計算	c=1 d=5.84655e-10 t=6912
+chou gan 	抽乾	c=1 d=0.371577 t=6912
+chou xiang 	抽象	c=1 d=9.70436e-09 t=6912
+chou xiang lei 	抽象類	c=3 d=2.24848e-07 t=6912
+chu 	出	c=1 d=1.83281e-10 t=6912
+chu 	處	c=2 d=0.00895996 t=6912
+chu e 	除惡	c=0 d=0.000151855 t=6912
+chu fa dian 	出發點	c=2 d=0.0428521 t=6912
+chu lai 	出來	c=0 d=4.77276e-06 t=6912
+chu le 	除了	c=2 d=1.53763e-06 t=6912
+chu le zai 	除了在	c=1 d=1.76917e-06 t=6912
+chu li 	處理	c=7 d=0.04767 t=6912
+chu li cuo wu de 	處理錯誤的	c=1 d=2.46128e-08 t=6912
+chu li dan yuan 	處理單元	c=1 d=0.000468957 t=6912
+chu li duo zhong bu tong lei xing de 	處理多種不同類型的	c=1 d=3.60779e-07 t=6912
+chu li han shu 	處理函數	c=1 d=1.3606e-05 t=6912
+chu li he 	處理核	c=1 d=0.000145901 t=6912
+chu li he de 	處理核的	c=1 d=0.00146632 t=6912
+chu li qi 	處理器	c=11 d=0.00968218 t=6912
+chu sheng 	出生	c=1 d=3.24984e-13 t=6912
+chu shi hua 	初始化	c=5 d=0.000259544 t=6912
+chu xian 	出現	c=1 d=0.0308227 t=6912
+chu xian de 	出現的	c=1 d=0.0594521 t=6912
+chu xian de pin lv gao 	出現的頻率高	c=1 d=0.597501 t=6912
+chu xian zai 	出現在	c=1 d=8.72202e-10 t=6912
+chu yu 	處於	c=1 d=0.00293808 t=6912
+chuan bo 	傳播	c=1 d=1.70067e-12 t=6912
+chuan di 	傳遞	c=6 d=3.69012e-06 t=6912
+chuan di gei 	傳遞給	c=2 d=3.82219e-08 t=6912
+chuan shu 	傳輸	c=2 d=3.87153e-05 t=6912
+chuang jian 	創建	c=7 d=0.000729065 t=6912
+chuang jian 	創見	c=2 d=2.8027e-07 t=6912
+chuang jian de 	創建的	c=1 d=5.7189e-15 t=6912
+chuang jian duo ge gou zao qi 	創建多個構造器	c=1 d=4.71388e-06 t=6912
+chuang jian le 	創建了	c=0 d=0.000814786 t=6912
+chuang jian le yi ge 	創建了一個	c=1 d=0.0081887 t=6912
+chuang jian shi 	創建時	c=1 d=2.1992e-07 t=6912
+chuang jian xu bu xu yao 	創建需不需要	c=1 d=2.14491e-07 t=6912
+chuang jian yi ge 	創建一個	c=2 d=6.69154e-07 t=6912
+chuang jian yi ge dui xiang 	創建一個對象	c=1 d=4.30816e-06 t=6912
+chuang xin 	創新	c=0 d=6.16221e-12 t=6912
+ci 	次	c=1 d=0.0137736 t=6912
+ci 	此	c=1 d=1.05201e-12 t=6912
+ci a you 	此啊有	c=1 d=4.35442e-14 t=6912
+ci ku 	詞庫	c=3 d=5.98451e-06 t=6912
+ci shi 	此時	c=1 d=5.08188e-08 t=6912
+ci wai 	此外	c=1 d=2.86749e-11 t=6912
+ci wang zhan 	此網站	c=1 d=1.05489e-11 t=6912
+ci zhi 	辭職	c=0 d=9.54016e-07 t=6912
+ci zhi bao gao 	辭職報告	c=1 d=9.58798e-06 t=6912
+cong 	從	c=17 d=0.230373 t=6912
+cong er 	從而	c=1 d=1.47874e-14 t=6912
+cong zhe 	從這	c=1 d=0.156458 t=6912
+cong zhe zhi hou 	從這之後	c=1 d=4.2756e-05 t=6912
+cu 	粗	c=0 d=0.000332928 t=6912
+cu li du 	粗粒度	c=2 d=0.00677663 t=6912
+cuan gai 	篡改	c=1 d=4.12855e-05 t=6912
+cun 	存	c=3 d=1.92814e-05 t=6912
+cun chu 	存儲	c=0 d=4.34022e-06 t=6912
+cun chu he guan li 	存儲和管理	c=1 d=4.36198e-05 t=6912
+cun fang 	存放	c=0 d=0.00216013 t=6912
+cun fang le 	存放了	c=1 d=0.0217096 t=6912
+cun fang zai 	存放在	c=0 d=0.0196912 t=6912
+cun zai 	存在	c=3 d=0.111084 t=6912
+cun zhen 	村鎮	c=1 d=9.73289e-06 t=6912
+cuo wu 	錯誤	c=1 d=0.0117656 t=6912
+cuo wu chu li 	錯誤處理	c=1 d=2.02522e-08 t=6912
+cuo wu de 	錯誤的	c=0 d=4.57807e-09 t=6912
+da 	大	c=2 d=1.79143e-13 t=6912
+da bao 	打包	c=2 d=2.22405e-13 t=6912
+da bian 	答辯	c=3 d=3.87484e-15 t=6912
+da bu fen 	大部分	c=2 d=5.59914e-12 t=6912
+da cheng 	達成	c=0 d=0.0484325 t=6912
+da cheng yi zhi 	達成一致	c=1 d=0.486752 t=6912
+da dao 	達到	c=1 d=0.0900325 t=6912
+da dao le 	達到了	c=1 d=5.80335e-11 t=6912
+da de 	大的	c=0 d=4.08816e-08 t=6912
+da duo shu 	大多數	c=1 d=0.0553357 t=6912
+da fu 	大幅	c=1 d=4.69356e-14 t=6912
+da gai 	大概	c=1 d=4.47545e-13 t=6912
+da kai 	打開	c=6 d=7.74076e-05 t=6912
+da liang 	大量	c=0 d=3.01348e-08 t=6912
+da liang de 	大量的	c=1 d=3.02859e-07 t=6912
+da pei 	搭配	c=0 d=1.3147e-14 t=6912
+da pei yi ge 	搭配一個	c=1 d=1.32129e-13 t=6912
+da xiao 	大小	c=3 d=3.14405e-06 t=6912
+da xiao de 	大小的	c=1 d=1.11472e-13 t=6912
+da xing 	大型	c=0 d=1.95657e-15 t=6912
+da xing ji 	大型機	c=1 d=1.96637e-14 t=6912
+da xue 	大學	c=2 d=6.46499e-12 t=6912
+da yin 	打印	c=1 d=1.10041e-08 t=6912
+da za hui 	大雜燴	c=1 d=6.36415e-08 t=6912
+dai 	待	c=1 d=6.08618e-12 t=6912
+dai biao 	代表	c=1 d=2.86574e-08 t=6912
+dai biao shi bai 	代表失敗	c=1 d=2.66627e-08 t=6912
+dai gan le 	帶感了	c=1 d=0.0138427 t=6912
+dai lai 	帶來	c=0 d=3.68279e-07 t=6912
+dai le 	待了	c=0 d=0.00134335 t=6912
+dai li 	代理	c=2 d=0.000836159 t=6912
+dai li zhong 	代理中	c=1 d=0.000356206 t=6912
+dai ma 	代碼	c=16 d=0.000904974 t=6912
+dai ma duan 	代碼段	c=1 d=1.22286e-14 t=6912
+dai ma kuai 	代碼塊	c=3 d=2.66173e-09 t=6912
+dai shu 	代數	c=4 d=4.06612e-08 t=6912
+dai ti 	代替	c=3 d=0.000136057 t=6912
+dai you 	帶有	c=1 d=1.61273e-05 t=6912
+dan 	但	c=2 d=1.01639e-07 t=6912
+dan 	單	c=0 d=0.000583371 t=6912
+dan chu li qi 	單處理器	c=1 d=0.000921047 t=6912
+dan diao 	單調	c=1 d=8.03202e-11 t=6912
+dan ge 	單個	c=1 d=4.7293e-15 t=6912
+dan he 	單核	c=1 d=0.0032717 t=6912
+dan he chu li qi 	單核處理器	c=1 d=0.0230521 t=6912
+dan shi 	但是	c=61 d=2.06186 t=6912
+dan shi bing fei zui jing que 	但是並非最精確	c=1 d=4.19166e-07 t=6912
+dan shi dui yu 	但是對於	c=1 d=0.00523397 t=6912
+dan shi dui yu ru xia de cheng xu 	但是對於如下的程序	c=1 d=0.0526021 t=6912
+dan shi hai mei you 	但是還沒有	c=1 d=0.0219278 t=6912
+dan shi ru guo 	但是如果	c=1 d=1.62307e-08 t=6912
+dan shi ru guo yi ge lei 	但是如果一個類	c=1 d=1.53433e-07 t=6912
+dan shi ru shang de 	但是如上的	c=1 d=2.7333e-06 t=6912
+dan shi shi ji shang 	但是實際上	c=1 d=0.50409 t=6912
+dan shi xu yao zai 	但是需要在	c=1 d=4.32975e-06 t=6912
+dan shi yi 	但是以	c=1 d=1.07047e-07 t=6912
+dan shi zai 	但是在	c=0 d=0.0160414 t=6912
+dan shi zai yi xie tiao jian xia 	但是在一些條件下	c=1 d=0.161218 t=6912
+dan wei 	單位	c=1 d=0.000201883 t=6912
+dan wei zhu ti 	單位主體	c=1 d=0.000178665 t=6912
+dan yi 	單一	c=0 d=4.82483e-16 t=6912
+dan yi de 	單一的	c=1 d=4.84902e-15 t=6912
+dan yuan 	單元	c=0 d=5.80706e-05 t=6912
+dan zhe yang 	單這樣	c=1 d=0.00494193 t=6912
+dang 	當	c=2 d=2.45451e-05 t=6912
+dang an 	檔案	c=1 d=8.05281e-12 t=6912
+dang dai 	當代	c=0 d=2.02626e-15 t=6912
+dang dai de 	當代的	c=1 d=2.03642e-14 t=6912
+dang ji 	宕機	c=0 d=3.51202e-15 t=6912
+dang qian 	當前	c=5 d=0.00848706 t=6912
+dang qian de 	當前的	c=2 d=5.68041e-09 t=6912
+dang qian she bei 	當前設備	c=1 d=0.000145549 t=6912
+dang ran 	當然	c=1 d=7.05196e-08 t=6912
+dang ran ye ke yi zhi liao ban ma 	當然也可以治療斑馬	c=1 d=7.08582e-07 t=6912
+dang wo 	當我	c=1 d=1.9321e-13 t=6912
+dang zuo 	當作	c=0 d=8.11412e-14 t=6912
+dao 	到	c=14 d=0.296666 t=6912
+dao chu 	導出	c=4 d=8.19009e-05 t=6912
+dao shi hou 	到時候	c=2 d=0.036007 t=6912
+dao shu 	導數	c=1 d=5.99251e-06 t=6912
+dao zhi 	導致	c=4 d=0.0303496 t=6912
+de 	得	c=3 d=0.0141806 t=6912
+de 	的	c=320 d=9.63879 t=6912
+de biao 	的表	c=1 d=0.0889216 t=6912
+de biao shi fu 	的標識符	c=1 d=1.00813e-07 t=6912
+de chu 	得出	c=1 d=0.0882015 t=6912
+de chu de 	得出得	c=1 d=0.00165327 t=6912
+de dao 	得到	c=2 d=6.63883e-05 t=6912
+de dao de 	得到的	c=3 d=9.40997e-06 t=6912
+de di fang 	的地方	c=0 d=0.0752014 t=6912
+de ding yi 	的定義	c=1 d=0.0839142 t=6912
+de e 	的額	c=2 d=5.38128e-05 t=6912
+de fu lei 	的父類	c=1 d=8.69802e-07 t=6912
+de he 	的核	c=0 d=0.00430669 t=6912
+de hua 	的話	c=0 d=0.00117371 t=6912
+de ji chu 	的基礎	c=0 d=0.000467746 t=6912
+de ji chu shang 	的基礎上	c=1 d=0.106992 t=6912
+de jia 	得加	c=1 d=0.0111647 t=6912
+de kan 	得看	c=1 d=9.23902e-11 t=6912
+de ma 	的嗎	c=0 d=0.00191587 t=6912
+de nei rong 	的內容	c=1 d=0.0288686 t=6912
+de neng li 	的能力	c=0 d=0.014808 t=6912
+de shi hou 	的時候	c=0 d=2.42422e-07 t=6912
+de shi xian 	的實現	c=2 d=0.218824 t=6912
+de shu ju 	的數據	c=0 d=0.00871609 t=6912
+de shu ju bi xu cong 	的數據必須從	c=1 d=0.0875977 t=6912
+de shun xu 	的順序	c=2 d=0.157426 t=6912
+de te shu qing kuang 	的特殊情況	c=1 d=5.32864e-07 t=6912
+de yuan li 	的原理	c=1 d=0.0430669 t=6912
+de zhi 	的值	c=2 d=0.070493 t=6912
+de zhi ling 	的指令	c=1 d=0.0916297 t=6912
+de zhi xing jie guo 	的執行結果	c=1 d=0.0521184 t=6912
+de zhi xing jie guo shi 	的執行結果是	c=1 d=0.0478349 t=6912
+deng 	等	c=4 d=0.782671 t=6912
+deng dai 	等待	c=1 d=0.0224378 t=6912
+deng dai shi jian tai chang le 	等待時間太長了	c=1 d=0.0105672 t=6912
+deng dao 	等到	c=0 d=0.0283654 t=6912
+deng ji 	等級	c=1 d=7.03108e-05 t=6912
+deng ji biao 	登記表	c=2 d=1.98226e-11 t=6912
+deng lu 	登錄	c=0 d=8.76276e-07 t=6912
+deng lu hou 	登錄後	c=1 d=8.80668e-06 t=6912
+deng yi hui er 	等一會兒	c=1 d=1.02902e-13 t=6912
+deng yu 	等於	c=1 d=0.0615532 t=6912
+di 	低	c=1 d=2.30004e-05 t=6912
+di 	地	c=1 d=7.52654e-11 t=6912
+di deng sheng wu 	低等生物	c=0 d=9.39813e-07 t=6912
+di di da da 	滴滴答答	c=0 d=9.44524e-07 t=6912
+di er 	第二	c=1 d=4.22285e-06 t=6912
+di er ge 	第二個	c=0 d=9.37546e-08 t=6912
+di er ge su shu 	第二個素數	c=1 d=9.42245e-07 t=6912
+di fang 	地方	c=1 d=8.94282e-10 t=6912
+di gui 	遞歸	c=4 d=8.7798e-09 t=6912
+di gui de 	遞歸的	c=2 d=1.06765e-09 t=6912
+di ji 	低級	c=0 d=1.10003e-05 t=6912
+di ji de 	低級的	c=2 d=0.444969 t=6912
+di san ge 	第三個	c=0 d=4.59749e-07 t=6912
+di san ge te xing 	第三個特性	c=1 d=4.62054e-06 t=6912
+di si ge 	第四個	c=1 d=4.7375e-06 t=6912
+di yi 	第一	c=0 d=2.09302e-14 t=6912
+di yi ci 	第一次	c=0 d=2.30599e-07 t=6912
+di yi ci yu dao de 	第一次遇到的	c=1 d=2.31755e-06 t=6912
+di yi dian 	低一點	c=1 d=4.21553e-15 t=6912
+di yi ge 	第一個	c=4 d=3.2473e-05 t=6912
+di yi lei 	第一類	c=0 d=8.03065e-10 t=6912
+di yi lei de 	第一類的	c=1 d=8.07091e-09 t=6912
+di yi wei du 	第一維度	c=1 d=2.10351e-13 t=6912
+di zhi 	地址	c=9 d=0.846887 t=6912
+di zhi mei you yi lai de 	地址沒有依賴的	c=1 d=0.514274 t=6912
+dia ma 	嗲嗎	c=1 d=1.7558e-05 t=6912
+dian 	點	c=1 d=0.01649 t=6912
+dian kai 	點開	c=1 d=7.19413e-09 t=6912
+dian nao 	電腦	c=3 d=0.000262576 t=6912
+dian xing de 	典型的	c=1 d=0.000361702 t=6912
+dian yi xia 	點一下	c=1 d=1.67997e-15 t=6912
+dian yuan 	電源	c=1 d=0.000854495 t=6912
+dian yuan guan li 	電源管理	c=0 d=5.65718e-06 t=6912
+dian yuan guan li xiang jin de 	電源管理相近的	c=1 d=5.68554e-05 t=6912
+dian zi 	電子	c=2 d=1.65357e-05 t=6912
+dian zi qian 	電子簽	c=1 d=6.94788e-11 t=6912
+diao 	掉	c=0 d=2.37703e-11 t=6912
+diao du 	調度	c=0 d=0.000147367 t=6912
+diao huan 	調換	c=0 d=0.00526021 t=6912
+diao yong 	調用	c=19 d=1.91252e-05 t=6912
+diao yong de 	調用的	c=1 d=5.9211e-07 t=6912
+diao yong shi 	調用時	c=2 d=6.81789e-10 t=6912
+diao yong zhe de 	調用者的	c=1 d=1.48156e-07 t=6912
+ding 	定	c=2 d=6.53913e-11 t=6912
+ding 	鼎	c=1 d=5.3952e-06 t=6912
+ding dian 	定點	c=1 d=6.52415e-06 t=6912
+ding ding ding ding 	頂頂頂頂	c=0 d=9.44524e-07 t=6912
+ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding di deng sheng wu 	頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂低等生物	c=1 d=9.44524e-06 t=6912
+ding ji 	頂級	c=3 d=3.91358e-09 t=6912
+ding xiang 	定向	c=0 d=8.68147e-15 t=6912
+ding yi 	定義	c=26 d=0.17936 t=6912
+ding yi de 	定義的	c=1 d=6.16116e-09 t=6912
+ding yi hou 	定義後	c=1 d=1.36083e-07 t=6912
+ding yi jian dan de 	定義簡單地	c=1 d=3.32238e-08 t=6912
+ding yi le 	定義了	c=5 d=6.81073e-05 t=6912
+ding yi le yi ge lei 	定義了一個類	c=1 d=3.5725e-09 t=6912
+ding yi wei 	定義爲	c=2 d=3.67364e-06 t=6912
+ding yi yi ge 	定義一個	c=1 d=4.0273e-07 t=6912
+ding yi zai 	定義在	c=3 d=4.21985e-06 t=6912
+dong 	懂	c=0 d=9.00784e-08 t=6912
+dong 	東	c=1 d=8.60541e-11 t=6912
+dong lin cun 	東鄰村	c=1 d=7.75576e-11 t=6912
+dong tai 	動態	c=5 d=0.000147536 t=6912
+dong tai de 	動態的	c=1 d=3.48607e-15 t=6912
+dong tai diao du 	動態調度	c=2 d=0.00389862 t=6912
+dong tai er jin zhi 	動態二進制	c=1 d=1.67563e-14 t=6912
+dong tai fan yi 	動態翻譯	c=1 d=1.57018e-14 t=6912
+dong tai fan yi de 	動態翻譯的	c=1 d=9.33505e-15 t=6912
+dong tai lei xing 	動態類型	c=1 d=1.48899e-07 t=6912
+dong xi 	東西	c=1 d=0.501576 t=6912
+dou 	都	c=12 d=0.201007 t=6912
+dou bei 	都被	c=1 d=0.064894 t=6912
+dou bi 	都比	c=0 d=7.73837e-15 t=6912
+dou bi xu yao 	都比需要	c=1 d=7.77716e-14 t=6912
+dou bu neng 	都不能	c=1 d=0.275271 t=6912
+dou cheng gong 	都成功	c=1 d=2.37008e-05 t=6912
+dou deng yu 	都等於	c=1 d=0.0572688 t=6912
+dou hui 	都會	c=3 d=0.0645729 t=6912
+dou hui bei 	都會被	c=1 d=2.90331e-10 t=6912
+dou hui ji suan yi ci 	都會計算一次	c=1 d=8.67704e-08 t=6912
+dou ke yi 	都可以	c=3 d=0.483655 t=6912
+dou qi yong le 	都啓用了	c=1 d=0.0256042 t=6912
+dou shi 	都是	c=4 d=1.6994e-06 t=6912
+dou shi ji yu 	都是基於	c=1 d=1.92711e-12 t=6912
+dou shi yuan yu 	都是源於	c=1 d=1.49284e-08 t=6912
+dou wei 	都爲	c=1 d=0.0291588 t=6912
+dou xu yao 	都需要	c=1 d=1.73414e-06 t=6912
+dou yao 	都要	c=0 d=3.33846e-07 t=6912
+dou you 	都有	c=2 d=0.292293 t=6912
+dou you yi ge 	都有一個	c=1 d=1.90236e-07 t=6912
+dou zhi jie cong 	都直接從	c=1 d=0.0104099 t=6912
+dou zhi neng you yi ge 	都只能有一個	c=1 d=1.51907e-07 t=6912
+du 	度	c=0 d=0.000334597 t=6912
+du 	讀	c=1 d=0.0766654 t=6912
+du bo 	讀博	c=0 d=0.00155297 t=6912
+du bu fen 	讀部分	c=1 d=0.236928 t=6912
+du cao zuo 	讀操作	c=1 d=0.0243554 t=6912
+du chu 	讀出	c=1 d=0.11408 t=6912
+du chu xian qian 	讀出先前	c=1 d=0.860708 t=6912
+du gong 	督工	c=0 d=2.53141e-16 t=6912
+du guo 	讀過	c=1 d=0.0327124 t=6912
+du hui 	都會	c=1 d=2.41254e-08 t=6912
+du qu 	讀取	c=4 d=0.322586 t=6912
+du xie 	讀寫	c=4 d=0.332633 t=6912
+du xie quan 	讀寫全	c=1 d=0.293758 t=6912
+du xie quan xian 	讀寫權限	c=1 d=0.299692 t=6912
+du xie shun xu 	讀寫順序	c=1 d=0.516851 t=6912
+du zhi ling 	讀指令	c=1 d=0.215456 t=6912
+du zi 	獨自	c=0 d=0.000110822 t=6912
+du zi de 	獨自的	c=1 d=0.00111378 t=6912
+duan 	端	c=1 d=0.000121572 t=6912
+duan de 	端的	c=2 d=0.000139487 t=6912
+duan dian 	斷電	c=1 d=1.34706e-05 t=6912
+duan dian 	斷點	c=1 d=6.65934e-12 t=6912
+duan lian 	鍛鍊	c=1 d=3.66356e-11 t=6912
+duan yan 	斷言	c=1 d=9.25978e-08 t=6912
+dui 	對	c=29 d=0.126143 t=6912
+dui cheng xu 	對程序	c=1 d=0.0234005 t=6912
+dui de 	對的	c=0 d=0.022313 t=6912
+dui kou 	對口	c=1 d=8.31812e-11 t=6912
+dui le 	對了	c=0 d=5.62992e-08 t=6912
+dui lei de 	對類的	c=1 d=1.613e-07 t=6912
+dui lie 	隊列	c=1 d=0.000488095 t=6912
+dui nei cun de xie 	對內存的寫	c=1 d=0.00408677 t=6912
+dui shi xian 	對實現	c=1 d=0.232236 t=6912
+dui shu ju 	對數據	c=1 d=0.00609675 t=6912
+dui tong yi ge di zhi de 	對同一個地址的	c=1 d=0.865022 t=6912
+dui xiang 	對象	c=11 d=2.67638e-06 t=6912
+dui xiang de 	對象的	c=1 d=1.66773e-07 t=6912
+dui xiang de cheng yuan bian liang shi fou yi zhi 	對象的成員變量是否一致	c=1 d=2.45492e-07 t=6912
+dui yi ge 	對一個	c=1 d=0.00126207 t=6912
+dui ying 	對應	c=1 d=5.41193e-13 t=6912
+dui ying de 	對應的	c=3 d=0.00516662 t=6912
+dui yu 	對於	c=20 d=1.58129 t=6912
+dui yu bu chong tu de 	對於不衝突的	c=1 d=0.00381048 t=6912
+dui yu hu chi de 	對於互斥的	c=1 d=0.00360656 t=6912
+duo ci 	多次	c=0 d=3.83309e-07 t=6912
+duo ci diao yong 	多次調用	c=1 d=1.91652e-06 t=6912
+duo ci ji suan 	多次計算	c=1 d=1.93578e-06 t=6912
+duo ge 	多個	c=8 d=0.634778 t=6912
+duo ge he 	多個核	c=2 d=0.00104368 t=6912
+duo ge zhi 	多個值	c=1 d=3.6902e-08 t=6912
+duo he 	多核	c=3 d=0.00240653 t=6912
+duo he qing kuang xia 	多核情況下	c=1 d=0.0238732 t=6912
+duo ji 	多級	c=1 d=3.61025e-15 t=6912
+duo le 	多了	c=0 d=0.00963276 t=6912
+duo ren wu 	多任務	c=1 d=0.000916453 t=6912
+duo shao 	多少	c=3 d=0.000243596 t=6912
+duo tai 	多態	c=3 d=9.95523e-07 t=6912
+duo tai de 	多態的	c=1 d=3.71766e-07 t=6912
+duo xian cheng 	多線程	c=2 d=0.0153608 t=6912
+duo xian cheng de 	多線程的	c=1 d=0.0171063 t=6912
+duo xian cheng de cheng xu 	多線程的程序	c=1 d=0.132655 t=6912
+duo yi dian 	多一點	c=1 d=1.2949e-11 t=6912
+duo zhong 	多種	c=0 d=1.11592e-07 t=6912
+duo zhong shi li 	多種實例	c=1 d=3.90827e-07 t=6912
+e 	額	c=0 d=0.0909373 t=6912
+e gao 	惡搞	c=0 d=1.11453e-12 t=6912
+e wai de 	額外的	c=1 d=1.16002e-11 t=6912
+e xin 	噁心	c=1 d=4.40957e-15 t=6912
+en 	恩	c=6 d=0.0190802 t=6912
+er 	而	c=12 d=0.464693 t=6912
+er bu neng 	而不能	c=0 d=0.000440507 t=6912
+er bu neng zhi jie dui 	而不能直接對	c=1 d=0.00442715 t=6912
+er bu shi 	而不是	c=1 d=1.53141e-14 t=6912
+er er 	二二	c=0 d=9.71437e-14 t=6912
+er fei 	而非	c=1 d=1.96604e-12 t=6912
+er jin zhi 	二進制	c=4 d=9.42085e-05 t=6912
+er jin zhi fan yi de 	二進制翻譯的	c=2 d=2.33921e-14 t=6912
+er jin zhi ge shi de 	二進制格式的	c=1 d=6.19521e-15 t=6912
+er ke yi 	而可以	c=1 d=3.31436e-09 t=6912
+er ling 	二〇	c=0 d=9.71437e-14 t=6912
+er ling er er 	二〇二二	c=1 d=9.76306e-13 t=6912
+er qi ta de 	而其他的	c=1 d=3.46633e-07 t=6912
+er qie 	而且	c=4 d=0.0119742 t=6912
+er yan 	而言	c=0 d=5.80138e-08 t=6912
+fa 	發	c=1 d=4.70491e-13 t=6912
+fa chu 	發出	c=1 d=0.00353592 t=6912
+fa chu jing gao 	發出警告	c=1 d=4.91979e-09 t=6912
+fa gei 	發給	c=1 d=1.54307e-15 t=6912
+fa guo 	發過	c=0 d=1.43158e-16 t=6912
+fa ming 	發明	c=0 d=2.51878e-16 t=6912
+fa ming de 	發明的	c=1 d=2.53141e-15 t=6912
+fa piao 	發票	c=3 d=0.000824716 t=6912
+fa she 	發射	c=1 d=0.00140882 t=6912
+fa sheng 	發生	c=1 d=4.37684e-11 t=6912
+fa sheng le 	發生了	c=1 d=1.24134e-14 t=6912
+fa sheng zai 	發生在	c=1 d=2.74841e-12 t=6912
+fa song zhe 	發送者	c=2 d=0.000906853 t=6912
+fa song zhe suo 	發送者所	c=1 d=0.000413853 t=6912
+fa xian 	發現	c=1 d=1.97113e-13 t=6912
+fan dao 	反倒	c=0 d=0.0574072 t=6912
+fan hua 	泛化	c=1 d=4.59084e-07 t=6912
+fan hua xing 	泛化性	c=1 d=7.63769e-07 t=6912
+fan hui 	返回	c=8 d=0.00269434 t=6912
+fan hui de 	返回的	c=1 d=1.32127e-06 t=6912
+fan hui de zhi 	返回的值	c=1 d=0.0023344 t=6912
+fan hui de zhi shi yi ge 	返回的只是一個	c=1 d=1.2405e-06 t=6912
+fan hui shi 	返回是	c=1 d=6.03814e-07 t=6912
+fan hui yi ge 	返回一個	c=1 d=1.66919e-07 t=6912
+fan hui zhi 	返回值	c=2 d=1.36893e-07 t=6912
+fan hui zhi ke neng wei 	返回值可能爲	c=1 d=2.0869e-08 t=6912
+fan hui zhi lei xing 	返回值類型	c=1 d=6.82677e-10 t=6912
+fan hui zhi qi shi shi bu yi yang de 	返回值其實是不一樣的	c=1 d=1.19185e-06 t=6912
+fan kui biao 	反饋表	c=1 d=1.10382e-15 t=6912
+fan ti zi 	繁體字	c=1 d=4.63565e-15 t=6912
+fan wei 	範圍	c=1 d=2.23206e-05 t=6912
+fan ye 	翻頁	c=1 d=8.76872e-14 t=6912
+fan yi 	翻譯	c=9 d=3.02807e-05 t=6912
+fan yi hou 	翻譯後	c=1 d=1.44223e-14 t=6912
+fan yi hou de 	翻譯後的	c=1 d=1.15164e-14 t=6912
+fan yi qi 	翻譯器	c=3 d=3.77651e-14 t=6912
+fan yi wei 	翻譯爲	c=1 d=1.04945e-09 t=6912
+fan yi zhi hou de 	翻譯之後的	c=2 d=2.68973e-14 t=6912
+fan yi zhi qian 	翻譯之前	c=1 d=1.07917e-14 t=6912
+fan zhuan 	反轉	c=0 d=6.67317e-08 t=6912
+fan zhuan le 	反轉了	c=1 d=6.70662e-07 t=6912
+fang 	放	c=1 d=8.09318e-12 t=6912
+fang 	防	c=1 d=6.31821e-11 t=6912
+fang bian 	方便	c=2 d=3.97297e-05 t=6912
+fang bian de 	方便的	c=1 d=0.0131336 t=6912
+fang cun 	訪存	c=7 d=1.29276 t=6912
+fang cun ba 	訪存吧	c=1 d=0.0101529 t=6912
+fang cun zhi ling 	訪存指令	c=1 d=0.546074 t=6912
+fang dao 	放到	c=0 d=7.39283e-07 t=6912
+fang dao le 	放到了	c=1 d=7.42989e-06 t=6912
+fang fa 	方法	c=27 d=0.289206 t=6912
+fang fa de 	方法的	c=1 d=4.01758e-08 t=6912
+fang kuan 	放寬	c=1 d=0.0964174 t=6912
+fang kuan le 	放寬了	c=1 d=0.511709 t=6912
+fang mian 	方面	c=1 d=5.71695e-11 t=6912
+fang ru 	放入	c=3 d=0.0880904 t=6912
+fang shi 	方式	c=3 d=3.16439e-10 t=6912
+fang song 	放鬆	c=0 d=0.0574072 t=6912
+fang song ta men de shun xu fan dao you li yu 	放鬆他們的順序反倒有利於	c=1 d=0.57695 t=6912
+fang wen 	訪問	c=14 d=0.0149532 t=6912
+fang xiang 	方向	c=1 d=1.83756e-11 t=6912
+fang zai 	放在	c=2 d=2.89503e-05 t=6912
+fang zai yi ge 	放在一個	c=1 d=1.09228e-09 t=6912
+fang zhen 	仿真	c=2 d=2.56779e-10 t=6912
+fang zhi 	放置	c=0 d=1.45975e-10 t=6912
+fang zhi 	防止	c=4 d=0.494447 t=6912
+fang zhi zai 	放置在	c=1 d=1.46707e-09 t=6912
+fei 	非	c=0 d=0.00471746 t=6912
+fei bang ding 	非綁定	c=2 d=0.100958 t=6912
+fei bang ding yu qu 	非綁定預取	c=1 d=0.00271728 t=6912
+fei bang ding yu qu bing bu hui 	非綁定預取並不會	c=1 d=0.00264522 t=6912
+fei chang 	非常	c=1 d=0.0327039 t=6912
+fei chang da 	非常大	c=0 d=1.18672e-15 t=6912
+fei chang da de 	非常大的	c=1 d=1.19267e-14 t=6912
+fei chang duo 	非常多	c=1 d=3.84277e-07 t=6912
+fei chang duo de 	非常多的	c=1 d=9.95521e-07 t=6912
+fei chang guang fan 	非常廣泛	c=1 d=5.9043e-08 t=6912
+fei chang jian dan de 	非常簡單的	c=1 d=0.00460782 t=6912
+fei chang jie jin 	非常接近	c=1 d=0.160414 t=6912
+fei chang lang fei ji suan zi yuan 	非常浪費計算資源	c=1 d=9.56486e-07 t=6912
+fei chang zhong yao 	非常重要	c=0 d=1.07825e-05 t=6912
+fei dei 	非得	c=1 d=8.38288e-14 t=6912
+fei di gui 	非遞歸	c=1 d=6.86098e-10 t=6912
+fei ding xiang 	非定向	c=1 d=8.72499e-14 t=6912
+fei ge 	飛哥	c=1 d=0.0152985 t=6912
+fei shu ju yi lai de 	非數據依賴的	c=1 d=0.0459593 t=6912
+fei xu 	廢墟	c=0 d=4.15927e-05 t=6912
+fen bie 	分別	c=1 d=5.6328e-13 t=6912
+fen bie wei 	分別爲	c=1 d=4.14135e-12 t=6912
+fen gong si 	分公司	c=1 d=0.000204488 t=6912
+fen jie 	分解	c=0 d=2.27205e-09 t=6912
+fen kai 	分開	c=0 d=2.40795e-16 t=6912
+fen lei 	分類	c=0 d=2.21519e-05 t=6912
+fen mu 	分母	c=0 d=5.99251e-07 t=6912
+fen qu 	分區	c=0 d=2.80927e-06 t=6912
+fen wei 	分爲	c=2 d=0.000507874 t=6912
+fen wei le 	分爲了	c=1 d=5.25199e-13 t=6912
+fen xi 	分析	c=2 d=7.98943e-06 t=6912
+fen zhi 	分支	c=5 d=0.0353101 t=6912
+fen zhi yu qu 	分支預取	c=1 d=0.00136719 t=6912
+fen zi 	分子	c=0 d=5.99251e-07 t=6912
+fen zi fen mu 	分子分母	c=1 d=6.02255e-06 t=6912
+feng fu 	豐富	c=1 d=3.21696e-11 t=6912
+feng mian 	封面	c=4 d=3.86661e-12 t=6912
+feng xian 	風險	c=1 d=9.18061e-06 t=6912
+feng zhuang 	封裝	c=0 d=5.88805e-06 t=6912
+fou ze 	否則	c=1 d=0.759572 t=6912
+fu 	賦	c=0 d=7.4684e-09 t=6912
+fu dan 	負擔	c=1 d=3.81308e-11 t=6912
+fu gai 	覆蓋	c=1 d=9.07797e-10 t=6912
+fu gei 	賦給	c=1 d=0.000464291 t=6912
+fu hao 	符號	c=1 d=1.7176e-07 t=6912
+fu hao biao shi 	符號表示	c=1 d=5.77244e-07 t=6912
+fu jia 	附加	c=1 d=1.13705e-11 t=6912
+fu jian 	附件	c=2 d=8.1644e-13 t=6912
+fu lei 	父類	c=2 d=1.16364e-06 t=6912
+fu mu 	父母	c=1 d=3.77513e-11 t=6912
+fu wei 	復位	c=2 d=5.34577e-05 t=6912
+fu wei hou 	復位後	c=1 d=1.99956e-05 t=6912
+fu wei qing qiu 	復位請求	c=1 d=1.54176e-05 t=6912
+fu wei xin hao 	復位信號	c=1 d=1.21279e-05 t=6912
+fu wu 	服務	c=1 d=0.00596121 t=6912
+fu wu mei yi ge he 	服務每一個核	c=1 d=0.00379148 t=6912
+fu wu mo shi 	服務模式	c=1 d=2.44226e-05 t=6912
+fu wu qi 	服務器	c=2 d=1.29657e-10 t=6912
+fu wu qi dang ji 	服務器宕機	c=1 d=3.52962e-14 t=6912
+fu wu qi de 	服務器的	c=1 d=3.40822e-14 t=6912
+fu wu qi shang 	服務器上	c=1 d=3.61898e-14 t=6912
+fu yan jiu yuan 	副研究員	c=2 d=1.77122e-12 t=6912
+fu yi ge 	賦一個	c=1 d=7.50584e-08 t=6912
+fu yong 	復用	c=3 d=0.0102569 t=6912
+fu za de 	複雜的	c=1 d=3.19211e-08 t=6912
+fu za du 	複雜度	c=1 d=0.0393602 t=6912
+fu zai 	負載	c=1 d=2.61481e-14 t=6912
+fu ze 	負責	c=2 d=5.78036e-05 t=6912
+fu zhai 	負債	c=0 d=2.58879e-15 t=6912
+fu zhi 	複製	c=1 d=8.85082e-06 t=6912
+fu zhi 	賦值	c=1 d=4.32735e-10 t=6912
+fu zhi dao 	複製到	c=1 d=0.000520875 t=6912
+fu zhi de 	賦值的	c=2 d=0.000528747 t=6912
+fu zhu 	輔助	c=1 d=5.00792e-12 t=6912
+gai 	該	c=5 d=0.0227755 t=6912
+gai bian 	改變	c=2 d=0.0374406 t=6912
+gai di 	該地	c=0 d=3.05268e-13 t=6912
+gai di zhi 	該地址	c=1 d=3.06799e-12 t=6912
+gai mo xing 	該模型	c=1 d=0.172045 t=6912
+gai nian 	概念	c=1 d=2.68794e-15 t=6912
+gai pai 	改派	c=2 d=0.000343131 t=6912
+gai zao 	改造	c=1 d=1.70861e-08 t=6912
+gan 	感	c=1 d=1.81051e-13 t=6912
+gan 	敢	c=1 d=1.8981e-10 t=6912
+gan jue 	感覺	c=5 d=0.0179329 t=6912
+gan ma 	幹嘛	c=1 d=0.0182243 t=6912
+gan xie 	感謝	c=2 d=4.13474e-15 t=6912
+gan zhi 	感知	c=1 d=0.000415927 t=6912
+gao 	高	c=0 d=0.0594544 t=6912
+gao gong hao 	高功耗	c=1 d=2.3348e-05 t=6912
+gao ji 	高級	c=0 d=9.09683e-06 t=6912
+gao ji zong he shi 	高級綜合時	c=1 d=9.14242e-05 t=6912
+gao jie 	高階	c=2 d=1.56054e-08 t=6912
+gao jie han shu 	高階函數	c=1 d=8.56998e-09 t=6912
+gao su 	告訴	c=1 d=1.16563e-09 t=6912
+gao xin 	高新	c=1 d=8.91914e-12 t=6912
+gao xin nan qu 	高新南區	c=1 d=7.89335e-12 t=6912
+gao yi ge 	搞一個	c=1 d=3.69208e-14 t=6912
+ge 	個	c=10 d=0.143442 t=6912
+ge 	各	c=1 d=0.00035443 t=6912
+ge 	哥	c=3 d=0.0143697 t=6912
+ge bi 	隔壁	c=1 d=0.013912 t=6912
+ge fang mian 	各方面	c=1 d=2.37129e-11 t=6912
+ge ge 	各個	c=2 d=0.465404 t=6912
+ge ge 	哥哥	c=1 d=6.84094e-05 t=6912
+ge jiao du 	個角度	c=1 d=0.157237 t=6912
+ge li 	隔離	c=3 d=1.4249e-13 t=6912
+ge li de 	隔離的	c=1 d=2.45025e-14 t=6912
+ge ren 	個人	c=3 d=0.0115106 t=6912
+ge shi 	格式	c=2 d=9.46807e-05 t=6912
+ge shi de 	哥使得	c=1 d=7.44785e-05 t=6912
+ge shu 	個數	c=1 d=1.22434e-08 t=6912
+ge shu de 	個數的	c=1 d=6.75769e-08 t=6912
+ge ti 	個體	c=1 d=8.46569e-12 t=6912
+ge zhong 	各種	c=1 d=0.0147342 t=6912
+ge zhong mo xing jian 	各種模型間	c=1 d=0.14808 t=6912
+gei 	給	c=7 d=0.0142373 t=6912
+gei ding 	給定	c=0 d=3.05164e-09 t=6912
+gei ding de 	給定的	c=1 d=3.06694e-08 t=6912
+gei han shu de 	給函數的	c=1 d=5.56141e-10 t=6912
+gei ji lu 	給記錄	c=1 d=1.16322e-14 t=6912
+gei le 	給了	c=2 d=0.000448326 t=6912
+gei nin 	給您	c=0 d=1.43158e-16 t=6912
+gei nin fa guo 	給您發過	c=1 d=1.43875e-15 t=6912
+gei ta 	給他	c=1 d=1.70038e-10 t=6912
+gen 	跟	c=0 d=1.04927e-08 t=6912
+gen ju 	根據	c=5 d=9.49486e-08 t=6912
+geng 	更	c=5 d=0.675965 t=6912
+geng duo de 	更多的	c=0 d=0.0412714 t=6912
+geng duo de ruan ying jian you hua 	更多的軟硬件優化	c=1 d=0.414783 t=6912
+geng gai 	更改	c=2 d=1.70574e-13 t=6912
+geng ji jin 	更激進	c=1 d=0.00577048 t=6912
+geng jia 	更加	c=0 d=4.29777e-08 t=6912
+geng jia jing que 	更加精確	c=1 d=4.31931e-07 t=6912
+geng jian dan 	更簡單	c=1 d=0.644036 t=6912
+geng jian dan de 	更簡單地	c=1 d=4.69116e-08 t=6912
+geng qiang 	更強	c=0 d=7.5617e-08 t=6912
+geng qiang de 	更強的	c=1 d=7.5996e-07 t=6912
+geng wei 	更爲	c=1 d=0.000197455 t=6912
+geng xin 	更新	c=2 d=1.78343e-13 t=6912
+geng zao 	更早	c=1 d=0.0235327 t=6912
+geng zao de 	更早的	c=2 d=0.561107 t=6912
+geng zhi guan 	更直觀	c=1 d=0.13466 t=6912
+gong 	工	c=2 d=3.24942e-11 t=6912
+gong chang 	工廠	c=0 d=4.57456e-07 t=6912
+gong chang fang fa 	工廠方法	c=1 d=4.59749e-06 t=6912
+gong cheng 	工程	c=1 d=9.61771e-13 t=6912
+gong cheng shi 	工程師	c=1 d=3.33154e-11 t=6912
+gong di 	功底	c=1 d=1.33757e-10 t=6912
+gong dian 	供電	c=1 d=2.22093e-05 t=6912
+gong du 	攻讀	c=1 d=1.78325e-11 t=6912
+gong hao 	功耗	c=2 d=0.0539974 t=6912
+gong hao he 	功耗和	c=1 d=0.140858 t=6912
+gong hao yu 	功耗域	c=1 d=1.24349e-05 t=6912
+gong ju 	工具	c=1 d=0.0451162 t=6912
+gong ju huo zhe 	工具或者	c=1 d=0.447088 t=6912
+gong neng 	功能	c=1 d=5.71404e-05 t=6912
+gong shi 	公式	c=0 d=0.0218615 t=6912
+gong si 	公司	c=1 d=3.0754e-11 t=6912
+gong tong 	共同	c=0 d=1.45598e-09 t=6912
+gong tong zu xian 	共同祖先	c=1 d=1.46328e-08 t=6912
+gong xian 	貢獻	c=1 d=2.54323e-11 t=6912
+gong xiang 	共享	c=2 d=0.000355287 t=6912
+gong xiang le 	共享了	c=1 d=0.00357068 t=6912
+gong yao 	公鑰	c=1 d=5.58738e-06 t=6912
+gong ying lian 	供應鏈	c=2 d=1.92965e-10 t=6912
+gong ying shang 	供應商	c=1 d=8.15341e-11 t=6912
+gong you 	共有	c=1 d=0.000430743 t=6912
+gong zuo 	工作	c=5 d=0.0161822 t=6912
+gong zuo de 	工作地	c=1 d=1.08646e-05 t=6912
+gong zuo fu zhai 	工作負債	c=1 d=2.60177e-14 t=6912
+gong zuo shang 	工作上	c=1 d=2.89631e-11 t=6912
+gou 	夠	c=0 d=4.14995e-08 t=6912
+gou jian 	構建	c=2 d=1.56115e-08 t=6912
+gou jian yi ge 	構建一個	c=1 d=5.35626e-09 t=6912
+gou zao 	構造	c=1 d=9.45398e-08 t=6912
+gou zao han shu 	構造函數	c=5 d=3.19506e-07 t=6912
+gou zao han shu wei 	構造函數爲	c=1 d=1.15086e-06 t=6912
+gou zao qi 	構造器	c=2 d=5.64392e-07 t=6912
+gu jian 	固件	c=4 d=0.000237095 t=6912
+gu jian dai ma 	固件代碼	c=1 d=1.40906e-05 t=6912
+gu piao 	股票	c=1 d=1.20134e-11 t=6912
+gu ran 	固然	c=0 d=0.0548812 t=6912
+gu ran zhong yao 	固然重要	c=1 d=0.551563 t=6912
+gu tai 	固態	c=1 d=7.65746e-08 t=6912
+guan fang 	官方	c=0 d=7.07114e-13 t=6912
+guan fang de 	官方的	c=1 d=7.10658e-12 t=6912
+guan jian 	關鍵	c=1 d=2.10788e-09 t=6912
+guan jian bu tong 	關鍵不同	c=1 d=2.11844e-08 t=6912
+guan jian de 	關鍵的	c=1 d=0.000816895 t=6912
+guan jian zi 	關鍵字	c=0 d=4.26529e-07 t=6912
+guan jian zi lai 	關鍵字來	c=1 d=4.28667e-06 t=6912
+guan li 	管理	c=4 d=0.00152983 t=6912
+guan li dan yuan 	管理單元	c=1 d=1.85508e-05 t=6912
+guan li de 	管理的	c=0 d=1.18285e-06 t=6912
+guan li fu wu 	管理服務	c=0 d=5.17027e-06 t=6912
+guan li ruan jian 	管理軟件	c=1 d=2.97782e-14 t=6912
+guan li yuan 	管理員	c=1 d=5.96262e-06 t=6912
+guan qie 	關切	c=0 d=1.77834e-09 t=6912
+guan xi 	關係	c=3 d=0.000881293 t=6912
+guan xi bei 	關係被	c=2 d=1.32824e-06 t=6912
+guan yu 	關於	c=2 d=0.00702022 t=6912
+guang an shi 	廣安市	c=2 d=5.34158e-06 t=6912
+guang fan 	廣泛	c=0 d=0.0890969 t=6912
+guang fan de 	廣泛的	c=0 d=0.0145876 t=6912
+guang fan de cai yong 	廣泛的採用	c=1 d=0.146607 t=6912
+gui ding le 	規定了	c=1 d=0.00302755 t=6912
+gui ze 	規則	c=3 d=2.76421e-12 t=6912
+guo 	過	c=1 d=1.55081e-15 t=6912
+guo cheng 	過程	c=1 d=8.80956e-05 t=6912
+guo cheng zhong 	過程中	c=1 d=2.79764e-15 t=6912
+guo jia 	國家	c=1 d=2.53055e-11 t=6912
+guo lv 	過濾	c=0 d=1.71718e-09 t=6912
+guo lv yuan su 	過濾元素	c=1 d=1.72578e-08 t=6912
+guo nei 	國內	c=1 d=8.83248e-11 t=6912
+guo zao 	過早	c=1 d=2.64064e-12 t=6912
+ha 	哈	c=0 d=7.41449e-12 t=6912
+ha po niang 	哈婆娘	c=1 d=7.45165e-11 t=6912
+hai 	還	c=7 d=0.000903352 t=6912
+hai bu neng 	還不能	c=1 d=1.56613e-13 t=6912
+hai bu ru 	還不如	c=0 d=1.22857e-11 t=6912
+hai bu ru qu 	還不如去	c=1 d=1.23473e-10 t=6912
+hai er 	海爾	c=0 d=4.32005e-10 t=6912
+hai er ke yi 	海爾可以	c=1 d=4.3417e-09 t=6912
+hai ke yi 	還可以	c=1 d=0.000668817 t=6912
+hai mei you 	還沒有	c=4 d=0.0301973 t=6912
+hai shi 	還是	c=3 d=0.0237951 t=6912
+hai shi hui 	還是會	c=0 d=5.14449e-06 t=6912
+hai shi hui ti gong 	還是會提供	c=1 d=5.17027e-05 t=6912
+hai shi rong yi 	還是容易	c=1 d=0.162026 t=6912
+hai shi yao 	還是要	c=1 d=0.690734 t=6912
+hai xing 	還行	c=1 d=1.33434e-11 t=6912
+hai xu yao 	還需要	c=1 d=2.77461e-07 t=6912
+hai xu yao ti gong yi ge 	還需要提供一個	c=1 d=2.78852e-06 t=6912
+hai you 	還有	c=5 d=0.732289 t=6912
+hai you ke neng 	還有可能	c=1 d=0.00137404 t=6912
+hai you mei you 	還有沒有	c=1 d=2.76933e-13 t=6912
+hai you qi ta de 	還有其他的	c=1 d=1.37521e-13 t=6912
+hai you suo qian que 	還有所欠缺	c=1 d=2.14083e-14 t=6912
+hai zai 	還在	c=1 d=2.85367e-13 t=6912
+han shu 	函數	c=37 d=8.28855e-06 t=6912
+han shu de 	函數的	c=3 d=3.19527e-06 t=6912
+han shu diao yong 	函數調用	c=1 d=3.70807e-06 t=6912
+han shu er yan 	函數而言	c=1 d=5.83046e-07 t=6912
+han shu he 	函數和	c=1 d=5.00622e-08 t=6912
+han shu huo zhe 	函數或者	c=1 d=3.85009e-07 t=6912
+han shu ke yi 	函數可以	c=1 d=3.5898e-07 t=6912
+han shu ke yi he 	函數可以和	c=1 d=8.23395e-09 t=6912
+han shu lei xing 	函數類型	c=1 d=3.82164e-08 t=6912
+han shu nei 	函數內	c=1 d=7.06993e-10 t=6912
+han shu shi 	函數式	c=1 d=2.13937e-06 t=6912
+han shu zhi 	函數值	c=1 d=5.53273e-08 t=6912
+han shu zuo wei 	函數作爲	c=2 d=4.51178e-08 t=6912
+hang tian 	航天	c=2 d=1.99223e-13 t=6912
+hao 	好	c=1 d=1.38879e-11 t=6912
+hao 	號	c=4 d=0.0346749 t=6912
+hao ba 	好吧	c=2 d=0.0145524 t=6912
+hao chu shi 	好處是	c=1 d=0.000112559 t=6912
+hao de 	好的	c=5 d=2.23907e-12 t=6912
+hao huai 	好壞	c=0 d=0.0130029 t=6912
+hao xiang 	好像	c=0 d=5.01832e-08 t=6912
+hao zi wei zhi 	好自爲之	c=2 d=0.0263354 t=6912
+he 	和	c=79 d=2.87044 t=6912
+he 	核	c=23 d=0.234106 t=6912
+he bing 	合併	c=4 d=0.640824 t=6912
+he ge 	合格	c=1 d=4.99499e-11 t=6912
+he ji ge 	和幾個	c=1 d=2.80927e-05 t=6912
+he jian zhong duan 	核間中斷	c=1 d=0.000371739 t=6912
+he jian zhong duan de 	核間中斷的	c=1 d=0.000338834 t=6912
+he jian zhong duan jie gou 	核間中斷結構	c=1 d=0.000315927 t=6912
+he li de 	合理的	c=1 d=0.140156 t=6912
+he nan 	河南	c=1 d=9.63604e-06 t=6912
+he shi 	合適	c=1 d=3.51991e-11 t=6912
+he ta 	和他	c=1 d=0.0692522 t=6912
+he zhe 	喝着	c=1 d=1.66184e-05 t=6912
+he zi xuan 	核自旋	c=1 d=2.50409e-05 t=6912
+hen 	很	c=1 d=8.75404e-10 t=6912
+hen bu cuo 	很不錯	c=1 d=1.27584e-13 t=6912
+hen chang de 	很長的	c=1 d=1.03383e-09 t=6912
+hen da de 	很大的	c=0 d=0.00117959 t=6912
+hen duo 	很多	c=4 d=0.499184 t=6912
+hen nan 	很難	c=1 d=0.0115624 t=6912
+hen qi guai 	很奇怪	c=0 d=0.0054204 t=6912
+hen rong yi 	很容易	c=0 d=0.0153355 t=6912
+hen rong yi dao zhi 	很容易導致	c=1 d=0.154124 t=6912
+hen shao 	很少	c=1 d=1.08964e-10 t=6912
+hen xiang jin 	很相近	c=1 d=8.78693e-09 t=6912
+heng liang 	衡量	c=1 d=0.12938 t=6912
+hou 	後	c=7 d=1.65954 t=6912
+hou dai 	後代	c=1 d=1.27519e-07 t=6912
+hou de 	後的	c=3 d=1.39168e-06 t=6912
+hou mian 	後面	c=3 d=0.00812886 t=6912
+hou mian de 	後面的	c=1 d=0.0338776 t=6912
+hou mian gen 	後面跟	c=1 d=1.05453e-07 t=6912
+hou pei zhi 	後配置	c=1 d=4.0468e-05 t=6912
+hou qi 	後期	c=1 d=6.007e-05 t=6912
+hou xie 	後寫	c=1 d=0.210136 t=6912
+hu chi 	互斥	c=0 d=4.90542e-05 t=6912
+hu chi de 	互斥的	c=2 d=0.00169146 t=6912
+hu ji 	戶籍	c=1 d=7.48901e-11 t=6912
+hu lian wang 	互聯網	c=1 d=1.21635e-10 t=6912
+hu lve 	忽略	c=0 d=9.16609e-07 t=6912
+hu lve bu fen 	忽略部分	c=1 d=9.21203e-06 t=6912
+hu lve le 	忽略了	c=1 d=6.80798e-07 t=6912
+hu xiang 	互相	c=2 d=4.15517e-07 t=6912
+hu yan 	護眼	c=1 d=6.25534e-11 t=6912
+hua 	化	c=0 d=3.46886e-07 t=6912
+hua 	話	c=1 d=3.11329e-08 t=6912
+hua shuo 	話說	c=1 d=0.0153752 t=6912
+hua wei 	華爲	c=1 d=1.16603e-13 t=6912
+huan 	換	c=1 d=9.40453e-14 t=6912
+huan cheng 	換成	c=0 d=5.64257e-05 t=6912
+huan cheng nan gang qu 	換成南崗區	c=1 d=0.000567086 t=6912
+huan chong qu 	緩衝區	c=6 d=0.00293634 t=6912
+huan dao 	換到	c=0 d=0.000852289 t=6912
+huan dao le 	換到了	c=1 d=0.00856561 t=6912
+huan jing 	環境	c=3 d=0.000685748 t=6912
+huan yuan 	換源	c=3 d=3.05162e-13 t=6912
+hui 	回	c=2 d=0.0539641 t=6912
+hui 	惠	c=1 d=0.000239969 t=6912
+hui 	會	c=16 d=0.0371081 t=6912
+hui bao cuo 	會報錯	c=1 d=3.4843e-09 t=6912
+hui bei 	會被	c=2 d=2.38918e-06 t=6912
+hui bu hui 	會不會	c=1 d=1.82367e-10 t=6912
+hui dai lai 	會帶來	c=1 d=1.84137e-06 t=6912
+hui dao 	回到	c=1 d=2.92492e-09 t=6912
+hui de dao 	會得到	c=1 d=4.66856e-10 t=6912
+hui fa chu 	會發出	c=1 d=0.00251621 t=6912
+hui pu 	惠普	c=1 d=7.69585e-08 t=6912
+hui shen 	會審	c=3 d=6.70126e-12 t=6912
+hui yi 	會議	c=0 d=4.40957e-16 t=6912
+hui yong 	會用	c=0 d=9.14242e-06 t=6912
+hui yong dao 	會用到	c=1 d=9.18825e-05 t=6912
+hui you 	會有	c=2 d=7.95941e-07 t=6912
+hui yu 	會與	c=0 d=0.00812682 t=6912
+hui yu hou mian zhang jie de 	會與後面章節的	c=1 d=0.0816756 t=6912
+hui zhan yong 	會佔用	c=1 d=1.18672e-14 t=6912
+hui zhi jie cheng wei 	會直接成爲	c=1 d=2.23244e-07 t=6912
+hun he 	混合	c=1 d=2.64019e-10 t=6912
+huo de 	獲得	c=0 d=0.0265803 t=6912
+huo dong de 	活動的	c=1 d=0.0031354 t=6912
+huo li 	活力	c=1 d=3.9096e-11 t=6912
+huo qu 	獲取	c=4 d=0.589775 t=6912
+huo qu suo huo zhe shi fang suo 	獲取鎖或者釋放鎖	c=1 d=0.594521 t=6912
+huo yue 	活躍	c=1 d=6.70891e-11 t=6912
+huo zhe 	或者	c=18 d=0.101254 t=6912
+huo zhe dui 	或者對	c=1 d=3.11488e-14 t=6912
+huo zhe shi fang suo 	或者釋放鎖	c=1 d=0.594418 t=6912
+ji 	即	c=4 d=0.051706 t=6912
+ji 	既	c=3 d=0.00341462 t=6912
+ji 	機	c=2 d=0.0113334 t=6912
+ji 	級	c=1 d=0.000210716 t=6912
+ji ben 	基本	c=2 d=0.0756981 t=6912
+ji ben shi xian 	基本實現	c=1 d=0.00119453 t=6912
+ji ben si xiang 	基本思想	c=1 d=0.740818 t=6912
+ji ben su yang 	基本素養	c=1 d=0.0124629 t=6912
+ji bian 	即便	c=6 d=0.369329 t=6912
+ji bian ni 	即便你	c=1 d=1.18898e-07 t=6912
+ji bian zai 	即便在	c=1 d=5.11883e-05 t=6912
+ji bie 	級別	c=0 d=1.31153e-15 t=6912
+ji cheng 	繼承	c=6 d=1.16629e-06 t=6912
+ji cheng guan xi 	繼承關係	c=1 d=4.00721e-07 t=6912
+ji cheng le 	繼承了	c=1 d=1.98992e-07 t=6912
+ji cheng zhi 	繼承至	c=1 d=4.54077e-07 t=6912
+ji chu 	基礎	c=1 d=1.22602e-15 t=6912
+ji chu lei 	基礎類	c=0 d=1.83693e-08 t=6912
+ji chu lei de 	基礎類的	c=1 d=1.84614e-07 t=6912
+ji cun qi 	寄存器	c=4 d=5.61592e-05 t=6912
+ji da 	極大	c=1 d=1.85602e-11 t=6912
+ji de 	記得	c=0 d=3.85271e-16 t=6912
+ji ge 	幾個	c=4 d=0.00051857 t=6912
+ji he 	集合	c=1 d=6.47705e-09 t=6912
+ji hu 	幾乎	c=1 d=0.0181205 t=6912
+ji hu zhi chi 	幾乎支持	c=1 d=1.33044e-06 t=6912
+ji hui 	機會	c=1 d=0.606531 t=6912
+ji ji 	積極	c=1 d=2.92541e-11 t=6912
+ji jiang jie shu 	即將結束	c=1 d=2.51169e-15 t=6912
+ji jiang jie shu yi di 	即將結束異地	c=1 d=2.22282e-15 t=6912
+ji jin 	激進	c=0 d=0.00057417 t=6912
+ji ke yi 	既可以	c=1 d=5.88805e-05 t=6912
+ji lei 	基類	c=4 d=9.22412e-07 t=6912
+ji lei 	幾類	c=2 d=0.000586006 t=6912
+ji li 	激勵	c=1 d=1.97079e-11 t=6912
+ji lin 	吉林	c=1 d=9.69094e-14 t=6912
+ji lu 	記錄	c=1 d=4.37547e-15 t=6912
+ji neng 	技能	c=1 d=2.18898e-11 t=6912
+ji piao 	機票	c=1 d=1.12846e-10 t=6912
+ji qi 	及其	c=1 d=0.0337087 t=6912
+ji qi ren 	機器人	c=1 d=1.02919e-15 t=6912
+ji ran 	既然	c=1 d=8.10998e-07 t=6912
+ji shi 	既是	c=1 d=4.5864e-07 t=6912
+ji shu 	技術	c=4 d=0.00379482 t=6912
+ji shu da xue 	技術大學	c=1 d=8.17042e-07 t=6912
+ji shu feng xian 	技術風險	c=1 d=6.29975e-06 t=6912
+ji suan 	計算	c=10 d=1.04324e-05 t=6912
+ji suan fang fa 	計算方法	c=1 d=6.55685e-06 t=6912
+ji suan ji 	計算機	c=1 d=7.23389e-15 t=6912
+ji suan wan bi de shi hou 	計算完畢的時候	c=1 d=2.43637e-06 t=6912
+ji suan yi ci 	計算一次	c=1 d=3.2937e-07 t=6912
+ji suan yi zhao 	計算依照	c=1 d=1.53804e-06 t=6912
+ji tian 	幾天	c=1 d=0.00161635 t=6912
+ji xu 	繼續	c=3 d=5.64738e-09 t=6912
+ji you 	既有	c=1 d=0.0306538 t=6912
+ji yu 	基於	c=16 d=0.000322309 t=6912
+ji zhi 	機制	c=1 d=0.449329 t=6912
+ji zhong 	幾種	c=1 d=2.90934e-05 t=6912
+jia 	加	c=1 d=0.109679 t=6912
+jia de 	加的	c=1 d=0.980199 t=6912
+jia ge 	價格	c=1 d=1.13411e-10 t=6912
+jia gou 	架構	c=1 d=0.00275966 t=6912
+jia gou de nei cun mo xing 	架構的內存模型	c=1 d=0.0203434 t=6912
+jia mi 	加密	c=2 d=5.611e-05 t=6912
+jia mi qi dong 	加密啓動	c=1 d=3.24763e-05 t=6912
+jia ru 	假如	c=1 d=0.055299 t=6912
+jia shang 	加上	c=1 d=0.900325 t=6912
+jia shang le 	加上了	c=1 d=0.348192 t=6912
+jia she 	假設	c=1 d=0.0701173 t=6912
+jia she quan ju nei cun shun xu de cun zai 	假設全局內存順序的存在	c=1 d=0.704688 t=6912
+jia su 	加速	c=4 d=0.000118924 t=6912
+jia su dan yuan 	加速單元	c=1 d=9.61117e-05 t=6912
+jia su de 	加速的	c=1 d=9.37386e-05 t=6912
+jia su qi 	加速器	c=2 d=0.000108445 t=6912
+jia ting 	家庭	c=2 d=1.05504e-05 t=6912
+jia zai 	加載	c=0 d=3.58919e-06 t=6912
+jia zai dao 	加載到	c=2 d=7.45662e-05 t=6912
+jia zai de 	加載的	c=1 d=8.70395e-15 t=6912
+jia zhi guan 	價值觀	c=1 d=2.71403e-11 t=6912
+jian 	間	c=1 d=0.0147647 t=6912
+jian ce 	檢測	c=4 d=6.81572e-05 t=6912
+jian cha 	檢查	c=9 d=1.77639 t=6912
+jian chi 	堅持	c=1 d=3.83219e-11 t=6912
+jian dan 	簡單	c=3 d=0.000226138 t=6912
+jian dan de 	簡單地	c=1 d=1.05454e-06 t=6912
+jian dan de 	簡單的	c=0 d=0.000458484 t=6912
+jian dan shi xian 	簡單實現	c=1 d=0.00114197 t=6912
+jian dan shi xian de hao chu shi 	簡單實現的好處是	c=1 d=0.00113061 t=6912
+jian ding 	鑑定	c=3 d=4.07225e-11 t=6912
+jian hua 	簡化	c=1 d=3.58486e-08 t=6912
+jian hua wei 	簡化爲	c=1 d=3.74661e-10 t=6912
+jian jie 	簡潔	c=0 d=3.0057e-07 t=6912
+jian jie de 	簡潔的	c=1 d=3.02077e-06 t=6912
+jian kong 	監控	c=1 d=4.08747e-05 t=6912
+jian rong 	兼容	c=0 d=2.65342e-11 t=6912
+jian shao 	減少	c=1 d=4.76449e-14 t=6912
+jian shi qi 	監視器	c=2 d=4.3784e-05 t=6912
+jiang 	將	c=29 d=1.72806 t=6912
+jiang dao 	講到	c=0 d=3.82229e-11 t=6912
+jiang dao de 	講到的	c=1 d=3.84145e-10 t=6912
+jiang di 	降低	c=0 d=0.0489192 t=6912
+jiang di le 	降低了	c=1 d=0.491644 t=6912
+jiang ji ge 	將幾個	c=1 d=2.75411e-07 t=6912
+jiang le 	講了	c=1 d=0.496585 t=6912
+jiang nei cun 	將內存	c=1 d=0.00479587 t=6912
+jiang qi ta han shu 	將其他函數	c=1 d=7.60089e-09 t=6912
+jiang zui hou yi zhong shun xu 	將最後一種順序	c=1 d=0.045275 t=6912
+jiao 	叫	c=1 d=5.05739e-10 t=6912
+jiao cheng 	教程	c=3 d=0.000224867 t=6912
+jiao da de 	較大的	c=0 d=0.0142274 t=6912
+jiao da de zi you 	較大的自由	c=1 d=0.142987 t=6912
+jiao du 	角度	c=0 d=0.0156453 t=6912
+jiao duan 	較短	c=0 d=3.19102e-05 t=6912
+jiao duan de 	較短的	c=1 d=0.000320701 t=6912
+jiao gao de 	較高的	c=0 d=0.0138069 t=6912
+jiao hu 	交互	c=1 d=5.16131e-14 t=6912
+jiao huan 	交換	c=1 d=0.00038705 t=6912
+jiao huan de xin xi 	交換的信息	c=1 d=0.000335463 t=6912
+jiao huan si you de 	交換私有的	c=1 d=0.000347412 t=6912
+jiao liu 	交流	c=1 d=0.460704 t=6912
+jiao luo 	角落	c=1 d=6.30404e-14 t=6912
+jiao qiang 	較強	c=1 d=5.14711e-11 t=6912
+jiao wan 	較晚	c=0 d=2.74654e-05 t=6912
+jiao yan 	校驗	c=0 d=8.81268e-15 t=6912
+jiao yan he 	校驗和	c=1 d=8.85685e-14 t=6912
+jiao zuo 	叫做	c=0 d=9.07643e-09 t=6912
+jie 	傑	c=0 d=9.07952e-13 t=6912
+jie duan 	階段	c=2 d=6.04673e-05 t=6912
+jie gou 	結構	c=1 d=3.14351e-05 t=6912
+jie gou ti 	結構體	c=1 d=0.000382543 t=6912
+jie guo 	結果	c=5 d=0.0104843 t=6912
+jie guo de 	結果的	c=0 d=1.11128e-07 t=6912
+jie guo shi yi yang de 	結果是一樣的	c=1 d=1.1396e-08 t=6912
+jie guo ying gai 	結果應該	c=1 d=0.00778933 t=6912
+jie he 	結合	c=0 d=1.62528e-09 t=6912
+jie hun 	結婚	c=1 d=0.0178634 t=6912
+jie jin 	接近	c=0 d=0.0159614 t=6912
+jie jue 	解決	c=1 d=3.5565e-15 t=6912
+jie jue fang an 	解決方案	c=1 d=1.292e-14 t=6912
+jie jue wen ti 	解決問題	c=0 d=0.000726273 t=6912
+jie jue wen ti ma 	解決問題嗎	c=1 d=0.00729913 t=6912
+jie kou 	接口	c=2 d=4.4279e-05 t=6912
+jie lun 	結論	c=1 d=1.39576e-11 t=6912
+jie mi 	解密	c=0 d=4.31857e-06 t=6912
+jie shao 	介紹	c=1 d=0.392586 t=6912
+jie shi 	解釋	c=2 d=7.84998e-06 t=6912
+jie shi qi 	解釋器	c=2 d=1.17149e-09 t=6912
+jie shou 	接受	c=3 d=1.09557e-07 t=6912
+jie shou dao 	接受到	c=1 d=0.00286554 t=6912
+jie shou yi ge 	接受一個	c=2 d=5.33776e-08 t=6912
+jie shou zhe 	接受者	c=1 d=0.000472068 t=6912
+jie shou zhe de 	接受者的	c=1 d=0.000380129 t=6912
+jie shou zhe zhi qian 	接受者之前	c=1 d=0.000505481 t=6912
+jie shu 	結束	c=2 d=0.0518717 t=6912
+jie shu hou 	結束後	c=0 d=5.11883e-06 t=6912
+jie suo 	解鎖	c=1 d=0.00491728 t=6912
+jie wei 	結尾	c=1 d=1.07583e-07 t=6912
+jie xi 	解析	c=0 d=1.95557e-09 t=6912
+jie xia lai 	接下來	c=1 d=6.19416e-13 t=6912
+jie ya 	解壓	c=1 d=6.60565e-05 t=6912
+jie yue 	節約	c=1 d=5.2249e-11 t=6912
+jin cheng 	進程	c=1 d=5.69038e-15 t=6912
+jin du 	進度	c=1 d=5.76048e-12 t=6912
+jin hou 	今後	c=3 d=3.30703e-10 t=6912
+jin lai le 	進來了	c=0 d=1.0677e-07 t=6912
+jin pai 	金牌	c=1 d=7.01651e-09 t=6912
+jin ping 	僅憑	c=1 d=4.99329e-07 t=6912
+jin ru 	進入	c=1 d=2.83074e-05 t=6912
+jin tian 	今天	c=1 d=2.1788e-15 t=6912
+jin xing 	進行	c=2 d=1.13769e-13 t=6912
+jin yi bu 	進一步	c=0 d=4.58562e-06 t=6912
+jin yi bu de 	進一步的	c=1 d=4.60861e-05 t=6912
+jin zhi 	禁止	c=1 d=0.329559 t=6912
+jing chang 	經常	c=1 d=2.81166e-15 t=6912
+jing dian de 	經典的	c=1 d=1.66728e-14 t=6912
+jing du 	精度	c=1 d=7.03228e-06 t=6912
+jing gao 	警告	c=0 d=4.89525e-10 t=6912
+jing guo 	經過	c=2 d=6.47649e-11 t=6912
+jing mian 	鏡面	c=1 d=6.05274e-06 t=6912
+jing que 	精確	c=1 d=0.173774 t=6912
+jing que de 	精確的	c=0 d=0.0149569 t=6912
+jing tai 	靜態	c=4 d=2.60122e-10 t=6912
+jing xiang 	鏡像	c=7 d=0.000161084 t=6912
+jing xiang wen jian 	鏡像文件	c=2 d=6.64307e-05 t=6912
+jing yan 	經驗	c=2 d=6.51586e-11 t=6912
+jiu 	就	c=12 d=0.132002 t=6912
+jiu 	舊	c=2 d=3.26794e-12 t=6912
+jiu bi xu 	就必須	c=1 d=5.23932e-14 t=6912
+jiu bian 	就便	c=0 d=4.50645e-07 t=6912
+jiu bian cheng le 	就便成了	c=1 d=4.52904e-06 t=6912
+jiu bu 	就不	c=0 d=5.62992e-08 t=6912
+jiu bu dui le 	就不對了	c=1 d=5.65814e-07 t=6912
+jiu dei 	就得	c=0 d=1.91652e-07 t=6912
+jiu dei bei 	就得被	c=1 d=1.92613e-06 t=6912
+jiu e 	舊惡	c=0 d=2.05087e-10 t=6912
+jiu e ke yi 	舊惡可以	c=1 d=2.06115e-09 t=6912
+jiu hui 	就會	c=3 d=7.92151e-05 t=6912
+jiu hui bao cuo 	就會報錯	c=1 d=2.70703e-10 t=6912
+jiu hui bei 	就會被	c=1 d=4.95641e-08 t=6912
+jiu hui bi jiao da 	就會比較大	c=1 d=2.93349e-14 t=6912
+jiu hui jin ru 	就會進入	c=1 d=4.02661e-05 t=6912
+jiu hui shi yong 	就會使用	c=1 d=5.77146e-05 t=6912
+jiu ji suan 	就計算	c=1 d=1.60884e-06 t=6912
+jiu kao lv 	就考慮	c=1 d=4.60062e-14 t=6912
+jiu ke yi 	就可以	c=4 d=0.0991396 t=6912
+jiu ke yi bu yong jia 	就可以不用加	c=1 d=0.995012 t=6912
+jiu ke yi ti gong 	就可以提供	c=1 d=4.29704e-05 t=6912
+jiu shi 	就是	c=29 d=1.27892 t=6912
+jiu shi bu zheng que de 	就是不正確的	c=1 d=0.00212284 t=6912
+jiu shi ta 	就是她	c=1 d=1.94211e-15 t=6912
+jiu shi you wen ti de 	就是有問題的	c=1 d=0.00238156 t=6912
+jiu wan shi 	就完事	c=1 d=0.0163259 t=6912
+jiu xiang 	就像	c=1 d=0.00351752 t=6912
+jiu xing 	就行	c=4 d=3.29733e-10 t=6912
+jiu xu yao 	就需要	c=0 d=1.59695e-08 t=6912
+jiu xu yao shi yong dao 	就需要使用到	c=1 d=1.60495e-07 t=6912
+jiu yao 	就要	c=0 d=0.000188279 t=6912
+jiu yao bei 	就要被	c=1 d=0.00189223 t=6912
+jiu yao qiu 	就要求	c=1 d=3.95979e-14 t=6912
+jiu ye 	就業	c=0 d=1.67751e-05 t=6912
+jiu ye xin xi 	就業信息	c=1 d=0.000158461 t=6912
+jiu yi jing 	就已經	c=0 d=0.0107528 t=6912
+jiu yi jing neng gou 	就已經能夠	c=1 d=0.108067 t=6912
+jiu ying gai 	就應該	c=1 d=8.19149e-07 t=6912
+jiu you 	就由	c=1 d=3.8236e-14 t=6912
+jiu you ying xiang le 	就有影響了	c=1 d=0.2334 t=6912
+jiu zhi dao le 	就知道了	c=1 d=6.28777e-13 t=6912
+ju 	舉	c=0 d=4.16211e-13 t=6912
+ju bu 	局部	c=3 d=2.36816e-09 t=6912
+ju bu bian liang 	局部變量	c=1 d=9.21517e-10 t=6912
+ju bu yu 	局部域	c=3 d=2.62813e-09 t=6912
+ju jue 	拒絕	c=1 d=1.90761e-10 t=6912
+ju lei 	聚類	c=1 d=4.10538e-09 t=6912
+ju ti 	具體	c=1 d=0.0044601 t=6912
+ju ti de 	具體的	c=1 d=1.42691e-06 t=6912
+ju ti lai jiang jiu shi yi xia shun xu 	具體來講就是以下順序	c=1 d=0.0448245 t=6912
+ju yi ge 	舉一個	c=1 d=4.18297e-12 t=6912
+ju you 	具有	c=1 d=7.5617e-07 t=6912
+jue 	覺	c=0 d=0.00072265 t=6912
+jue de 	覺得	c=1 d=0.0146803 t=6912
+jue ding 	決定	c=2 d=6.63318e-05 t=6912
+ka zhu 	卡住	c=1 d=7.88932e-06 t=6912
+kai 	開	c=1 d=5.7864e-06 t=6912
+kai fa 	開發	c=1 d=1.37144e-10 t=6912
+kai fa ban 	開發板	c=0 d=7.67467e-06 t=6912
+kai fa ban de 	開發板的	c=1 d=7.71314e-05 t=6912
+kai fa zhen dui 	開發針對	c=1 d=1.95657e-14 t=6912
+kai ge 	開個	c=1 d=0.000284437 t=6912
+kai guan 	開關	c=4 d=0.00686057 t=6912
+kai hui 	開會	c=0 d=0.00133665 t=6912
+kai hui a 	開會啊	c=1 d=0.0134335 t=6912
+kai le 	開了	c=1 d=0.000263884 t=6912
+kai shi 	開始	c=3 d=0.00155411 t=6912
+kai shi shi 	開始時	c=0 d=2.34084e-07 t=6912
+kai shi you 	開始有	c=1 d=2.83114e-08 t=6912
+kai shi zhi xing 	開始執行	c=2 d=3.96666e-05 t=6912
+kai tou 	開頭	c=1 d=4.25268e-08 t=6912
+kai xiao 	開銷	c=2 d=0.0152654 t=6912
+kai xiao hen da de 	開銷很大的	c=1 d=0.0118551 t=6912
+kai xiao ji hu wei 	開銷幾乎爲	c=1 d=2.70795e-14 t=6912
+kai xin 	開心	c=0 d=1.89416e-16 t=6912
+kai xin huo zhe 	開心或者	c=1 d=1.90366e-15 t=6912
+kai yuan 	開源	c=0 d=1.25903e-05 t=6912
+kai yuan xie yi bu tong 	開源協議不同	c=1 d=0.000126534 t=6912
+kan chu 	看出	c=1 d=6.61015e-13 t=6912
+kan chu lai 	看出來	c=1 d=1.48949e-11 t=6912
+kan dao 	看到	c=2 d=0.00024373 t=6912
+kan dao de 	看到的	c=1 d=9.03116e-08 t=6912
+kan dong 	看懂	c=1 d=0.00719046 t=6912
+kan kan 	看看	c=2 d=1.5956e-10 t=6912
+kan qi lai 	看起來	c=2 d=2.8932e-13 t=6912
+kan wo 	看我	c=1 d=1.31765e-10 t=6912
+kan xia 	看下	c=1 d=7.60348e-13 t=6912
+kan yi xia 	看一下	c=1 d=1.31108e-10 t=6912
+kan zhe 	看着	c=3 d=1.40374e-05 t=6912
+kan zhe fei chang yong zhong 	看着非常臃腫	c=1 d=1.03098e-06 t=6912
+kan zuo shi 	看作是	c=1 d=0.203926 t=6912
+kang 	康	c=0 d=5.44943e-07 t=6912
+kao lv 	考慮	c=9 d=0.026191 t=6912
+kao shang 	靠上	c=0 d=1.03668e-13 t=6912
+ke 	可	c=1 d=1.22244e-10 t=6912
+ke bian cheng 	可編程	c=1 d=0.143704 t=6912
+ke cha 	可查	c=1 d=6.47485e-05 t=6912
+ke da 	科大	c=0 d=1.00796e-06 t=6912
+ke da jiu ye 	科大就業	c=1 d=1.01301e-05 t=6912
+ke fu 	克服	c=1 d=1.06e-09 t=6912
+ke ji 	科技	c=6 d=0.000218743 t=6912
+ke jian 	可見	c=2 d=0.00465304 t=6912
+ke jian shi 	可見時	c=1 d=0.00419023 t=6912
+ke kao xing 	可靠性	c=0 d=2.10895e-15 t=6912
+ke kao xing he 	可靠性和	c=1 d=2.11952e-14 t=6912
+ke ku 	刻苦	c=2 d=3.63445e-11 t=6912
+ke kuo zhan xing 	可擴展性	c=1 d=2.46723e-07 t=6912
+ke neng 	可能	c=5 d=0.0270621 t=6912
+ke neng de 	可能的	c=1 d=0.00623495 t=6912
+ke neng de zhi xing shi 	可能的執行是	c=1 d=0.062662 t=6912
+ke neng hui 	可能會	c=2 d=0.0383487 t=6912
+ke neng hui bei cun fang zai 	可能會被存放在	c=1 d=0.197899 t=6912
+ke neng hui dai lai 	可能會帶來	c=1 d=1.85988e-06 t=6912
+ke neng jiu 	可能就	c=1 d=0.0137049 t=6912
+ke neng mei you 	可能沒有	c=0 d=1.00535e-05 t=6912
+ke neng mei you shi yong na yi tao gong ju 	可能沒有使用那一套工具	c=1 d=0.000101039 t=6912
+ke neng shi 	可能是	c=2 d=0.83527 t=6912
+ke neng zhi 	可能值	c=1 d=6.50952e-09 t=6912
+ke shi 	可是	c=1 d=1.44149e-08 t=6912
+ke shi hua 	可視化	c=1 d=7.0189e-13 t=6912
+ke xing xing 	可行性	c=1 d=7.2103e-06 t=6912
+ke xuan 	可選	c=0 d=1.84168e-09 t=6912
+ke xuan de 	可選的	c=2 d=3.9272e-05 t=6912
+ke xuan zhi 	可選值	c=2 d=3.7298e-08 t=6912
+ke xue 	科學	c=2 d=8.1705e-07 t=6912
+ke xue ji shu 	科學技術	c=1 d=5.44392e-12 t=6912
+ke xue ji shu da xue 	科學技術大學	c=3 d=5.7901e-12 t=6912
+ke yi 	可以	c=75 d=1.34191 t=6912
+ke yi bang zhu 	可以幫助	c=1 d=0.00121259 t=6912
+ke yi bao zheng ru xia 	可以保證如下	c=1 d=0.786628 t=6912
+ke yi bei 	可以被	c=2 d=1.3814e-07 t=6912
+ke yi bei ren wei 	可以被認爲	c=1 d=6.41261e-09 t=6912
+ke yi bu yong 	可以不用	c=1 d=4.26529e-06 t=6912
+ke yi chuan di gei 	可以傳遞給	c=1 d=3.79277e-07 t=6912
+ke yi chuang jian zhe ge lei xing 	可以創見這個類型	c=1 d=8.09042e-08 t=6912
+ke yi de 	可以的	c=1 d=0.017953 t=6912
+ke yi fei chang zhi guan 	可以非常直觀	c=1 d=6.20702e-08 t=6912
+ke yi jiang 	可以將	c=1 d=1.13686e-09 t=6912
+ke yi jie shou 	可以接受	c=1 d=0.377192 t=6912
+ke yi li ke 	可以立刻	c=1 d=0.856415 t=6912
+ke yi ma 	可以嗎	c=1 d=6.07047e-11 t=6912
+ke yi sheng lve diao 	可以省略掉	c=1 d=2.38894e-10 t=6912
+ke yi shi yong 	可以使用	c=5 d=5.85628e-06 t=6912
+ke yi shi yong mo kuai 	可以使用模塊	c=1 d=2.71967e-06 t=6912
+ke yi ti gao xing neng 	可以提高性能	c=1 d=0.410656 t=6912
+ke yi ti gong 	可以提供	c=0 d=4.2756e-06 t=6912
+ke yi tong guo 	可以通過	c=1 d=0.839457 t=6912
+ke yi tui chu 	可以推出	c=1 d=4.96839e-07 t=6912
+ke yi yong 	可以用	c=0 d=0.010435 t=6912
+ke yi you 	可以有	c=1 d=7.90425e-08 t=6912
+ke yi you duo zhong bu tong de shi li 	可以有多種不同的實例	c=1 d=3.69912e-07 t=6912
+ke yi zhi chi 	可以支持	c=1 d=0.00332928 t=6912
+ke yi zhi jie 	可以直接	c=0 d=1.16806e-05 t=6912
+ke yi zhi jie yong liu lan qi da kai 	可以直接用瀏覽器打開	c=1 d=0.000117391 t=6912
+ke yi zhi xing 	可移植性	c=2 d=0.665297 t=6912
+ke yong 	可用	c=0 d=9.51553e-06 t=6912
+ke yong de 	可用的	c=1 d=9.56323e-05 t=6912
+ke zhi xing 	可執行	c=3 d=3.86376e-09 t=6912
+ken ding 	肯定	c=1 d=1.0631e-14 t=6912
+ken ding hui 	肯定會	c=1 d=2.3485e-15 t=6912
+kong de 	空的	c=1 d=1.50032e-08 t=6912
+kong jian 	空間	c=2 d=7.07652e-14 t=6912
+kong jian de 	空間的	c=1 d=2.35907e-09 t=6912
+kong zhi 	控制	c=2 d=2.998e-05 t=6912
+kong zhi qi 	控制器	c=0 d=4.7843e-05 t=6912
+ku 	庫	c=1 d=1.92599e-08 t=6912
+kua yue 	跨越	c=0 d=1.72666e-15 t=6912
+kua yue le 	跨越了	c=1 d=1.73532e-14 t=6912
+kuai 	塊	c=1 d=9.74019e-08 t=6912
+kuai 	快	c=0 d=5.56141e-11 t=6912
+kuai yao 	快要	c=1 d=2.42422e-06 t=6912
+kun lun 	崑崙	c=1 d=4.37401e-08 t=6912
+kuo hao 	括號	c=1 d=1.66077e-08 t=6912
+kuo zhan 	擴展	c=1 d=4.99195e-08 t=6912
+kuo zhan wei 	擴展爲	c=2 d=9.62572e-08 t=6912
+lai 	來	c=26 d=0.483422 t=6912
+lai chuang jian 	來創建	c=1 d=3.94755e-07 t=6912
+lai fen jie 	來分解	c=1 d=2.28343e-08 t=6912
+lai huo qu 	來獲取	c=1 d=3.51023e-08 t=6912
+lai jiang 	來講	c=2 d=0.034061 t=6912
+lai kan 	來看	c=1 d=0.158025 t=6912
+lai que bao 	來確保	c=1 d=1.75157e-06 t=6912
+lai shi xian 	來實現	c=2 d=0.00098783 t=6912
+lai yu qu 	來預取	c=1 d=3.23418e-15 t=6912
+lai yuan 	來源	c=1 d=0.0205478 t=6912
+lai zuo 	來做	c=1 d=0.843673 t=6912
+lan jian 	藍劍	c=1 d=0.0169075 t=6912
+lan jie 	攔截	c=1 d=5.26558e-14 t=6912
+lang fei 	浪費	c=1 d=0.0397562 t=6912
+lao ban 	老闆	c=2 d=0.0139818 t=6912
+lao lu 	老盧	c=3 d=1.94603e-10 t=6912
+lao shi 	老師	c=9 d=0.000165755 t=6912
+lao shu 	老鼠	c=1 d=1.83344e-14 t=6912
+le 	了	c=34 d=0.437646 t=6912
+le ma 	了嗎	c=1 d=0.0129715 t=6912
+le yi ge 	了一個	c=1 d=8.25386e-08 t=6912
+le yu 	樂於	c=1 d=4.3642e-11 t=6912
+lei 	累	c=1 d=3.46751e-11 t=6912
+lei 	類	c=20 d=6.89459e-05 t=6912
+lei si 	類似	c=6 d=0.195797 t=6912
+lei si de 	類似的	c=1 d=5.25288e-15 t=6912
+lei si yi ge 	類似一個	c=1 d=0.000796726 t=6912
+lei si yu 	類似於	c=3 d=0.869358 t=6912
+lei xing 	類型	c=24 d=9.31569e-06 t=6912
+lei xing ca chu 	類型擦除	c=1 d=3.73915e-07 t=6912
+lei xing ca chu de 	類型擦除的	c=1 d=3.43184e-07 t=6912
+lei xing can shu 	類型參數	c=2 d=8.33024e-07 t=6912
+lei xing cuo wu 	類型錯誤	c=1 d=8.56853e-07 t=6912
+lei xing de 	類型的	c=3 d=8.02862e-07 t=6912
+lei xing he ji suan 	類型和計算	c=1 d=3.16798e-07 t=6912
+lei xing jian cha 	類型檢查	c=1 d=2.61392e-10 t=6912
+lei xing ne 	類型呢	c=1 d=2.70611e-06 t=6912
+lei xing pi pei 	類型匹配	c=1 d=3.68957e-06 t=6912
+lei xing tui dao 	類型推導	c=1 d=2.97579e-06 t=6912
+li 	李	c=2 d=0.000238772 t=6912
+li 	裏	c=0 d=1.58926e-10 t=6912
+li chun 	李春	c=0 d=9.07952e-13 t=6912
+li chun jie 	李春傑	c=4 d=4.2871e-10 t=6912
+li du 	粒度	c=2 d=0.012549 t=6912
+li ji 	立即	c=0 d=0.00246002 t=6912
+li ji fan hui 	立即返回	c=1 d=0.0247235 t=6912
+li jie 	理解	c=3 d=0.199888 t=6912
+li kai 	離開	c=0 d=0.000179994 t=6912
+li kai bei jing 	離開北京	c=1 d=0.0148464 t=6912
+li ke 	立刻	c=0 d=0.0852144 t=6912
+li lao shi 	李老師	c=1 d=1.35497e-15 t=6912
+li liang 	力量	c=1 d=2.56879e-11 t=6912
+li lun 	理論	c=1 d=9.85951e-11 t=6912
+li lun shang 	理論上	c=0 d=8.02929e-08 t=6912
+li lun shang lai jiang 	理論上來講	c=1 d=8.06953e-07 t=6912
+li mian 	裏面	c=4 d=0.355126 t=6912
+li mian bao kuo le 	裏面包括了	c=1 d=0.000117979 t=6912
+li mian de 	裏面的	c=2 d=0.310413 t=6912
+li mian mei yi ge 	裏面每一個	c=1 d=0.289384 t=6912
+li mian you 	裏面有	c=1 d=1.21593e-06 t=6912
+li mian zhuang de 	裏面裝的	c=1 d=1.41295e-08 t=6912
+li qiu 	力求	c=1 d=2.02068e-11 t=6912
+li ru 	例如	c=4 d=0.00547636 t=6912
+li ru dui yu yi xia cheng xu 	例如對於以下程序	c=1 d=0.0550232 t=6912
+li shi 	歷史	c=1 d=3.18603e-15 t=6912
+li xi 	李曦	c=1 d=1.61745e-10 t=6912
+li xiang 	理想	c=1 d=8.92125e-11 t=6912
+li xiao 	離校	c=2 d=7.50409e-11 t=6912
+li yong 	利用	c=2 d=0.600496 t=6912
+li ze 	理則	c=1 d=6.8764e-07 t=6912
+li zi 	例子	c=5 d=0.0366742 t=6912
+lian 	連	c=1 d=1.66614e-06 t=6912
+lian he 	聯合	c=2 d=1.2222 t=6912
+lian he chuang xin 	聯合創新	c=1 d=6.1931e-11 t=6912
+lian jie 	連接	c=2 d=0.000145485 t=6912
+lian jie dao 	連接到	c=1 d=0.00047843 t=6912
+lian meng 	聯盟	c=1 d=1.22878e-12 t=6912
+lian shang qu 	連上去	c=1 d=9.42566e-11 t=6912
+lian xi 	聯繫	c=1 d=7.9521e-11 t=6912
+lian xiang 	聯想	c=1 d=6.98151e-09 t=6912
+lian xu de 	連續的	c=0 d=0.000246639 t=6912
+lian zhe 	連着	c=0 d=1.29803e-11 t=6912
+liang duan 	兩端	c=0 d=3.28306e-16 t=6912
+liang duan de 	兩端的	c=1 d=3.29952e-15 t=6912
+liang ge 	兩個	c=8 d=0.033936 t=6912
+liang ge lei 	兩個類	c=1 d=2.37049e-07 t=6912
+liang hua 	量化	c=2 d=1.37752e-11 t=6912
+liang tiao 	兩條	c=2 d=5.02396e-12 t=6912
+liang zhong 	兩種	c=1 d=0.00729148 t=6912
+liang zhong ji shu 	兩種技術	c=1 d=0.00153381 t=6912
+liang zhong ke neng 	兩種可能	c=1 d=0.071719 t=6912
+liang zhong qi dong mo shi 	兩種啓動模式	c=1 d=2.72625e-05 t=6912
+liang zhong zhu yao xing shi 	兩種主要形式	c=1 d=3.7363e-07 t=6912
+liao jie 	瞭解	c=2 d=0.000144823 t=6912
+lie chu lai 	列出來	c=1 d=4.82237e-09 t=6912
+lin 	鄰	c=1 d=7.87298e-11 t=6912
+lin cun 	鄰村	c=0 d=7.71708e-12 t=6912
+lin jie 	臨界	c=0 d=0.0519442 t=6912
+lin jie qu 	臨界區	c=1 d=0.577758 t=6912
+lin jie qu nei de 	臨界區內的	c=2 d=1.14557 t=6912
+lin shui xian 	鄰水縣	c=2 d=5.36835e-06 t=6912
+ling hun de 	靈魂的	c=1 d=1.99128e-15 t=6912
+ling pi 	另闢	c=1 d=2.02137e-15 t=6912
+ling wai 	另外	c=1 d=5.80039e-05 t=6912
+ling wai de 	另外的	c=3 d=0.00961127 t=6912
+ling wai yi ge 	另外一個	c=6 d=0.965605 t=6912
+liu 	六	c=1 d=9.812e-13 t=6912
+liu 	劉	c=1 d=1.10344e-11 t=6912
+liu 	流	c=0 d=4.94277e-06 t=6912
+liu cheng 	流程	c=6 d=0.00175807 t=6912
+liu cheng tu 	流程圖	c=1 d=1.16885e-12 t=6912
+liu lan qi 	瀏覽器	c=0 d=1.16806e-05 t=6912
+liu liang 	流量	c=1 d=9.78833e-14 t=6912
+long xin 	龍芯	c=3 d=2.86149e-11 t=6912
+lu jing 	路徑	c=1 d=1.77405e-09 t=6912
+lu xian 	路線	c=1 d=3.57311e-11 t=6912
+luan ma 	亂碼	c=2 d=1.46089e-10 t=6912
+luan sheng 	孿生	c=1 d=6.3674e-14 t=6912
+luan xu 	亂序	c=3 d=0.00180226 t=6912
+luan xu zhi xing 	亂序執行	c=1 d=0.00149594 t=6912
+lun tan 	論壇	c=2 d=4.33205e-08 t=6912
+lun wen 	論文	c=14 d=3.93277e-11 t=6912
+luo hu 	落戶	c=1 d=9.97928e-06 t=6912
+luo ji shang 	邏輯上	c=1 d=0.00391899 t=6912
+luo ji shang de 	邏輯上的	c=1 d=0.00367942 t=6912
+luo kuan 	落款	c=1 d=3.20146e-13 t=6912
+luo yong hao 	羅永浩	c=1 d=9.64261e-14 t=6912
+lv 	率	c=1 d=6.14421e-06 t=6912
+lv se 	綠色	c=1 d=0.00891518 t=6912
+lve da 	略大	c=1 d=1.32106e-11 t=6912
+ma 	嗎	c=8 d=0.0112519 t=6912
+ma 	馬	c=3 d=2.20929e-10 t=6912
+ma du gong 	馬督工	c=1 d=2.5441e-15 t=6912
+ma fan 	麻煩	c=2 d=3.44013e-06 t=6912
+ma shang 	馬上	c=1 d=7.83504e-13 t=6912
+mai 	買	c=1 d=0.000261259 t=6912
+mai bu dao 	買不到	c=1 d=0.00023056 t=6912
+man 	慢	c=2 d=8.89519e-06 t=6912
+man zu 	滿足	c=5 d=0.110623 t=6912
+man zu le 	滿足了	c=1 d=0.0202419 t=6912
+mao hao 	冒號	c=1 d=1.11993e-09 t=6912
+mao si 	貌似	c=1 d=1.47824e-10 t=6912
+mao si shi 	貌似是	c=1 d=6.0548e-10 t=6912
+mao xian 	冒險	c=0 d=7.88932e-07 t=6912
+me 	麼	c=0 d=0.0909373 t=6912
+mei 	沒	c=3 d=0.0488055 t=6912
+mei 	美	c=2 d=3.64273e-14 t=6912
+mei ci 	每次	c=5 d=0.685106 t=6912
+mei ci dou yao 	每次都要	c=1 d=3.3552e-06 t=6912
+mei ci shi yong 	每次使用	c=1 d=5.73078e-10 t=6912
+mei cuo 	沒錯	c=1 d=9.24059e-13 t=6912
+mei dang wo 	每當我	c=1 d=1.89416e-15 t=6912
+mei fa 	沒法	c=0 d=0.00119742 t=6912
+mei fa yan zheng 	沒法驗證	c=1 d=0.0120342 t=6912
+mei hao 	美好	c=1 d=2.3721e-15 t=6912
+mei ju 	美劇	c=0 d=9.98777e-17 t=6912
+mei ju tian tang 	美劇天堂	c=1 d=1.00378e-15 t=6912
+mei shang 	沒上	c=0 d=2.47277e-05 t=6912
+mei shang ban 	沒上板	c=1 d=0.000248517 t=6912
+mei shi 	沒事	c=2 d=1.96712e-10 t=6912
+mei wan quan 	美完全	c=1 d=2.82528e-13 t=6912
+mei wen ti 	沒問題	c=1 d=4.52043e-13 t=6912
+mei yi 	每一	c=0 d=5.4485e-05 t=6912
+mei yi ci 	每一次	c=4 d=2.53509e-06 t=6912
+mei yi ge 	每一個	c=8 d=0.072128 t=6912
+mei yi ge he 	每一個核	c=1 d=0.011161 t=6912
+mei yi ge he de 	每一個核的	c=1 d=0.0972957 t=6912
+mei yi ge lei 	每一個類	c=1 d=1.67045e-07 t=6912
+mei yi ge yuan su 	每一個元素	c=1 d=1.71718e-08 t=6912
+mei yi ji de 	每一記得	c=1 d=3.87202e-15 t=6912
+mei yi ju 	每一句	c=0 d=9.44845e-11 t=6912
+mei yi ju hou mian de 	每一句後面的	c=1 d=9.49581e-10 t=6912
+mei yi lei 	每一類	c=1 d=0.000547581 t=6912
+mei yi tiao 	每一條	c=1 d=0.0911727 t=6912
+mei you 	沒有	c=10 d=1.74337 t=6912
+mei you a 	沒有啊	c=1 d=0.0146253 t=6912
+mei you bei 	沒有被	c=1 d=0.00410726 t=6912
+mei you de 	沒有的	c=1 d=0.0902655 t=6912
+mei you gei 	沒有給	c=1 d=1.19206e-08 t=6912
+mei you ju lei 	沒有聚類	c=1 d=5.89006e-09 t=6912
+mei you li kai 	沒有離開	c=1 d=0.00180897 t=6912
+mei you ni 	沒有你	c=1 d=2.14637e-15 t=6912
+mei you qi ta de 	沒有其他的	c=1 d=1.36765e-07 t=6912
+mei you ren he 	沒有任何	c=0 d=3.90894e-10 t=6912
+mei you ren he de 	沒有任何的	c=1 d=3.92853e-09 t=6912
+mei you zhe ge 	沒有這個	c=1 d=0.000102055 t=6912
+mei you zhi 	沒有值	c=1 d=1.94581e-08 t=6912
+mei za 	沒咋	c=1 d=0.0071546 t=6912
+mei zai 	沒在	c=1 d=1.58133e-09 t=6912
+mei zen me 	沒怎麼	c=1 d=1.05744e-10 t=6912
+meng dong 	懵懂	c=1 d=3.13753e-11 t=6912
+mi ma 	密碼	c=2 d=1.80265e-13 t=6912
+mi mang 	迷茫	c=1 d=1.10078e-12 t=6912
+mi qie xiang guan 	密切相關	c=2 d=0.00022178 t=6912
+mi yao 	密鑰	c=1 d=2.28202e-05 t=6912
+mian ji 	面積	c=1 d=0.00960953 t=6912
+mian xiang 	面向	c=1 d=1.41637e-07 t=6912
+mian xiang dui xiang 	面向對象	c=1 d=7.81215e-08 t=6912
+miao shu 	描述	c=2 d=0.153372 t=6912
+miao shu le 	描述了	c=1 d=9.32711e-05 t=6912
+min gan 	敏感	c=2 d=1.80927e-05 t=6912
+ming 	名	c=1 d=1.78294e-09 t=6912
+ming ling 	命令	c=3 d=0.161016 t=6912
+ming ling hang 	命令行	c=2 d=0.000626336 t=6912
+ming ming 	命名	c=6 d=7.84987e-08 t=6912
+ming yue 	明月	c=1 d=4.58952e-15 t=6912
+ming zhong 	命中	c=0 d=0.0146812 t=6912
+ming zhong zhu ding 	命中註定	c=0 d=2.2007e-16 t=6912
+ming zi 	名字	c=2 d=4.13347e-06 t=6912
+mo 	模	c=0 d=1.26861e-06 t=6912
+mo er 	摩爾	c=0 d=7.69585e-09 t=6912
+mo er xian cheng 	摩爾線程	c=1 d=7.73442e-08 t=6912
+mo hu 	模糊	c=1 d=7.43242e-10 t=6912
+mo hu de 	模糊的	c=2 d=0.155194 t=6912
+mo kuai 	模塊	c=0 d=7.49834e-06 t=6912
+mo ni qi 	模擬器	c=1 d=9.76472e-15 t=6912
+mo ren 	默認	c=3 d=0.000462069 t=6912
+mo ren can shu 	默認參數	c=1 d=6.46033e-08 t=6912
+mo ren qing kuang xia 	默認情況下	c=1 d=3.07488e-09 t=6912
+mo shi 	模式	c=7 d=3.88465e-05 t=6912
+mo shi pi pei 	模式匹配	c=2 d=3.87779e-08 t=6912
+mo shi xia 	模式下	c=1 d=0.000152934 t=6912
+mo xing 	模型	c=9 d=0.760342 t=6912
+mou ge 	某個	c=1 d=3.21641e-09 t=6912
+mou yi ge 	某一個	c=2 d=0.00195975 t=6912
+mou yi ge jie guo de 	某一個結果的	c=1 d=1.11685e-06 t=6912
+mu biao 	目標	c=2 d=2.7968e-11 t=6912
+mu biao di zhi 	目標地址	c=0 d=0.0879832 t=6912
+mu biao di zhi xiang tong de 	目標地址相同的	c=1 d=0.0695994 t=6912
+mu biao di zhi xiang tong shi 	目標地址相同時	c=1 d=0.814647 t=6912
+mu di 	目的	c=1 d=1.32464e-05 t=6912
+mu di shi 	目的是	c=1 d=0.000130387 t=6912
+mu qian 	目前	c=7 d=6.45923e-06 t=6912
+na 	哪	c=0 d=9.38025e-14 t=6912
+na 	那	c=2 d=0.057925 t=6912
+na ge 	那個	c=3 d=0.227638 t=6912
+na gen 	那根	c=0 d=1.17451e-11 t=6912
+na gen xian 	那根線	c=1 d=1.1804e-10 t=6912
+na li 	哪裏	c=1 d=0.00183156 t=6912
+na li 	那裏	c=1 d=1.14551e-10 t=6912
+na me 	那麼	c=10 d=0.0934861 t=6912
+na shun xu 	那順序	c=1 d=0.571209 t=6912
+na wei dao 	那味道	c=1 d=0.0109436 t=6912
+na wo men 	那我們	c=1 d=8.15063e-07 t=6912
+na wo men ke yi 	那我們可以	c=1 d=1.34729e-07 t=6912
+na xie 	那些	c=2 d=7.56298e-09 t=6912
+na yi tao 	那一套	c=0 d=1.00535e-05 t=6912
+na zhao de 	哪找的	c=1 d=9.42727e-13 t=6912
+nai niu 	奶牛	c=1 d=2.05618e-10 t=6912
+nan dian 	難點	c=0 d=0.000390694 t=6912
+nan gang qu 	南崗區	c=0 d=5.64257e-05 t=6912
+nan guo 	難過	c=0 d=1.90366e-16 t=6912
+nan guo shi 	難過時	c=1 d=1.9132e-15 t=6912
+nan qu 	南區	c=1 d=8.95992e-12 t=6912
+nan shou 	難受	c=0 d=0.0162838 t=6912
+ne 	呢	c=6 d=0.000304848 t=6912
+nei 	內	c=7 d=0.00447692 t=6912
+nei bu 	內部	c=0 d=7.86896e-06 t=6912
+nei bu de 	內部的	c=1 d=0.0441572 t=6912
+nei bu he 	內部和	c=1 d=7.9084e-05 t=6912
+nei cun 	內存	c=19 d=1.10281 t=6912
+nei cun cao zuo bi xu wan cheng 	內存操作必須完成	c=1 d=0.00102814 t=6912
+nei cun de 	內存的	c=1 d=0.00347995 t=6912
+nei cun di zhi 	內存地址	c=1 d=2.29566e-12 t=6912
+nei cun huan chong qu 	內存緩衝區	c=1 d=0.000426457 t=6912
+nei cun mo xing 	內存模型	c=4 d=1.83245 t=6912
+nei cun mo xing de hao huai 	內存模型的好壞	c=1 d=0.13068 t=6912
+nei cun mo xing shang 	內存模型上	c=1 d=0.484325 t=6912
+nei cun qiang 	內存牆	c=1 d=0.782705 t=6912
+nei cun xian zhi 	內存限制	c=1 d=0.625002 t=6912
+nei cun xie 	內存寫	c=1 d=0.637628 t=6912
+nei cun yi zhi xing 	內存一致性	c=1 d=0.733447 t=6912
+nei cun ying she de 	內存應捨得	c=1 d=7.82971e-05 t=6912
+nei cun zhi xing shun xu 	內存執行順序	c=1 d=0.38868 t=6912
+nei de 	內的	c=4 d=0.155639 t=6912
+nei he 	內核	c=1 d=5.72883e-06 t=6912
+nei rong 	內容	c=3 d=2.88336e-12 t=6912
+neng 	能	c=2 d=0.000147748 t=6912
+neng bei 	能被	c=1 d=3.137e-09 t=6912
+neng gou 	能夠	c=8 d=1.15648 t=6912
+neng gou fang bian de xie 	能夠方便的寫	c=1 d=0.131994 t=6912
+neng gou shi li hua de 	能夠實例化的	c=1 d=4.47316e-07 t=6912
+neng jie 	能解	c=0 d=0.00072265 t=6912
+neng jie jue 	能解覺	c=1 d=0.00726273 t=6912
+neng li 	能力	c=2 d=1.12638e-10 t=6912
+neng zuo 	能做	c=0 d=8.23255e-08 t=6912
+neng zuo de 	能做的	c=1 d=8.27381e-07 t=6912
+ni 	你	c=3 d=0.0265347 t=6912
+ni da kai 	你打開	c=1 d=1.00102e-12 t=6912
+ni dang 	你當	c=0 d=0.000744658 t=6912
+ni dang shi 	你當時	c=1 d=0.00748391 t=6912
+ni de 	你的	c=1 d=9.33346e-13 t=6912
+ni fa piao 	你發票	c=1 d=0.000277414 t=6912
+ni fen zhi 	你分支	c=1 d=0.00843808 t=6912
+ni gen 	你跟	c=1 d=0.0190631 t=6912
+ni hai shi 	你還是	c=1 d=0.00980366 t=6912
+ni hui 	你會	c=1 d=0.0581343 t=6912
+ni ke neng hui 	你可能會	c=1 d=0.0564161 t=6912
+ni ke yi 	你可以	c=2 d=4.91698e-07 t=6912
+ni ke yi zai 	你可以在	c=2 d=9.4761e-06 t=6912
+ni lai 	你來	c=1 d=0.0128424 t=6912
+ni ming 	匿名	c=2 d=5.93515e-08 t=6912
+ni ming han shu 	匿名函數	c=5 d=9.61915e-08 t=6912
+ni ming han shu ye shi ru ci 	匿名函數也是如此	c=1 d=1.18611e-08 t=6912
+ni qu 	你去	c=1 d=0.018043 t=6912
+ni shi 	你是	c=3 d=2.49482e-10 t=6912
+ni yong 	你用	c=0 d=1.27871e-11 t=6912
+ni yong de 	你用的	c=1 d=1.28512e-10 t=6912
+ni zhi qian 	你之前	c=1 d=0.000259956 t=6912
+nian 	年	c=5 d=0.00021605 t=6912
+nian tie 	粘貼	c=1 d=7.03707e-14 t=6912
+nian yue 	年月	c=1 d=3.26613e-13 t=6912
+nin 	您	c=1 d=1.55858e-15 t=6912
+nin hao 	您好	c=4 d=0.000166586 t=6912
+niu pi 	牛皮	c=1 d=0.0204798 t=6912
+nong ye da xue 	農業大學	c=1 d=5.10658e-07 t=6912
+nu li 	努力	c=1 d=4.68065e-11 t=6912
+nv peng you 	女朋友	c=1 d=1.82901e-15 t=6912
+o 	哦	c=1 d=7.79596e-13 t=6912
+o o 	哦哦	c=1 d=0.00946646 t=6912
+ou la 	歐拉	c=2 d=1.95717e-10 t=6912
+ou wen 	歐文	c=1 d=0.0126512 t=6912
+pai chu 	排除	c=1 d=1.46757e-13 t=6912
+pai lie 	排列	c=1 d=1.60911e-08 t=6912
+pai xu 	排序	c=0 d=2.61303e-07 t=6912
+pan duan 	判斷	c=1 d=1.52378e-14 t=6912
+pang lu 	旁路	c=4 d=1.15835 t=6912
+pao chu 	拋出	c=1 d=2.37662e-08 t=6912
+pao qi 	拋棄	c=0 d=0.0722527 t=6912
+pao qi de 	拋棄的	c=1 d=0.726149 t=6912
+pei ban 	陪伴	c=1 d=2.31495e-15 t=6912
+pei ban wo 	陪伴我	c=1 d=1.80178e-15 t=6912
+pei ni 	陪你	c=0 d=2.39594e-16 t=6912
+pei yang 	培養	c=1 d=8.63817e-14 t=6912
+pei zhi 	配置	c=2 d=0.000210371 t=6912
+pei zhi xin xi 	配置信息	c=2 d=0.000230831 t=6912
+peng 	彭	c=0 d=5.1863e-13 t=6912
+peng lao shi 	彭老師	c=1 d=5.2123e-12 t=6912
+pi ci 	批次	c=1 d=3.18549e-13 t=6912
+pi dou 	批鬥	c=1 d=0.0125881 t=6912
+pi ka 	皮卡	c=1 d=8.70098e-11 t=6912
+pi pei 	匹配	c=7 d=0.246763 t=6912
+pi pei de 	匹配的	c=1 d=4.5643e-09 t=6912
+pian shang 	片上	c=3 d=0.000101134 t=6912
+pin fan 	頻繁	c=0 d=2.81846e-15 t=6912
+pin fan de 	頻繁的	c=1 d=2.83259e-14 t=6912
+pin lv 	頻率	c=0 d=0.0594521 t=6912
+pin yin 	拼音	c=2 d=7.11875e-15 t=6912
+ping 	屏	c=1 d=5.42225e-06 t=6912
+ping ban 	平板	c=1 d=7.08703e-09 t=6912
+ping tai 	平臺	c=5 d=0.000261326 t=6912
+ping tai guan li fu wu 	平臺管理服務	c=1 d=5.19619e-05 t=6912
+ping tai xiang mu 	平臺項目	c=1 d=0.00065886 t=6912
+po duo 	頗多	c=1 d=3.71893e-11 t=6912
+po niang 	婆娘	c=0 d=7.41449e-12 t=6912
+pu tong de 	普通的	c=1 d=2.17732e-07 t=6912
+qi 	七	c=1 d=9.86118e-13 t=6912
+qi 	其	c=1 d=0.00437178 t=6912
+qi 	器	c=1 d=1.93276e-09 t=6912
+qi che 	汽車	c=1 d=8.11274e-11 t=6912
+qi ci 	其次	c=1 d=3.85271e-15 t=6912
+qi dian 	起點	c=3 d=0.0259348 t=6912
+qi dong 	啓動	c=10 d=0.00146131 t=6912
+qi dong dai ma 	啓動代碼	c=1 d=1.3138e-05 t=6912
+qi dong de guo cheng shi you 	啓動的過程是由	c=1 d=1.18285e-05 t=6912
+qi dong guo cheng 	啓動過程	c=1 d=3.52485e-05 t=6912
+qi dong guo cheng jie shu hou 	啓動過程結束後	c=1 d=5.14449e-05 t=6912
+qi dong jing xiang 	啓動鏡像	c=1 d=5.31703e-05 t=6912
+qi dong jing xiang zhong 	啓動鏡像中	c=1 d=5.94723e-05 t=6912
+qi dong liu cheng 	啓動流程	c=1 d=1.27653e-05 t=6912
+qi dong liu cheng fen wei san ji 	啓動流程分爲三級	c=1 d=1.17695e-05 t=6912
+qi dong mo shi 	啓動模式	c=1 d=2.97038e-05 t=6912
+qi jian 	期間	c=2 d=1.80137e-11 t=6912
+qi jian de 	期間的	c=1 d=2.12501e-15 t=6912
+qi shi 	其實	c=4 d=0.0642113 t=6912
+qi shi shi 	其實是	c=1 d=1.57191e-07 t=6912
+qi shi wu suo wei 	其實無所謂	c=1 d=0.574072 t=6912
+qi shi ye shi 	其實也是	c=2 d=1.6831e-08 t=6912
+qi ta 	其他	c=6 d=0.00618525 t=6912
+qi ta bao nei 	其他包內	c=1 d=1.68753e-09 t=6912
+qi ta de 	其他的	c=5 d=0.771291 t=6912
+qi ta di fang 	其他地方	c=0 d=1.22223e-09 t=6912
+qi ta han shu 	其他函數	c=1 d=3.01156e-09 t=6912
+qi ta he 	其他核	c=4 d=0.10917 t=6912
+qi ta shu ju 	其他數據	c=1 d=4.77276e-05 t=6912
+qi ta xi tong ruan jian 	其他系統軟件	c=1 d=6.12835e-05 t=6912
+qi ta yu yan de 	其他語言的	c=1 d=2.22744e-10 t=6912
+qi ta yuan su de 	其他元素的	c=1 d=1.27827e-06 t=6912
+qi ta zhi yi yang 	其他值一樣	c=1 d=8.27522e-09 t=6912
+qi yong 	啓用	c=0 d=0.00254765 t=6912
+qi zhong 	其中	c=3 d=0.000441132 t=6912
+qi zuo yong 	起作用	c=0 d=2.747e-07 t=6912
+qia hao 	恰好	c=1 d=2.06186e-13 t=6912
+qia men 	卡門	c=0 d=4.14205e-15 t=6912
+qian 	前	c=2 d=0.000154581 t=6912
+qian 	簽	c=0 d=6.91322e-12 t=6912
+qian cuo 	簽錯	c=2 d=0.00712089 t=6912
+qian hou 	前後	c=0 d=0.0540641 t=6912
+qian hou de 	前後的	c=1 d=0.543351 t=6912
+qian ming 	簽名	c=2 d=3.5978e-10 t=6912
+qian que 	欠缺	c=0 d=2.13015e-15 t=6912
+qian ru shi 	嵌入式	c=2 d=2.36774e-15 t=6912
+qian san 	前三	c=0 d=0.00507928 t=6912
+qian tao 	嵌套	c=1 d=1.30769e-09 t=6912
+qian tian 	前天	c=1 d=5.34425e-12 t=6912
+qian xu 	謙虛	c=1 d=4.32078e-11 t=6912
+qian zai 	潛在	c=1 d=7.01132e-06 t=6912
+qian zai feng xian fen xi 	潛在風險分析	c=1 d=7.46713e-06 t=6912
+qian zhi 	前置	c=0 d=9.16765e-09 t=6912
+qian zhi tiao jian 	前置條件	c=1 d=9.2136e-08 t=6912
+qian zi 	簽字	c=2 d=2.38315e-10 t=6912
+qiang 	牆	c=0 d=0.0778801 t=6912
+qiang hua 	強化	c=1 d=7.61797e-06 t=6912
+qiang zhi 	強制	c=1 d=3.20037e-09 t=6912
+qie 	且	c=1 d=8.01401e-14 t=6912
+qie huan 	切換	c=1 d=0.012386 t=6912
+qie huan dao 	切換到	c=1 d=0.000997758 t=6912
+qie huan hou 	切換後	c=1 d=0.11475 t=6912
+qin jian 	勤儉	c=1 d=5.19884e-11 t=6912
+qing chu 	清楚	c=4 d=0.000822019 t=6912
+qing chu diao 	清除掉	c=1 d=8.59509e-14 t=6912
+qing hua 	清華	c=2 d=2.09964e-13 t=6912
+qing kong 	清空	c=2 d=4.44385e-05 t=6912
+qing kuang 	情況	c=10 d=0.617465 t=6912
+qing kuang shi yi yang de 	情況是一樣的	c=1 d=9.07643e-08 t=6912
+qing kuang xia 	情況下	c=0 d=0.00237541 t=6912
+qing qiu 	請求	c=3 d=0.00632282 t=6912
+qing qiu xiao xi 	請求消息	c=1 d=0.000372602 t=6912
+qing wen 	請問	c=1 d=6.14735e-12 t=6912
+qiu 	求	c=1 d=2.07614e-06 t=6912
+qu 	區	c=0 d=0.0519442 t=6912
+qu 	去	c=0 d=1.22857e-11 t=6912
+qu bie 	區別	c=8 d=0.179661 t=6912
+qu bie shi 	區別是	c=1 d=0.183599 t=6912
+qu bie zai na 	區別在哪	c=1 d=9.38184e-15 t=6912
+qu dong 	驅動	c=3 d=1.96981e-05 t=6912
+qu fen 	區分	c=1 d=4.21338e-09 t=6912
+qu jue yu 	取決於	c=2 d=1.47417e-07 t=6912
+qu xiao 	取消	c=1 d=0.00191125 t=6912
+quan 	全	c=2 d=1.64311e-06 t=6912
+quan 	圈	c=2 d=1.04991e-06 t=6912
+quan bu 	全部	c=1 d=0.00518189 t=6912
+quan bu chuan di 	全部傳遞	c=1 d=7.13977e-08 t=6912
+quan bu si ge 	全部四個	c=1 d=0.0520787 t=6912
+quan ju 	全局	c=1 d=0.0701187 t=6912
+quan ju de 	全局的	c=1 d=1.48131e-05 t=6912
+quan ju de 	全聚德	c=1 d=1.46657e-05 t=6912
+quan mian 	全面	c=1 d=2.11369e-11 t=6912
+quan ni 	勸你	c=2 d=0.0262041 t=6912
+quan xian 	權限	c=1 d=0.353376 t=6912
+quan zhong 	權重	c=1 d=1.512e-11 t=6912
+quan zou 	全走	c=1 d=2.146e-13 t=6912
+que 	確	c=1 d=9.85615e-07 t=6912
+que 	缺	c=1 d=0.00537269 t=6912
+que bao 	確保	c=2 d=0.937067 t=6912
+que dian 	缺點	c=1 d=0.0421052 t=6912
+que dian jiu shi 	缺點就是	c=1 d=0.423162 t=6912
+que ding 	確定	c=3 d=7.89642e-13 t=6912
+que neng gou 	缺能夠	c=1 d=0.0515605 t=6912
+que ren 	確認	c=0 d=1.45272e-12 t=6912
+que shi 	確實	c=3 d=0.0300468 t=6912
+qun li 	羣裏	c=2 d=1.20338e-12 t=6912
+ran hou 	然後	c=10 d=0.00651408 t=6912
+ran hou fa chu 	然後發出	c=1 d=0.00259284 t=6912
+rang 	讓	c=2 d=0.0748271 t=6912
+rang cheng xu yuan zhi ling 	讓程序員指令	c=1 d=0.752014 t=6912
+rang he 	讓核	c=1 d=0.0212797 t=6912
+rang lei 	讓類	c=1 d=7.83104e-07 t=6912
+re qing 	熱情	c=1 d=3.8707e-11 t=6912
+ren 	人	c=2 d=0.351713 t=6912
+ren bu 	人不	c=0 d=6.23813e-09 t=6912
+ren cai 	人才	c=0 d=7.89335e-13 t=6912
+ren cai fu wu 	人才服務	c=2 d=1.61484e-11 t=6912
+ren he 	任何	c=3 d=0.00606664 t=6912
+ren sheng guan 	人生觀	c=2 d=5.32085e-11 t=6912
+ren shi dao 	認識到	c=1 d=4.06916e-11 t=6912
+ren wei 	認爲	c=2 d=0.115796 t=6912
+ren wei shi bai 	認爲失敗	c=1 d=0.00673795 t=6912
+ren wu 	任務	c=1 d=2.63337e-09 t=6912
+ren yi 	任意	c=1 d=8.43673e-08 t=6912
+ren yi duo ge 	任意多個	c=1 d=1.72133e-07 t=6912
+ren yuan 	人員	c=0 d=0.0162838 t=6912
+reng ran 	仍然	c=0 d=0.0060205 t=6912
+reng ran bi xu 	仍然必須	c=1 d=0.0605068 t=6912
+reng you 	仍有	c=1 d=2.2332e-11 t=6912
+ri 	日	c=4 d=0.000218221 t=6912
+ri qi 	日期	c=2 d=0.000214973 t=6912
+ri zi 	日子	c=2 d=4.58195e-15 t=6912
+rong cuo 	容錯	c=0 d=1.27497e-06 t=6912
+rong cuo de 	容錯的	c=2 d=2.86215e-05 t=6912
+rong liang 	容量	c=1 d=0.000581442 t=6912
+rong qia 	融洽	c=1 d=5.38402e-11 t=6912
+rong yi 	容易	c=0 d=0.0278873 t=6912
+rong yu 	冗餘	c=0 d=1.26861e-06 t=6912
+ru 	如	c=1 d=4.87001e-07 t=6912
+ru ci 	如此	c=0 d=1.1802e-09 t=6912
+ru guo 	如果	c=29 d=0.114092 t=6912
+ru guo liang ge 	如果兩個	c=1 d=0.0862936 t=6912
+ru guo shi 	如果是	c=1 d=0.0328764 t=6912
+ru guo yi shang bu zou 	如果以上步驟	c=1 d=2.35826e-05 t=6912
+ru guo you 	如果有	c=0 d=1.94581e-09 t=6912
+ru guo you yi ge zhi 	如果有一個值	c=1 d=1.95557e-08 t=6912
+ru he 	如何	c=5 d=0.136561 t=6912
+ru he jiang 	如何將	c=1 d=2.33075e-14 t=6912
+ru men 	入門	c=0 d=1.32129e-14 t=6912
+ru men shi pin 	入門視頻	c=1 d=1.32791e-13 t=6912
+ru shang 	如上	c=0 d=2.71967e-07 t=6912
+ru xia 	如下	c=6 d=0.189872 t=6912
+ru xia de 	如下的	c=2 d=0.00523805 t=6912
+ru xia fang cun shun xu 	如下訪存順序	c=1 d=0.822835 t=6912
+ru xia han shu 	如下函數	c=1 d=8.65611e-09 t=6912
+ru xia lei de 	如下類的	c=1 d=3.98723e-07 t=6912
+ru xia tu 	如下圖	c=1 d=0.109559 t=6912
+ru xia tu suo shi 	如下圖所示	c=1 d=0.0523397 t=6912
+ru xue 	入學	c=1 d=3.34881e-13 t=6912
+ru zhi 	入職	c=1 d=3.56842e-05 t=6912
+ruan jian 	軟件	c=13 d=0.00122747 t=6912
+ruan jian kai fa 	軟件開發	c=0 d=6.11253e-05 t=6912
+ruan jian kai fa de 	軟件開發的	c=1 d=0.000614317 t=6912
+ruan jian xue yuan 	軟件學院	c=2 d=0.000179056 t=6912
+ruan ying jian 	軟硬件	c=1 d=0.0412714 t=6912
+ruan yuan 	軟院	c=3 d=5.82175e-12 t=6912
+ruo 	弱	c=0 d=0.065377 t=6912
+ruo nei cun 	弱內存	c=1 d=0.657047 t=6912
+sa wang 	撒網	c=0 d=9.44524e-07 t=6912
+san 	三	c=0 d=1.26861e-06 t=6912
+san bu 	散步	c=1 d=2.29012e-13 t=6912
+san ci fang 	三次方	c=1 d=1.2849e-08 t=6912
+san fang 	三方	c=1 d=0.00690852 t=6912
+san ge 	三個	c=1 d=2.07685e-10 t=6912
+san ji 	三級	c=0 d=1.17108e-06 t=6912
+san mian 	三面	c=2 d=2.17953e-11 t=6912
+san mo rong yu 	三模冗餘	c=2 d=2.84787e-05 t=6912
+san nian 	三年	c=3 d=1.25511e-10 t=6912
+san re 	散熱	c=1 d=1.22582e-13 t=6912
+san tiao 	三條	c=0 d=0.000498261 t=6912
+san tiao lian xu de 	三條連續的	c=1 d=0.00247875 t=6912
+san tiao luan xu de 	三條亂序的	c=1 d=0.00252883 t=6912
+san zhong 	三種	c=1 d=8.85233e-09 t=6912
+san zhong qing kuang 	三種情況	c=1 d=8.8967e-08 t=6912
+sha yang 	啥樣	c=1 d=7.75708e-13 t=6912
+shan chu 	刪除	c=1 d=6.62613e-12 t=6912
+shang 	上	c=10 d=0.0619311 t=6912
+shang ban 	上板	c=1 d=4.56586e-13 t=6912
+shang ban 	上班	c=1 d=0.000249763 t=6912
+shang chuan 	上傳	c=3 d=1.88488e-13 t=6912
+shang de 	上的	c=3 d=0.0161809 t=6912
+shang dian 	上電	c=2 d=2.55921e-05 t=6912
+shang hai 	上海	c=5 d=0.00080306 t=6912
+shang jie 	上界	c=1 d=4.40657e-07 t=6912
+shang pin 	商品	c=1 d=0.000236397 t=6912
+shang wei 	尚未	c=1 d=1.06018e-11 t=6912
+shang xia lian 	上下聯	c=1 d=0.000156885 t=6912
+shang xia wen 	上下文	c=1 d=0.00096344 t=6912
+shang yao 	上藥	c=0 d=0.00146253 t=6912
+shang yi ci 	上一次	c=1 d=1.76125e-12 t=6912
+shao 	少	c=1 d=7.32301e-12 t=6912
+shao jian 	少見	c=0 d=2.1717e-07 t=6912
+she bei 	設備	c=5 d=0.000213676 t=6912
+she de 	捨得	c=0 d=7.79066e-06 t=6912
+she hui 	社會	c=2 d=6.96316e-11 t=6912
+she ji 	設計	c=4 d=0.000101714 t=6912
+she ji dao 	涉及到	c=1 d=2.8044e-14 t=6912
+she ji shi 	設計師	c=0 d=0.00122773 t=6912
+she zhi 	設置	c=4 d=0.00083016 t=6912
+she zhi de 	設置的	c=1 d=1.15125e-10 t=6912
+shen du 	深度	c=2 d=1.14683e-14 t=6912
+shen du xue xi 	深度學習	c=2 d=1.84375e-13 t=6912
+shen fen 	身份	c=1 d=3.10684e-13 t=6912
+shen fen yan zheng 	身份驗證	c=1 d=1.07083e-11 t=6912
+shen he 	審覈	c=4 d=1.77153e-11 t=6912
+shen me 	什麼	c=3 d=4.07277e-09 t=6912
+shen me yang de 	什麼樣的	c=1 d=6.50314e-15 t=6912
+shen me ye bu hui fa sheng 	什麼也不會發生	c=1 d=4.09944e-10 t=6912
+shen me zhuang tai 	什麼狀態	c=1 d=5.80533e-15 t=6912
+shen qi de 	神奇的	c=1 d=0.000833397 t=6912
+shen qing 	申請	c=6 d=8.33397e-05 t=6912
+shen qing de 	申請的	c=1 d=0.000837575 t=6912
+shen zhi 	甚至	c=0 d=3.40764e-13 t=6912
+shen zhi ke yi 	甚至可以	c=1 d=3.42472e-12 t=6912
+sheng 	生	c=1 d=5.07048e-11 t=6912
+sheng chan shang 	生產商	c=1 d=0.474734 t=6912
+sheng cheng 	生成	c=4 d=0.00962528 t=6912
+sheng cheng yi ge 	生成一個	c=1 d=0.000376347 t=6912
+sheng huo 	生活	c=3 d=1.23304e-10 t=6912
+sheng huo shang 	生活上	c=1 d=1.73922e-11 t=6912
+sheng lve 	省略	c=2 d=4.10492e-09 t=6912
+sheng lve le 	省略了	c=1 d=1.15106e-08 t=6912
+sheng ming 	聲明	c=5 d=2.30842e-07 t=6912
+sheng ming le 	聲明了	c=1 d=1.11415e-07 t=6912
+shi 	使	c=3 d=0.162838 t=6912
+shi 	市	c=1 d=0.000209665 t=6912
+shi 	式	c=1 d=2.2078e-07 t=6912
+shi 	是	c=83 d=1.28418 t=6912
+shi 	時	c=23 d=0.885863 t=6912
+shi a 	是啊	c=2 d=0.0099256 t=6912
+shi bai 	失敗	c=1 d=0.0414327 t=6912
+shi bai le 	失敗了	c=1 d=4.99584e-13 t=6912
+shi bu 	是不	c=0 d=1.37807e-09 t=6912
+shi bu neng 	是不能	c=1 d=0.216536 t=6912
+shi bu neng jie shou de 	是不能接受的	c=1 d=0.0297478 t=6912
+shi bu shi 	是不是	c=5 d=0.0155297 t=6912
+shi chang 	市場	c=1 d=4.95894e-14 t=6912
+shi de 	使得	c=5 d=0.26055 t=6912
+shi de 	時的	c=0 d=0.00020601 t=6912
+shi di 	師弟	c=1 d=0.000258659 t=6912
+shi fang 	釋放	c=3 d=0.32996 t=6912
+shi fen 	時分	c=0 d=2.40173e-15 t=6912
+shi fen fu yong 	時分復用	c=1 d=2.41377e-14 t=6912
+shi fou 	是否	c=4 d=0.114092 t=6912
+shi fou cheng gong 	是否成功	c=1 d=0.318224 t=6912
+shi fou ming zhong shi 	是否命中時	c=1 d=0.12307 t=6912
+shi fou yi zhi 	是否一直	c=1 d=0.00663763 t=6912
+shi fou you 	是否有	c=1 d=3.51202e-14 t=6912
+shi hou 	時候	c=9 d=0.0076078 t=6912
+shi ji 	實際	c=2 d=1.96893e-13 t=6912
+shi ji shang 	實際上	c=8 d=0.0917543 t=6912
+shi ji shang diao yong de jiu shi 	實際上調用的就是	c=1 d=4.48398e-06 t=6912
+shi ji shang shi 	實際上是	c=1 d=1.29781e-08 t=6912
+shi jian 	時間	c=3 d=0.00105145 t=6912
+shi jie 	世界	c=1 d=1.03005e-05 t=6912
+shi jue 	視覺	c=0 d=6.62275e-07 t=6912
+shi jue chu li lei 	視覺處理類	c=1 d=6.65595e-06 t=6912
+shi ke 	時刻	c=1 d=1.54654e-12 t=6912
+shi ke yi 	是可以	c=1 d=1.39192e-08 t=6912
+shi li 	實例	c=1 d=4.79475e-07 t=6912
+shi li 	示例	c=1 d=0.000587285 t=6912
+shi li hua 	實例化	c=0 d=4.45085e-08 t=6912
+shi nin 	是您	c=1 d=1.38234e-15 t=6912
+shi pin 	視頻	c=0 d=1.32129e-14 t=6912
+shi qing 	事情	c=1 d=4.06847e-09 t=6912
+shi shi 	試試	c=1 d=1.51339e-11 t=6912
+shi wo 	使我	c=1 d=2.30121e-11 t=6912
+shi wo de 	是我的	c=1 d=1.81989e-15 t=6912
+shi wu 	事務	c=1 d=3.02962e-11 t=6912
+shi wu 	是無	c=0 d=0.0763379 t=6912
+shi wu xu de 	是無序的	c=1 d=0.767206 t=6912
+shi xi 	實習	c=2 d=6.56383e-11 t=6912
+shi xian 	實現	c=25 d=2.24235 t=6912
+shi xian de 	實現得	c=1 d=0.138069 t=6912
+shi xian de 	實現的	c=1 d=0.000829808 t=6912
+shi xian dong tai bang ding 	實現動態綁定	c=1 d=1.43777e-07 t=6912
+shi xian duo xian cheng tong bu de ji chu 	實現多線程同步的基礎	c=1 d=0.00470091 t=6912
+shi xian jiu shi 	實現就是	c=1 d=1.14512e-06 t=6912
+shi xian le 	實現了	c=2 d=3.2398e-06 t=6912
+shi xian qu bie 	實現區別	c=1 d=1.47774e-06 t=6912
+shi xian shi 	實現時	c=1 d=0.00121866 t=6912
+shi xian yuan zi zhi ling yu 	實現原子指令與	c=1 d=0.179066 t=6912
+shi yan shi 	實驗室	c=0 d=0.00191587 t=6912
+shi yan shi de ma 	實驗室的嗎	c=1 d=0.0192547 t=6912
+shi yi ge 	是一個	c=1 d=6.50037e-09 t=6912
+shi yi ge dai ma kuai 	是一個代碼快	c=1 d=5.58928e-10 t=6912
+shi yi xia 	試一下	c=2 d=0.000305061 t=6912
+shi yi yang de 	是一樣的	c=1 d=0.0512678 t=6912
+shi yong 	使用	c=53 d=1.48242 t=6912
+shi yong can shu hua 	使用參數化	c=1 d=4.27633e-07 t=6912
+shi yong dao 	使用到	c=1 d=0.364219 t=6912
+shi yong de 	使用得	c=4 d=0.000254051 t=6912
+shi yong de 	使用的	c=1 d=0.000132358 t=6912
+shi yong de 	實用的	c=1 d=1.50083e-12 t=6912
+shi yong le 	使用了	c=0 d=4.18012e-05 t=6912
+shi yong ru xia dai ma lai 	使用如下代碼來	c=1 d=1.01057e-06 t=6912
+shi yong ta de 	使用它的	c=1 d=2.71311e-07 t=6912
+shi yong yi ge 	使用一個	c=2 d=0.00105419 t=6912
+shi yong yong tu 	使用用途	c=1 d=2.96297e-14 t=6912
+shi you 	是由	c=0 d=1.17695e-06 t=6912
+shi zai 	是在	c=2 d=0.954085 t=6912
+shi zhe 	試着	c=1 d=4.54308e-13 t=6912
+shi zhong 	時鐘	c=0 d=3.88138e-15 t=6912
+shi zhong zhong duan 	時鐘中斷	c=1 d=3.90084e-14 t=6912
+shou 	收	c=1 d=0.0028799 t=6912
+shou ce 	手冊	c=3 d=0.000707731 t=6912
+shou dong 	手動	c=2 d=1.84885e-09 t=6912
+shou huo 	收穫	c=1 d=3.70038e-11 t=6912
+shou quan 	授權	c=2 d=7.22688e-05 t=6912
+shou xian 	首先	c=2 d=0.00413691 t=6912
+shou xie 	手寫	c=1 d=6.8103e-11 t=6912
+shou yi 	獸醫	c=1 d=8.69668e-07 t=6912
+shu 	書	c=1 d=6.38171e-11 t=6912
+shu chu 	輸出	c=2 d=2.48211e-11 t=6912
+shu ju 	數據	c=17 d=0.574947 t=6912
+shu ju chou xiang 	數據抽象	c=1 d=9.16765e-08 t=6912
+shu ju de 	數據的	c=1 d=5.28747e-05 t=6912
+shu ju fen qu 	數據分區	c=1 d=2.82335e-05 t=6912
+shu ju jie gou 	數據結構	c=1 d=1.16583e-11 t=6912
+shu ju lei xing 	數據類型	c=2 d=1.26662e-08 t=6912
+shu ju she ji 	數據設計	c=1 d=1.81834e-05 t=6912
+shu ju xiang 	數據項	c=1 d=0.290835 t=6912
+shu li 	樹立	c=1 d=2.58167e-11 t=6912
+shu liang 	數量	c=1 d=3.42531e-14 t=6912
+shu ru 	輸入	c=1 d=9.88839e-16 t=6912
+shu xie 	書寫	c=0 d=4.61018e-10 t=6912
+shu xie de 	書寫的	c=1 d=4.63328e-09 t=6912
+shu xing 	屬性	c=3 d=1.58111e-07 t=6912
+shu zi 	數字	c=0 d=1.10574e-07 t=6912
+shu zi de 	數字的	c=1 d=1.11128e-06 t=6912
+shua 	刷	c=0 d=0.00161635 t=6912
+shua ji 	刷機	c=1 d=4.41797e-08 t=6912
+shua ji tian 	刷幾天	c=1 d=0.0162445 t=6912
+shua xin 	刷新	c=1 d=0.00190171 t=6912
+shui 	誰	c=1 d=2.51878e-15 t=6912
+shui ping 	水平	c=1 d=5.86168e-11 t=6912
+shun xu 	順序	c=17 d=1.91864 t=6912
+shuo 	說	c=2 d=1.59245e-11 t=6912
+shuo de 	說的	c=0 d=0.000970611 t=6912
+shuo de ying gai jiu shi zhe ge 	說的應該就是這個	c=1 d=0.00975476 t=6912
+shuo hua 	說話	c=1 d=1.33089e-10 t=6912
+shuo ming 	說明	c=1 d=0.000183756 t=6912
+shuo ming ren 	說明人	c=1 d=0.0002139 t=6912
+shuo qi lai 	說起來	c=1 d=0.00744658 t=6912
+shuo shi 	碩士	c=2 d=5.13177e-11 t=6912
+si 	死	c=0 d=4.22429e-11 t=6912
+si chuan 	四川	c=1 d=0.00150007 t=6912
+si chuan le 	四川了	c=1 d=0.0150707 t=6912
+si chuan nong ye da xue 	四川農業大學	c=1 d=5.13208e-06 t=6912
+si chuan sheng 	四川省	c=2 d=5.31493e-06 t=6912
+si ge 	四個	c=0 d=0.00518189 t=6912
+si wang 	死亡	c=1 d=1.01895e-15 t=6912
+si xiang 	思想	c=0 d=0.0737123 t=6912
+si xun huan 	死循環	c=1 d=4.24546e-10 t=6912
+si you 	私有	c=1 d=1.82394e-05 t=6912
+si you de 	私有的	c=2 d=5.30524e-05 t=6912
+song ti 	宋體	c=1 d=1.07657e-15 t=6912
+sou 	搜	c=0 d=8.35981e-12 t=6912
+sou suo 	搜索	c=1 d=3.58053e-06 t=6912
+su du 	速度	c=1 d=0.00927901 t=6912
+su du de 	速度的	c=1 d=2.16234e-14 t=6912
+su du kuai 	速度快	c=1 d=7.54603e-12 t=6912
+su shu 	素數	c=1 d=2.2774e-06 t=6912
+su yang 	素養	c=0 d=0.00124007 t=6912
+suan 	算	c=1 d=2.58211e-13 t=6912
+suan fa 	算法	c=3 d=6.42702e-06 t=6912
+suan fa ti 	算法題	c=1 d=1.09246e-11 t=6912
+suan li 	算曆	c=1 d=1.45296e-13 t=6912
+suan zi 	算子	c=8 d=1.4485e-05 t=6912
+sui bian 	隨便	c=2 d=4.29359e-12 t=6912
+sui ran 	雖然	c=8 d=0.946006 t=6912
+sui ran neng 	雖然能	c=0 d=4.14995e-08 t=6912
+sui ran neng gou 	雖然能夠	c=1 d=4.17075e-07 t=6912
+sui ran wo bu zhe me jue de 	雖然我不這麼覺得	c=1 d=0.0547488 t=6912
+sun shi 	損失	c=1 d=7.06753e-06 t=6912
+suo 	所	c=1 d=6.79015e-05 t=6912
+suo 	鎖	c=2 d=0.645008 t=6912
+suo ding 	鎖定	c=1 d=2.18786e-05 t=6912
+suo ha 	梭哈	c=1 d=1.00587e-10 t=6912
+suo shang 	鎖上	c=1 d=0.00481991 t=6912
+suo shi 	所示	c=0 d=0.00520787 t=6912
+suo wei 	所謂	c=2 d=0.00124328 t=6912
+suo xue 	所學	c=1 d=2.00058e-11 t=6912
+suo yi 	所以	c=37 d=1.48496 t=6912
+suo yi ke yi shi yong 	所以可以使用	c=1 d=2.99071e-06 t=6912
+suo yi ke yi yong shang 	所以可以用上	c=1 d=3.45738e-06 t=6912
+suo yin 	索引	c=4 d=7.21231e-05 t=6912
+suo yin shi 	索引時	c=1 d=1.6998e-06 t=6912
+suo you 	所有	c=7 d=0.00438296 t=6912
+suo you cao zuo 	所有操作	c=1 d=0.000639387 t=6912
+suo you cheng yuan 	所有成員	c=1 d=1.91222e-09 t=6912
+suo you dai ma 	所有代碼	c=1 d=9.83238e-08 t=6912
+suo you de 	所有的	c=5 d=0.0010231 t=6912
+suo you de lei 	所有的類	c=1 d=2.05512e-07 t=6912
+suo you de lei ne 	所有的類呢	c=1 d=5.46353e-07 t=6912
+suo you de lei xing can shu he 	所有的類型參數和	c=1 d=3.26446e-07 t=6912
+suo you ji cun qi de 	所有寄存器的	c=1 d=0.000122182 t=6912
+suo you ke neng de 	所有可能的	c=1 d=4.75058e-09 t=6912
+suo you lei 	所有類	c=1 d=3.17867e-08 t=6912
+suo you lei de 	所有類的	c=1 d=1.73863e-07 t=6912
+suo you xian cheng 	所有線程	c=1 d=2.38935e-12 t=6912
+suo you yong hu ding yi de 	所有用戶定義的	c=1 d=1.15962e-07 t=6912
+suo zai 	所在	c=1 d=3.09082e-11 t=6912
+ta 	她	c=2 d=6.64235e-11 t=6912
+ta 	它	c=18 d=0.999326 t=6912
+ta de 	他的	c=1 d=8.54931e-10 t=6912
+ta de 	它的	c=3 d=1.12982e-06 t=6912
+ta he 	他和	c=1 d=9.28849e-15 t=6912
+ta ke yi 	他可以	c=1 d=2.97534e-07 t=6912
+ta ke yi ying yong dao qi ta de 	他可以應用到其他的	c=1 d=2.69261e-06 t=6912
+ta men 	他們	c=5 d=0.167623 t=6912
+ta men guan li de 	他們管理的	c=1 d=1.18878e-05 t=6912
+ta men hu xiang ke yi fang wen 	他們互相可以訪問	c=1 d=4.15998e-06 t=6912
+ta shi 	他是	c=0 d=1.28158e-08 t=6912
+ta shuo 	他說	c=1 d=1.66671e-10 t=6912
+tai 	太	c=0 d=1.04118e-13 t=6912
+tai 	態	c=2 d=1.82678e-14 t=6912
+tai cha le 	太差了	c=1 d=0.00499159 t=6912
+tai chang le 	太長了	c=0 d=0.00105145 t=6912
+tai da 	太大	c=0 d=0.0169483 t=6912
+tai kao shang 	太靠上	c=1 d=1.04187e-12 t=6912
+tai shi ji 	臺式機	c=1 d=6.08308e-06 t=6912
+tang 	糖	c=0 d=1.29781e-09 t=6912
+tao lun 	討論	c=1 d=4.25645e-11 t=6912
+te 	特	c=0 d=4.14205e-15 t=6912
+te bie 	特別	c=1 d=7.28648e-12 t=6912
+te ding de 	特定的	c=1 d=5.99353e-08 t=6912
+te qia men 	特卡門	c=1 d=4.16281e-14 t=6912
+te quan 	特權	c=2 d=8.18039e-14 t=6912
+te quan zhi ling 	特權指令	c=1 d=2.8754e-14 t=6912
+te shu de 	特殊的	c=1 d=2.69958e-07 t=6912
+te shu qing kuang 	特殊情況	c=0 d=5.30206e-08 t=6912
+te xing 	特性	c=2 d=9.36019e-06 t=6912
+teng xun 	騰訊	c=0 d=4.40957e-16 t=6912
+teng xun hui yi 	騰訊會議	c=1 d=4.43167e-15 t=6912
+ti 	題	c=1 d=0.000151855 t=6912
+ti bu 	替補	c=0 d=4.15927e-05 t=6912
+ti bu fei xu bian de 	替補廢墟變的	c=1 d=0.000418012 t=6912
+ti chu e 	題除惡	c=1 d=0.00152616 t=6912
+ti dai 	替代	c=1 d=0.0104874 t=6912
+ti dao 	提到	c=1 d=0.0987662 t=6912
+ti dao guo 	提到過	c=1 d=3.76475e-08 t=6912
+ti fong 	題甮	c=1 d=0.000490542 t=6912
+ti gao 	提高	c=1 d=0.119414 t=6912
+ti gao cheng xu de xing neng 	提高程序的性能	c=1 d=0.579842 t=6912
+ti gao le 	提高了	c=0 d=0.00300468 t=6912
+ti gao le cheng xu xing neng 	提高了程序性能	c=1 d=0.0301974 t=6912
+ti gong 	提供	c=6 d=1.20206 t=6912
+ti gong de 	提供的	c=3 d=0.000250303 t=6912
+ti gong ge 	提供個	c=1 d=0.000636198 t=6912
+ti gong hu chi de 	提供互斥的	c=1 d=0.000510561 t=6912
+ti gong le 	提供了	c=1 d=2.88088e-07 t=6912
+ti gong le cuo wu de 	提供了錯誤的	c=1 d=2.13973e-08 t=6912
+ti huan 	替換	c=2 d=2.14572e-13 t=6912
+ti jian 	體檢	c=1 d=0.000220415 t=6912
+ti jiao 	提交	c=2 d=6.2857e-12 t=6912
+ti jiao de e 	提交的額	c=1 d=5.90631e-12 t=6912
+ti qu 	提取	c=0 d=4.77276e-06 t=6912
+ti qu chu lai 	提取出來	c=1 d=4.79669e-05 t=6912
+ti sheng 	提升	c=5 d=6.48191e-11 t=6912
+ti xi 	體系	c=1 d=7.27015e-15 t=6912
+tian 	填	c=1 d=0.000273284 t=6912
+tian 	天	c=0 d=9.78167e-07 t=6912
+tian jia 	添加	c=1 d=3.79406e-11 t=6912
+tian tang 	天堂	c=0 d=9.98777e-17 t=6912
+tian yan cha 	天嚴查	c=1 d=9.8307e-06 t=6912
+tiao 	條	c=2 d=9.785e-10 t=6912
+tiao jian 	條件	c=4 d=0.0539342 t=6912
+tiao jian xia 	條件下	c=0 d=0.0160414 t=6912
+tiao shi 	調試	c=2 d=4.70816e-11 t=6912
+tiao zheng 	調整	c=3 d=0.292974 t=6912
+tiao zheng dao 	調整到	c=1 d=0.0652193 t=6912
+tiao zhuan 	跳轉	c=2 d=2.63293e-07 t=6912
+tiao zhuan dao 	跳轉到	c=1 d=1.63426e-14 t=6912
+ting 	挺	c=1 d=0.00218339 t=6912
+ting guo 	聽過	c=1 d=0.000508015 t=6912
+ting niu pi 	挺牛皮	c=1 d=0.018968 t=6912
+ting shao 	聽少	c=1 d=1.65468e-13 t=6912
+ting shuo guo 	聽說過	c=1 d=1.06274e-10 t=6912
+ting you yi si 	挺有意思	c=0 d=7.26644e-10 t=6912
+ting you yi si de 	挺有意思的	c=1 d=7.30286e-09 t=6912
+ting zhe 	聽着	c=1 d=0.0188734 t=6912
+tong 	同	c=0 d=1.57833e-09 t=6912
+tong bu 	同步	c=0 d=0.000467746 t=6912
+tong chang 	通常	c=1 d=5.9349e-10 t=6912
+tong chang zhi you 	通常只有	c=1 d=2.52487e-14 t=6912
+tong dao 	通道	c=2 d=0.000920492 t=6912
+tong gou 	同構	c=0 d=1.39889e-09 t=6912
+tong gou de 	同構的	c=1 d=1.4059e-08 t=6912
+tong guo 	通過	c=9 d=0.105972 t=6912
+tong guo can shu hua 	通過參數化	c=1 d=3.92786e-07 t=6912
+tong li 	同理	c=1 d=0.0285814 t=6912
+tong shi 	同事	c=1 d=4.40807e-11 t=6912
+tong shi 	同時	c=7 d=0.00883095 t=6912
+tong su yi dong 	通俗易懂	c=0 d=2.2263e-05 t=6912
+tong su yi dong de 	通俗易懂的	c=1 d=0.000223746 t=6912
+tong xin 	通信	c=3 d=0.00116617 t=6912
+tong xin de guo cheng shi yong le 	通信的過程使用了	c=1 d=0.000420107 t=6912
+tong xue 	同學	c=2 d=1.08508e-10 t=6912
+tong yang 	同樣	c=2 d=0.010435 t=6912
+tong yang ke yi yong yi zhi xing de 	同樣可以用一致性的	c=1 d=0.104874 t=6912
+tong yang you 	同樣有	c=1 d=2.29488e-08 t=6912
+tong yi 	同一	c=1 d=1.53883e-12 t=6912
+tong yi de 	統一的	c=1 d=0.481909 t=6912
+tong yi ge 	同一個	c=3 d=0.0860751 t=6912
+tong yi ge bao nei 	同一個包內	c=1 d=1.51932e-09 t=6912
+tong yi ge he 	同一個核	c=2 d=0.80584 t=6912
+tong yi ge he shang de 	同一個核上的	c=1 d=0.113608 t=6912
+tong yi lei 	同一類	c=1 d=1.43431e-08 t=6912
+tong yong de 	通用的	c=1 d=0.0812682 t=6912
+tong zhi dan 	通知單	c=1 d=9.98437e-12 t=6912
+tou 	頭	c=0 d=1.26555e-07 t=6912
+tou bu 	頭部	c=2 d=5.86909e-05 t=6912
+tou yuan su 	頭元素	c=1 d=1.2719e-06 t=6912
+tu 	圖	c=1 d=9.47556e-13 t=6912
+tu de 	突的	c=0 d=0.000122477 t=6912
+tu pian 	圖片	c=1 d=1.30792e-11 t=6912
+tu shi 	圖示	c=0 d=1.03435e-16 t=6912
+tuan dui 	團隊	c=1 d=2.96963e-11 t=6912
+tuan jian 	團建	c=1 d=1.90327e-09 t=6912
+tuan zu zhi 	團組織	c=1 d=5.93288e-06 t=6912
+tui 	褪	c=0 d=3.16906e-12 t=6912
+tui bian wei 	褪變爲	c=1 d=3.18495e-11 t=6912
+tui ce 	推測	c=2 d=0.0421314 t=6912
+tui ce zhi xing 	推測執行	c=11 d=2.06922 t=6912
+tui ce zhi xing de 	推測執行的	c=3 d=0.0405582 t=6912
+tui ce zhi xing shi de 	推測執行時的	c=1 d=0.00207043 t=6912
+tui chi dao 	推遲到	c=1 d=2.4001e-06 t=6912
+tui chu 	推出	c=0 d=4.94361e-08 t=6912
+tui dao 	推導	c=1 d=6.09743e-07 t=6912
+tui guang 	推廣	c=0 d=5.40917e-08 t=6912
+tui guang dao 	推廣到	c=1 d=5.43628e-07 t=6912
+tui jian de 	推薦的	c=1 d=0.000703108 t=6912
+tuo chan 	脫產	c=1 d=8.68147e-14 t=6912
+tuo yun 	託運	c=1 d=6.11357e-06 t=6912
+wa o 	哇哦	c=1 d=0.0184997 t=6912
+wai bu 	外部	c=1 d=4.64459e-05 t=6912
+wai bu de 	外部的	c=1 d=7.94804e-05 t=6912
+wai bu yin jiao 	外部引腳	c=1 d=2.65893e-05 t=6912
+wai she 	外設	c=0 d=1.93078e-06 t=6912
+wai she zhi jian de 	外設之間的	c=1 d=1.94046e-05 t=6912
+wan 	完	c=1 d=0.000481991 t=6912
+wan 	玩	c=1 d=7.26644e-09 t=6912
+wan bi 	完畢	c=1 d=2.45552e-07 t=6912
+wan cheng 	完成	c=1 d=0.000203585 t=6912
+wan cheng hou 	完成後	c=0 d=0.0241714 t=6912
+wan cheng zhi qian 	完成之前	c=1 d=0.0282711 t=6912
+wan hang 	萬行	c=1 d=2.53753e-14 t=6912
+wan le 	完了	c=2 d=1.46138e-11 t=6912
+wan quan 	完全	c=2 d=0.00375417 t=6912
+wan quan ke yi 	完全可以	c=1 d=5.32954e-09 t=6912
+wan quan zuo dao 	完全做到	c=1 d=0.0232837 t=6912
+wan shan 	完善	c=1 d=2.38318e-11 t=6912
+wan shi 	完事	c=0 d=0.00162445 t=6912
+wan zheng de 	完整的	c=1 d=5.02174e-15 t=6912
+wang 	網	c=1 d=0.000159256 t=6912
+wang ji 	忘記	c=1 d=3.70101e-13 t=6912
+wang luo 	網絡	c=0 d=2.46891e-16 t=6912
+wang luo bu wen ding 	網絡不穩定	c=1 d=2.48128e-15 t=6912
+wang pan 	網盤	c=1 d=3.23198e-07 t=6912
+wang su 	網速	c=1 d=1.06666e-13 t=6912
+wang su ce shi 	網速測試	c=1 d=9.93796e-16 t=6912
+wang wang 	往往	c=0 d=0.0588605 t=6912
+wang wang bi 	往往比	c=1 d=0.591555 t=6912
+wang zhan 	網站	c=3 d=1.45853e-12 t=6912
+wang zhan de 	網站的	c=1 d=1.41002e-13 t=6912
+wang zheng 	王崢	c=2 d=1.85043e-12 t=6912
+wei 	尾	c=4 d=9.25444e-07 t=6912
+wei 	未	c=2 d=4.70843e-09 t=6912
+wei 	爲	c=22 d=0.184938 t=6912
+wei ce ding yi yi ge 	爲測定以一個	c=1 d=3.38949e-08 t=6912
+wei chi 	維持	c=3 d=0.660538 t=6912
+wei chi dao 	維持到	c=1 d=0.302704 t=6912
+wei ci 	爲此	c=2 d=3.40648e-08 t=6912
+wei dao 	味道	c=0 d=0.0010889 t=6912
+wei di gui 	尾遞歸	c=3 d=8.63977e-09 t=6912
+wei du 	維度	c=1 d=2.23034e-13 t=6912
+wei fan 	違反	c=1 d=0.00151855 t=6912
+wei fan le 	違反了	c=1 d=0.0230488 t=6912
+wei he 	爲何	c=2 d=3.96373e-12 t=6912
+wei hu 	維護	c=1 d=0.0608101 t=6912
+wei hu yi ge 	維護一個	c=1 d=6.02665e-14 t=6912
+wei le 	爲了	c=6 d=1.40235 t=6912
+wei le bi mian zhe ge qing kuang 	爲了避免這個情況	c=1 d=0.118837 t=6912
+wei le jie xi zhe ge zhi 	爲了解析這個值	c=1 d=1.96537e-08 t=6912
+wei le wo 	爲了我	c=0 d=1.97146e-16 t=6912
+wei ruan jian 	爲軟件	c=1 d=7.64289e-15 t=6912
+wei sha 	爲啥	c=1 d=8.27663e-11 t=6912
+wei she 	威懾	c=0 d=7.12134e-08 t=6912
+wei she ne me 	威懾呢麼	c=1 d=7.15703e-07 t=6912
+wei shen 	爲什	c=0 d=0.0909373 t=6912
+wei shen me 	爲什麼	c=4 d=1.82396e-06 t=6912
+wei tuo 	委託	c=1 d=6.60902e-11 t=6912
+wei tuo ren 	委託人	c=1 d=7.77319e-08 t=6912
+wei tuo shu 	委託書	c=2 d=1.27636e-10 t=6912
+wei xin 	微信	c=3 d=2.46087e-10 t=6912
+wei xing 	微星	c=1 d=0.000155324 t=6912
+wei yi 	唯一	c=0 d=0.0101774 t=6912
+wei yi ge 	爲一個	c=1 d=1.01791e-08 t=6912
+wei yi qu bie 	唯一區別	c=1 d=0.102284 t=6912
+wei yu 	位於	c=1 d=0.00160441 t=6912
+wei yuan 	委員	c=1 d=1.46782e-15 t=6912
+wei zhi 	位置	c=1 d=1.72637e-12 t=6912
+wen 	問	c=1 d=1.73473e-10 t=6912
+wen 	文	c=1 d=1.67102e-11 t=6912
+wen dang 	文檔	c=1 d=9.12037e-06 t=6912
+wen jian 	文件	c=19 d=0.000965141 t=6912
+wen jian chuan shu 	文件傳輸	c=1 d=7.17922e-14 t=6912
+wen jian fei chang zhong yao 	文件非常重要	c=1 d=0.000108366 t=6912
+wen jian jia 	文件夾	c=2 d=4.0169e-06 t=6912
+wen jian li 	文件裏	c=1 d=1.59722e-09 t=6912
+wen jian qi shi jiu shi yi ge 	文件其實就是一個	c=1 d=6.28349e-05 t=6912
+wen jian shou quan he jie mi 	文件授權和解密	c=1 d=4.34022e-05 t=6912
+wen jian ye 	文件也	c=1 d=9.28059e-05 t=6912
+wen jian yong yu 	文件用於	c=1 d=8.02792e-05 t=6912
+wen ming 	文明	c=1 d=1.21362e-13 t=6912
+wen ti 	問題	c=12 d=0.182694 t=6912
+wen ti bu da 	問題不大	c=1 d=0.0161635 t=6912
+wen xiong 	文兄	c=2 d=0.0287522 t=6912
+wo 	我	c=14 d=0.0190857 t=6912
+wo bu 	我不	c=0 d=0.00544757 t=6912
+wo bu shi 	我不是	c=1 d=7.41449e-11 t=6912
+wo bu tai 	我不太	c=1 d=1.80148e-13 t=6912
+wo cao 	我操	c=1 d=0.0108347 t=6912
+wo cong 	我從	c=1 d=1.12302e-12 t=6912
+wo dai le 	我待了	c=1 d=0.0135009 t=6912
+wo de 	我的	c=4 d=1.30124e-11 t=6912
+wo fa 	我發	c=0 d=7.19658e-14 t=6912
+wo fa yi ge 	我發一個	c=1 d=7.23266e-13 t=6912
+wo gan jue 	我感覺	c=2 d=0.0121665 t=6912
+wo hui 	我會	c=0 d=2.39594e-16 t=6912
+wo hui pei ni yi bei zi 	我會陪你一輩子	c=1 d=2.40795e-15 t=6912
+wo jiang 	我將	c=1 d=5.19973e-13 t=6912
+wo jiao 	我叫	c=1 d=3.89077e-13 t=6912
+wo ju 	我局	c=0 d=9.21831e-15 t=6912
+wo ju de 	我局的	c=1 d=9.26451e-14 t=6912
+wo kan zhe 	我看着	c=2 d=1.87169e-10 t=6912
+wo lai 	我來	c=0 d=1.50058e-11 t=6912
+wo lai shi shi 	我來試試	c=1 d=1.5081e-10 t=6912
+wo lian zhe 	我連着	c=1 d=1.30454e-10 t=6912
+wo ma 	我媽	c=0 d=0.00146253 t=6912
+wo ma shang yao 	我媽上藥	c=1 d=0.0146986 t=6912
+wo me 	我麼	c=0 d=2.81654e-07 t=6912
+wo me ne ke yi 	我麼呢可以	c=1 d=2.83066e-06 t=6912
+wo mei 	我沒	c=0 d=9.00784e-08 t=6912
+wo mei dong 	我沒懂	c=1 d=9.053e-07 t=6912
+wo men 	我們	c=11 d=2.63335e-07 t=6912
+wo men jiu ke yi 	我們就可以	c=1 d=9.23745e-09 t=6912
+wo men ke yi 	我們可以	c=2 d=6.10053e-08 t=6912
+wo men ke yi ren wei 	我們可以認爲	c=1 d=3.24818e-07 t=6912
+wo men shi 	我們是	c=0 d=2.2007e-16 t=6912
+wo men shi ming zhong zhu ding 	我們是命中註定	c=1 d=2.21173e-15 t=6912
+wo men ying gai 	我們應該	c=1 d=1.22223e-08 t=6912
+wo que ren 	我確認	c=1 d=1.46e-11 t=6912
+wo ru zhi 	我入職	c=1 d=0.000270565 t=6912
+wo shi 	我是	c=5 d=0.00936252 t=6912
+wo shi shi 	我試試	c=1 d=0.000290183 t=6912
+wo sou 	我搜	c=0 d=8.35981e-12 t=6912
+wo sou sou 	我搜搜	c=1 d=8.40172e-11 t=6912
+wo wen 	我問	c=0 d=1.64189e-11 t=6912
+wo wen le 	我問了	c=1 d=1.65012e-10 t=6912
+wo xie 	我寫	c=0 d=4.72769e-12 t=6912
+wo xie de 	我寫的	c=1 d=4.75138e-11 t=6912
+wo ye 	我也	c=6 d=0.00711891 t=6912
+wo yi 	我以	c=1 d=2.91082e-11 t=6912
+wo yi hui er 	我一會兒	c=1 d=1.1063e-12 t=6912
+wo yi jing 	我已經	c=2 d=3.01236e-15 t=6912
+wo yong 	我用	c=1 d=1.15145e-12 t=6912
+wo you 	我有	c=1 d=1.60938e-10 t=6912
+wo zai xia 	我在下	c=1 d=0.00029902 t=6912
+wu 	無	c=9 d=0.190179 t=6912
+wu cha 	誤差	c=3 d=3.85304e-11 t=6912
+wu di dong 	無底洞	c=0 d=9.44524e-07 t=6912
+wu fa 	無法	c=0 d=2.56792e-08 t=6912
+wu fa shi xian 	無法實現	c=1 d=2.58079e-07 t=6912
+wu fen lei 	無分類	c=1 d=0.00022263 t=6912
+wu li 	物理	c=1 d=6.41582e-14 t=6912
+wu li zi yuan 	物理資源	c=1 d=2.37784e-14 t=6912
+wu ran 	污染	c=1 d=7.24891e-10 t=6912
+wu ren ji 	無人機	c=2 d=0.00045771 t=6912
+wu suo wei 	無所謂	c=0 d=0.0571209 t=6912
+wu wu wu 	嗚嗚嗚	c=0 d=9.44524e-07 t=6912
+wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu di dong ding ding ding ding ding ding ding ding di di da da a a a a a a a a a a sa wang wu 	嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚無底洞頂頂頂頂頂頂頂頂滴滴答答啊啊啊啊啊啊啊啊啊啊撒網無	c=1 d=9.49258e-06 t=6912
+wu xian 	無線	c=1 d=3.99823e-10 t=6912
+xi bu 	西部	c=1 d=1.02539e-05 t=6912
+xi bu shi jie 	西部世界	c=1 d=9.54016e-06 t=6912
+xi li 	細粒	c=0 d=0.000334597 t=6912
+xi li du 	細粒度	c=2 d=0.0068279 t=6912
+xi tong 	系統	c=19 d=0.0124225 t=6912
+xi tong de 	系統的	c=1 d=5.23584e-05 t=6912
+xi tong de ge 	系統的哥	c=1 d=0.000113353 t=6912
+xi tong diao yong shi 	系統調用是	c=1 d=5.95229e-15 t=6912
+xi tong huan jing 	系統環境	c=1 d=5.04691e-15 t=6912
+xi tong ke yi 	系統可以	c=1 d=7.60478e-15 t=6912
+xi tong lai ti dai 	系統來替代	c=1 d=0.105399 t=6912
+xi tong ruan jian 	系統軟件	c=0 d=1.16987e-05 t=6912
+xi tong ruan jian ye hui 	系統軟件也會	c=1 d=5.62896e-05 t=6912
+xi tong tai 	系統態	c=2 d=8.39044e-14 t=6912
+xi tong zhong 	系統中	c=2 d=0.101842 t=6912
+xi wang 	希望	c=2 d=1.25621e-07 t=6912
+xia 	下	c=7 d=1.77393 t=6912
+xia ban 	下板	c=1 d=6.2252e-13 t=6912
+xia biao 	下表	c=0 d=0.008291 t=6912
+xia de 	下的	c=1 d=0.125556 t=6912
+xia hua xian 	下劃線	c=1 d=1.05982e-07 t=6912
+xia jia 	下架	c=0 d=2.36397e-05 t=6912
+xia jia le 	下架了	c=1 d=0.000237581 t=6912
+xia lai 	下來	c=3 d=6.57382e-07 t=6912
+xia lian 	下聯	c=0 d=1.56102e-05 t=6912
+xia tu 	下圖	c=0 d=0.00507928 t=6912
+xia tu zhong de qian san ge 	下圖中的前三個	c=1 d=0.0510474 t=6912
+xia yi ge 	下一個	c=5 d=1.09017e-08 t=6912
+xia zai 	下載	c=4 d=1.33389e-12 t=6912
+xia zai man 	下載慢	c=1 d=9.59451e-14 t=6912
+xian 	先	c=1 d=1.51618e-14 t=6912
+xian 	現	c=2 d=0.000375951 t=6912
+xian 	線	c=0 d=1.17451e-11 t=6912
+xian cheng 	線程	c=7 d=0.307345 t=6912
+xian cheng ke neng hui du qu dao yuan lai xian cheng zai 	線程可能會讀取到原來線程在	c=1 d=0.115903 t=6912
+xian cheng xin xi 	線程信息	c=1 d=0.12493 t=6912
+xian ding 	限定	c=0 d=0.00031042 t=6912
+xian du 	先讀	c=1 d=0.209088 t=6912
+xian kan 	先看	c=1 d=1.81457e-10 t=6912
+xian qian 	先前	c=1 d=0.0877012 t=6912
+xian ran 	顯然	c=0 d=0.000170572 t=6912
+xian ran bu shi yong 	顯然不適用	c=1 d=2.10752e-06 t=6912
+xian ran wei fan le 	顯然違反了	c=1 d=0.00171216 t=6912
+xian shi 	顯示	c=2 d=5.27908e-06 t=6912
+xian shi de 	顯示的	c=5 d=4.98252e-06 t=6912
+xian shi le 	顯示了	c=1 d=0.000593188 t=6912
+xian shi qi 	顯示器	c=6 d=2.48277e-10 t=6912
+xian you de 	現有的	c=1 d=9.51553e-05 t=6912
+xian zai 	現在	c=9 d=0.00136287 t=6912
+xian zai ni 	現在你	c=1 d=0.00873865 t=6912
+xian zhi 	限制	c=1 d=0.0621885 t=6912
+xian zhi le 	限制了	c=1 d=6.37954e-07 t=6912
+xiang 	像	c=1 d=0.375184 t=6912
+xiang 	想	c=3 d=8.70383e-06 t=6912
+xiang 	項	c=0 d=0.0289384 t=6912
+xiang chu 	相處	c=1 d=5.35717e-11 t=6912
+xiang dang yu 	相當於	c=3 d=0.0255068 t=6912
+xiang dao 	想到	c=0 d=1.92279e-16 t=6912
+xiang dao de 	想到的	c=1 d=1.93243e-15 t=6912
+xiang deng 	相等	c=0 d=4.83735e-08 t=6912
+xiang deng xing 	相等性	c=1 d=2.60673e-07 t=6912
+xiang dui yu 	相對於	c=1 d=0.066205 t=6912
+xiang fa 	想法	c=1 d=0.402524 t=6912
+xiang fa shi 	想法是	c=1 d=1.08384e-06 t=6912
+xiang fan 	相反	c=1 d=1.60523e-09 t=6912
+xiang guan de 	相關的	c=1 d=3.12029e-05 t=6912
+xiang hu 	相互	c=0 d=0.014808 t=6912
+xiang hu zhuan hua de neng li 	相互轉化的能力	c=1 d=0.148823 t=6912
+xiang jin 	相近	c=0 d=8.74311e-10 t=6912
+xiang jin de 	相近的	c=1 d=5.65718e-06 t=6912
+xiang mu 	項目	c=2 d=0.00138661 t=6912
+xiang ri kui 	向日葵	c=1 d=1.43133e-13 t=6912
+xiang si 	相似	c=0 d=0.0180866 t=6912
+xiang si de 	相似的	c=1 d=0.181772 t=6912
+xiang tong 	相同	c=3 d=0.0811841 t=6912
+xiang tong de 	相同的	c=0 d=0.00692564 t=6912
+xiang xin 	相信	c=1 d=2.2007e-15 t=6912
+xiang ying 	響應	c=1 d=0.000603428 t=6912
+xiang ying xiao xi 	響應消息	c=1 d=0.000393669 t=6912
+xiang zuo 	向左	c=0 d=2.54851e-07 t=6912
+xiao 	小	c=1 d=8.85534e-12 t=6912
+xiao de 	小的	c=1 d=1.77345e-05 t=6912
+xiao de duo 	小得多	c=0 d=2.49975e-15 t=6912
+xiao guo 	效果	c=2 d=0.094712 t=6912
+xiao guo he 	效果和	c=1 d=0.0424257 t=6912
+xiao kan le 	小看了	c=1 d=0.0098528 t=6912
+xiao peng 	小鵬	c=1 d=8.96597e-11 t=6912
+xiao shi 	小事	c=2 d=3.96101e-10 t=6912
+xiao xi 	消息	c=5 d=0.00218514 t=6912
+xiao zu 	小組	c=1 d=1.94681e-14 t=6912
+xie 	寫	c=10 d=0.401454 t=6912
+xie bu fen 	寫部分	c=1 d=0.261846 t=6912
+xie cao zuo 	寫操作	c=1 d=0.0487467 t=6912
+xie cao zuo wan cheng zhi qian 	寫操作完成之前	c=1 d=0.273898 t=6912
+xie fa 	寫法	c=2 d=4.1898e-06 t=6912
+xie quan 	寫全	c=0 d=0.0292293 t=6912
+xie quan xian 	寫權限	c=2 d=0.547859 t=6912
+xie ru 	寫入	c=4 d=0.0622694 t=6912
+xie ru dao 	寫入到	c=1 d=0.0249246 t=6912
+xie ru dao nei cun 	寫入到內存	c=1 d=0.0290133 t=6912
+xie ru shu ju de 	寫入數據的	c=1 d=0.000531398 t=6912
+xie tiao 	協調	c=1 d=1.28246e-15 t=6912
+xie wan 	寫完	c=1 d=0.00431784 t=6912
+xie xie 	謝謝	c=3 d=7.34771e-11 t=6912
+xie yi 	協議	c=5 d=0.00401041 t=6912
+xie yi ge 	寫一個	c=1 d=0.000391706 t=6912
+xie yi ju 	寫一句	c=1 d=1.02867e-09 t=6912
+xie zai 	寫在	c=1 d=1.14828e-09 t=6912
+xie zhi ling 	寫指令	c=3 d=0.695866 t=6912
+xie zhi ling de 	寫指令的	c=1 d=0.22091 t=6912
+xin 	新	c=0 d=0.011475 t=6912
+xin de 	新的	c=1 d=0.00822975 t=6912
+xin de han shu 	新的函數	c=1 d=8.29523e-08 t=6912
+xin hao 	信號	c=1 d=4.2699e-05 t=6912
+xin jian 	新建	c=1 d=8.98459e-06 t=6912
+xin neng yuan 	新能源	c=2 d=1.6949e-10 t=6912
+xin pian 	芯片	c=1 d=1.39913e-10 t=6912
+xin shi jie 	新世界	c=1 d=4.3522e-08 t=6912
+xin wang 	新網	c=0 d=5.08101e-07 t=6912
+xin xi 	信息	c=17 d=0.0253785 t=6912
+xin xi hua 	信息化	c=1 d=1.12865e-12 t=6912
+xin xi ping tai 	信息平臺	c=2 d=1.04386e-05 t=6912
+xin xi wang 	信息網	c=1 d=1.01809e-05 t=6912
+xin yun xing de 	新運行的	c=1 d=0.115325 t=6912
+xin zeng 	新增	c=0 d=7.73574e-11 t=6912
+xin zeng yi ge 	新增一個	c=1 d=7.77451e-10 t=6912
+xing 	性	c=2 d=0.160227 t=6912
+xing 	行	c=1 d=2.01812e-08 t=6912
+xing bu 	行不	c=3 d=0.000293532 t=6912
+xing can 	行參	c=1 d=3.67117e-06 t=6912
+xing ming 	姓名	c=1 d=3.07593e-13 t=6912
+xing neng 	性能	c=9 d=0.948275 t=6912
+xing neng wen ti 	性能問題	c=1 d=1.87857e-06 t=6912
+xing qu 	興趣	c=1 d=1.87468e-11 t=6912
+xing shi 	形式	c=1 d=2.24169e-06 t=6912
+xing shi hua 	形式化	c=3 d=0.477273 t=6912
+xing shi hua ding yi 	形式化定義	c=1 d=0.0658748 t=6912
+xing wei 	行爲	c=2 d=3.13593e-05 t=6912
+xiong di men 	兄弟們	c=1 d=1.05762e-12 t=6912
+xiu fu 	修復	c=1 d=0.000288735 t=6912
+xiu gai 	修改	c=12 d=0.0740521 t=6912
+xiu gai de 	修改的	c=0 d=1.37807e-09 t=6912
+xiu gai guo 	修改過	c=1 d=1.58214e-15 t=6912
+xiu gai wei 	修改爲	c=1 d=0.000212834 t=6912
+xiu gai yi jian 	修改意見	c=1 d=1.09831e-15 t=6912
+xu 	序	c=0 d=0.0763379 t=6912
+xu 	旭	c=1 d=0.000257369 t=6912
+xu 	需	c=1 d=6.9972e-06 t=6912
+xu bu xu yao 	需不需要	c=0 d=2.13421e-08 t=6912
+xu ni 	虛擬	c=0 d=2.33075e-15 t=6912
+xu ni hua 	虛擬化	c=3 d=2.00162e-13 t=6912
+xu ni hua de 	虛擬化的	c=1 d=2.9043e-14 t=6912
+xu ni hua dui 	虛擬化對	c=1 d=6.79503e-14 t=6912
+xu ni ji 	虛擬機	c=6 d=5.25745e-14 t=6912
+xu ni ji de 	虛擬機的	c=2 d=5.2328e-14 t=6912
+xu ni nei cun 	虛擬內存	c=0 d=5.5633e-15 t=6912
+xu ni nei cun de 	虛擬內存的	c=1 d=5.59119e-14 t=6912
+xu ni zi yuan 	虛擬資源	c=2 d=7.69018e-14 t=6912
+xu ni zi yuan ke neng 	虛擬資源可能	c=1 d=2.38976e-14 t=6912
+xu yao 	需要	c=16 d=0.967323 t=6912
+xu yao bei 	需要被	c=1 d=0.0023935 t=6912
+xu yao de 	需要的	c=2 d=2.14454e-05 t=6912
+xu yao nei cun shun xu de di fang 	需要內存順序的地方	c=1 d=0.755784 t=6912
+xu yao shi yong 	需要使用	c=1 d=1.40567e-06 t=6912
+xu yao you 	需要由	c=1 d=0.000140543 t=6912
+xu yao zai 	需要在	c=0 d=4.30816e-07 t=6912
+xuan 	選	c=1 d=1.53857e-10 t=6912
+xuan qu 	選取	c=1 d=0.00375375 t=6912
+xuan xiang 	選項	c=1 d=8.44383e-11 t=6912
+xuan ze 	選擇	c=4 d=0.03909 t=6912
+xuan ze de 	選擇的	c=1 d=2.68566e-05 t=6912
+xuan ze le 	選擇了	c=1 d=8.31387e-05 t=6912
+xuan ze qi 	選擇器	c=1 d=4.45161e-09 t=6912
+xuan zhong 	選中	c=0 d=3.68005e-06 t=6912
+xuan zhong de 	選中的	c=1 d=3.69849e-05 t=6912
+xue 	學	c=0 d=5.08101e-07 t=6912
+xue 	血	c=0 d=2.20415e-05 t=6912
+xue chang gui 	血常規	c=1 d=0.000221519 t=6912
+xue hao 	學號	c=3 d=0.000174253 t=6912
+xue sheng 	學生	c=8 d=0.00019014 t=6912
+xue wei 	學位	c=4 d=6.64179e-12 t=6912
+xue wei zheng 	學位證	c=1 d=6.54326e-11 t=6912
+xue xi 	學習	c=11 d=2.26406e-05 t=6912
+xue xi shang 	學習上	c=1 d=1.71333e-11 t=6912
+xue xin wang 	學新網	c=1 d=5.10648e-06 t=6912
+xue yuan 	學院	c=1 d=3.81372e-13 t=6912
+xun huan 	循環	c=2 d=4.2275e-11 t=6912
+xun lei 	迅雷	c=5 d=3.14314e-13 t=6912
+ya chen 	亞琛	c=1 d=0.00990218 t=6912
+ya suo 	壓縮	c=1 d=6.31499e-05 t=6912
+yan cha 	嚴查	c=0 d=9.78167e-07 t=6912
+yan gai 	掩蓋	c=1 d=0.0225956 t=6912
+yan ge yao qiu 	嚴格要求	c=0 d=1.73922e-12 t=6912
+yan ge yao qiu zi ji 	嚴格要求自己	c=1 d=1.74794e-11 t=6912
+yan jiu 	研究	c=1 d=5.63184e-11 t=6912
+yan jiu fang xiang 	研究方向	c=1 d=4.38757e-15 t=6912
+yan jiu sheng 	研究生	c=14 d=5.23596e-06 t=6912
+yan san 	研三	c=2 d=0.000171659 t=6912
+yan shi 	延時	c=2 d=0.0228227 t=6912
+yan zheng 	驗證	c=3 d=0.0128615 t=6912
+yan zhong de 	嚴重的	c=1 d=1.8692e-06 t=6912
+yang 	樣	c=1 d=2.52248e-10 t=6912
+yang zi 	樣子	c=1 d=1.46353e-10 t=6912
+yao 	要	c=10 d=1.28064 t=6912
+yao dui 	要對	c=0 d=0.013332 t=6912
+yao dui da duo shu yong hu 	要對大多數用戶	c=1 d=0.133989 t=6912
+yao fan hui yi ge 	要返回一個	c=1 d=1.39865e-06 t=6912
+yao hao 	要好	c=1 d=0.16696 t=6912
+yao ji suan 	要計算	c=1 d=9.90555e-07 t=6912
+yao kai shi 	要開始	c=1 d=0.0151463 t=6912
+yao me 	要麼	c=1 d=0.0685632 t=6912
+yao me shi 	要麼是	c=2 d=3.84329e-08 t=6912
+yao qiu 	要求	c=3 d=0.00430669 t=6912
+yao qiu suo you de he 	要求所有的核	c=1 d=0.0432828 t=6912
+yao xiao de duo 	要小得多	c=1 d=2.51228e-14 t=6912
+yao zai 	要在	c=1 d=1.29112e-06 t=6912
+yao zhu yi 	要注意	c=0 d=0.0909373 t=6912
+ye 	也	c=4 d=0.252429 t=6912
+ye biao 	也表	c=1 d=6.05686e-14 t=6912
+ye bu dao 	也不到	c=1 d=1.757e-13 t=6912
+ye bu hui 	也不會	c=0 d=4.079e-11 t=6912
+ye bu neng 	也不能	c=0 d=0.000419023 t=6912
+ye bu neng dui 	也不能對	c=1 d=0.00421123 t=6912
+ye cheng 	也稱	c=0 d=3.89818e-07 t=6912
+ye cheng li 	也成立	c=1 d=0.715338 t=6912
+ye cheng wei 	也稱尾	c=1 d=3.91772e-06 t=6912
+ye de 	也得	c=0 d=0.0225373 t=6912
+ye de pang lu 	也得旁路	c=1 d=0.226502 t=6912
+ye fei 	也非	c=0 d=2.47362e-09 t=6912
+ye fei chang you yong 	也非常有用	c=1 d=2.48601e-08 t=6912
+ye hui 	也會	c=4 d=0.000415459 t=6912
+ye jiu 	也就	c=0 d=5.31669e-11 t=6912
+ye jiu bu hui 	也就不會	c=1 d=5.34334e-10 t=6912
+ye ke neng 	也可能	c=2 d=2.26954e-09 t=6912
+ye ke neng shi 	也可能是	c=1 d=2.42587e-14 t=6912
+ye ke yi 	也可以	c=4 d=0.000116603 t=6912
+ye ke yi shi xian yi zhi xing 	也可以實現一致性	c=1 d=0.00117088 t=6912
+ye ke yi shi yong 	也可以使用	c=1 d=5.63088e-09 t=6912
+ye ke yi xie 	也可以寫	c=1 d=6.05377e-08 t=6912
+ye mian 	頁面	c=1 d=7.54731e-14 t=6912
+ye shi 	也是	c=9 d=0.375311 t=6912
+ye shi yi ge 	也是一個	c=1 d=2.1939e-08 t=6912
+ye xing 	也行	c=1 d=0.00144449 t=6912
+ye yao 	也要	c=1 d=9.71272e-11 t=6912
+ye yin ci 	也因此	c=1 d=8.83098e-09 t=6912
+ye ying gai 	也應該	c=1 d=8.35697e-07 t=6912
+ye you 	也有	c=0 d=2.91736e-09 t=6912
+ye you ke neng 	也有可能	c=1 d=0.063609 t=6912
+ye you yi ge 	也有一個	c=1 d=2.93199e-08 t=6912
+ye zhi 	也只	c=0 d=2.35258e-07 t=6912
+ye zhi hui ji suan yi ci 	也只會計算一次	c=1 d=2.36437e-06 t=6912
+yi 	以	c=9 d=0.000259523 t=6912
+yi 	億	c=0 d=1.03435e-16 t=6912
+yi 	義	c=1 d=3.02179e-10 t=6912
+yi ban 	一般	c=1 d=2.7347e-12 t=6912
+yi ban dou 	一般都	c=0 d=5.48998e-06 t=6912
+yi ban dou hui 	一般都會	c=1 d=5.5175e-05 t=6912
+yi ban qing kuang xia 	一般情況下	c=1 d=0.000363402 t=6912
+yi bei zi 	一輩子	c=0 d=2.39594e-16 t=6912
+yi bian 	一遍	c=1 d=2.15676e-13 t=6912
+yi bian 	以便	c=1 d=1.74853e-15 t=6912
+yi bu fen 	一部分	c=1 d=2.00126e-15 t=6912
+yi chang 	一場	c=1 d=3.78555e-14 t=6912
+yi chang 	異常	c=1 d=7.03108e-05 t=6912
+yi chang deng ji 	異常等級	c=2 d=0.0014683 t=6912
+yi chu 	移除	c=0 d=3.33041e-08 t=6912
+yi ci 	一次	c=4 d=0.00785858 t=6912
+yi da 	一大	c=0 d=0.000390694 t=6912
+yi da nan dian 	一大難點	c=1 d=0.00392653 t=6912
+yi dan 	一旦	c=1 d=3.94692e-05 t=6912
+yi dan zhe ge 	一旦這個	c=1 d=2.01026e-09 t=6912
+yi di 	異地	c=2 d=4.37558e-15 t=6912
+yi dian 	一點	c=0 d=4.19451e-16 t=6912
+yi ding 	一定	c=2 d=0.000375401 t=6912
+yi ding shun xu 	一定順序	c=1 d=0.00377257 t=6912
+yi ding you 	一定有	c=0 d=0.0351692 t=6912
+yi ding you yi ge 	一定有一個	c=1 d=0.353455 t=6912
+yi ding zai 	一定在	c=0 d=0.0323033 t=6912
+yi dong 	移動	c=1 d=9.88671e-14 t=6912
+yi duan 	一段	c=1 d=2.0315e-15 t=6912
+yi dui 	一堆	c=1 d=2.12942e-10 t=6912
+yi dui 	一對	c=2 d=0.41826 t=6912
+yi ge 	一個	c=52 d=0.732149 t=6912
+yi ge bao 	一個包	c=1 d=1.6256e-09 t=6912
+yi ge biao da shi 	一個表達式	c=1 d=3.72792e-10 t=6912
+yi ge cheng xu 	一個程序	c=1 d=0.0882497 t=6912
+yi ge chu li qi he 	一個處理器核	c=1 d=0.0437178 t=6912
+yi ge dian xing de 	一個典型的	c=1 d=1.13373e-06 t=6912
+yi ge hao de 	一個好的	c=0 d=0.013466 t=6912
+yi ge hao de mo xing 	一個好的模型	c=3 d=0.430052 t=6912
+yi ge he 	一個核	c=1 d=0.00402593 t=6912
+yi ge lei 	一個類	c=1 d=4.12777e-07 t=6912
+yi ge lei ding yi zai 	一個類定義在	c=1 d=3.97693e-06 t=6912
+yi ge lei xing 	一個類型	c=1 d=7.96997e-08 t=6912
+yi ge peng you 	一個朋友	c=1 d=0.0177743 t=6912
+yi ge shi 	一個是	c=2 d=0.145982 t=6912
+yi ge su shu 	一個素數	c=1 d=9.75808e-07 t=6912
+yi ge xi tong 	一個系統	c=1 d=3.37374e-12 t=6912
+yi ge zhi 	一個值	c=2 d=2.91288e-09 t=6912
+yi gou 	異構	c=0 d=3.11223e-05 t=6912
+yi gou duo he xi tong 	異構多核系統	c=1 d=0.000312783 t=6912
+yi hang 	一行	c=1 d=1.08359e-09 t=6912
+yi hang de 	一行的	c=1 d=1.15404e-09 t=6912
+yi hui 	翼輝	c=4 d=2.57517e-05 t=6912
+yi hui cao zuo xi tong de 	翼輝操作系統的	c=1 d=7.35596e-06 t=6912
+yi hui er 	一會兒	c=1 d=0.000303539 t=6912
+yi huo 	已獲	c=0 d=3.34653e-06 t=6912
+yi huo de 	已獲得	c=1 d=3.70472e-05 t=6912
+yi ji 	一級	c=3 d=0.00283702 t=6912
+yi ji 	以及	c=3 d=7.30037e-05 t=6912
+yi jian 	意見	c=3 d=6.73468e-12 t=6912
+yi jing 	已經	c=4 d=0.0218525 t=6912
+yi jing bei 	已經被	c=1 d=0.0323869 t=6912
+yi jing ti jiao de 	已經提交的	c=1 d=8.50957e-14 t=6912
+yi jing you 	已經有	c=0 d=3.06642e-07 t=6912
+yi jing you yi ge 	已經有一個	c=1 d=3.08179e-06 t=6912
+yi jing zhi xing wan bi 	已經執行完畢	c=1 d=2.64657e-09 t=6912
+yi ju 	一句	c=0 d=1.02354e-10 t=6912
+yi ke yi 	亦可以	c=1 d=5.97704e-05 t=6912
+yi lai 	依賴	c=1 d=0.787488 t=6912
+yi lai de 	依賴的	c=1 d=0.242263 t=6912
+yi lei 	一類	c=1 d=0.000539429 t=6912
+yi ming 	一名	c=1 d=4.97008e-11 t=6912
+yi mo yi yang 	一模一樣	c=0 d=0.00478349 t=6912
+yi mo yi yang de 	一模一樣的	c=1 d=0.0480747 t=6912
+yi nian 	一年	c=1 d=0.0135686 t=6912
+yi qing 	疫情	c=1 d=6.47816e-11 t=6912
+yi shang 	以上	c=2 d=5.32773e-06 t=6912
+yi shang de 	以上的	c=1 d=0.000104638 t=6912
+yi si shi 	意思是	c=1 d=0.00675424 t=6912
+yi tu tu shi 	億圖圖示	c=1 d=1.03954e-15 t=6912
+yi wei zhe 	意味着	c=1 d=1.43797e-08 t=6912
+yi xi lie 	一系列	c=1 d=8.05144e-10 t=6912
+yi xia 	一下	c=3 d=0.00201788 t=6912
+yi xia 	以下	c=1 d=0.00994512 t=6912
+yi xia bu zou 	以下步驟	c=1 d=2.59329e-05 t=6912
+yi xie 	一些	c=3 d=0.0160414 t=6912
+yi xie lei xing 	一些類型	c=1 d=4.88261e-08 t=6912
+yi xie yu yan hui 	一些語言會	c=1 d=3.4837e-07 t=6912
+yi yang 	一樣	c=5 d=1.0703 t=6912
+yi yang de 	一樣的	c=2 d=0.00786895 t=6912
+yi yi ge 	以一個	c=1 d=1.348e-08 t=6912
+yi zhang 	一張	c=1 d=1.30139e-11 t=6912
+yi zhao 	依照	c=0 d=1.53037e-07 t=6912
+yi zhi 	一直	c=5 d=0.000660453 t=6912
+yi zhi 	一致	c=1 d=0.0484325 t=6912
+yi zhi de 	一致的	c=1 d=0.0536647 t=6912
+yi zhi xing 	一致性	c=10 d=0.102637 t=6912
+yi zhi xing de 	一致性的	c=1 d=0.0117552 t=6912
+yi zhong 	一種	c=2 d=0.00970049 t=6912
+yi zhou 	一週	c=0 d=0.00141223 t=6912
+yi zhou yi ci 	一週一次	c=1 d=0.0141931 t=6912
+yin 	因	c=1 d=0.000176887 t=6912
+yin cang 	隱藏	c=1 d=2.88284e-15 t=6912
+yin ci 	因此	c=2 d=3.36726e-07 t=6912
+yin ci er 	因此而	c=0 d=0.0625002 t=6912
+yin ci er ke yi 	因此而可以	c=1 d=0.628135 t=6912
+yin ci ke yi sheng lve 	因此可以省略	c=1 d=1.64162e-08 t=6912
+yin dao 	引導	c=0 d=2.72764e-12 t=6912
+yin dao xia 	引導下	c=1 d=2.74131e-11 t=6912
+yin fa 	引發	c=0 d=0.000327971 t=6912
+yin fa de cao zuo 	引發的操作	c=1 d=0.00329615 t=6912
+yin hang 	銀行	c=1 d=9.78167e-06 t=6912
+yin jiao 	引腳	c=0 d=2.64567e-06 t=6912
+yin ru 	引入	c=1 d=0.0111918 t=6912
+yin ru duo xian cheng hou 	引入多線程後	c=1 d=0.112478 t=6912
+yin ru jin lai le 	引入進來了	c=1 d=1.07306e-06 t=6912
+yin wei 	因爲	c=46 d=3.8424 t=6912
+yin wei diao huan le 	因爲調換了	c=1 d=0.0528657 t=6912
+yin wei ke yi ying yong 	因爲可以應用	c=1 d=0.412714 t=6912
+yin wei ta 	因爲它	c=1 d=0.000108909 t=6912
+yin wei ta men bao liu le mei yi ge xian cheng nei de 	因爲他們保留了每一個線程內的	c=1 d=0.386741 t=6912
+yin wei you 	因爲有	c=1 d=0.167797 t=6912
+ying 	應	c=0 d=7.79066e-06 t=6912
+ying 	硬	c=1 d=0.000476044 t=6912
+ying gai 	應該	c=7 d=0.0653046 t=6912
+ying gai bei 	應該被	c=1 d=0.145876 t=6912
+ying gai neng gou 	應該能夠	c=1 d=0.136014 t=6912
+ying gai shi 	應該是	c=4 d=0.00396326 t=6912
+ying gai you 	應該有	c=0 d=0.0149569 t=6912
+ying gai you jing que de 	應該有精確的	c=1 d=0.150318 t=6912
+ying gai zhi 	應該指	c=1 d=0.339596 t=6912
+ying jian 	硬件	c=6 d=0.00127601 t=6912
+ying jian fu wu 	硬件服務	c=1 d=4.31857e-05 t=6912
+ying jian miao shu wen jian shi 	硬件描述文件時	c=1 d=8.23115e-05 t=6912
+ying jian mo kuai 	硬件模塊	c=1 d=7.26396e-05 t=6912
+ying jian shang 	硬件上	c=1 d=3.291e-14 t=6912
+ying jian she ji shi 	硬件設計師	c=1 d=0.0123389 t=6912
+ying jian zu cheng 	硬件組成	c=1 d=1.26861e-05 t=6912
+ying she 	映射	c=2 d=3.62336e-14 t=6912
+ying she biao 	映射表	c=1 d=1.12321e-14 t=6912
+ying xiang 	影響	c=3 d=0.0221538 t=6912
+ying xiang dao 	影響到	c=1 d=5.37012e-10 t=6912
+ying xiang jiu shi 	影響就是	c=1 d=0.19593 t=6912
+ying xiong 	英雄	c=1 d=1.22265e-12 t=6912
+ying yong 	應用	c=8 d=0.0436437 t=6912
+ying yong cheng xu 	應用程序	c=1 d=4.87332e-15 t=6912
+ying yong dao 	應用到	c=2 d=0.104325 t=6912
+ying yong shi 	應用是	c=1 d=2.64109e-14 t=6912
+ying yong shi 	應用時	c=1 d=0.00321477 t=6912
+yo 	喲	c=0 d=1.35101e-11 t=6912
+yong 	用	c=10 d=0.0161455 t=6912
+yong bu 	永不	c=0 d=2.40795e-16 t=6912
+yong bu fen kai 	永不分開	c=1 d=2.42002e-15 t=6912
+yong dao 	用到	c=1 d=1.23452e-08 t=6912
+yong de 	用的	c=1 d=2.07219e-13 t=6912
+yong hu 	用戶	c=4 d=0.0134436 t=6912
+yong hu ding yi 	用戶定義	c=0 d=1.15384e-08 t=6912
+yong hu gu jian 	用戶固件	c=1 d=5.40825e-05 t=6912
+yong hu lai jiang 	用戶來講	c=1 d=8.98612e-08 t=6912
+yong hu tai 	用戶態	c=1 d=4.14205e-14 t=6912
+yong hu tai xu ni ji 	用戶太虛擬機	c=2 d=1.00158e-14 t=6912
+yong hu ti gong de 	用戶提供的	c=1 d=5.27472e-05 t=6912
+yong lai 	用來	c=3 d=4.59487e-05 t=6912
+yong lai chong xin sheng cheng 	用來重新生成	c=1 d=8.69654e-05 t=6912
+yong lai zuo 	用來做	c=1 d=8.9167e-05 t=6912
+yong shang 	用上	c=0 d=3.44013e-07 t=6912
+yong tu 	用途	c=0 d=2.94819e-15 t=6912
+yong yi ge 	用一個	c=1 d=8.96444e-09 t=6912
+yong yu 	用於	c=11 d=0.000885032 t=6912
+yong zhong 	臃腫	c=0 d=1.02584e-07 t=6912
+you 	又	c=6 d=0.0235889 t=6912
+you 	右	c=0 d=2.56477e-07 t=6912
+you 	有	c=29 d=0.225833 t=6912
+you 	由	c=4 d=0.00014053 t=6912
+you bian 	右邊	c=2 d=5.75141e-10 t=6912
+you cheng wei 	又稱爲	c=0 d=3.36388e-08 t=6912
+you dao li 	有道理	c=1 d=5.06876e-07 t=6912
+you dian 	優點	c=0 d=7.32301e-13 t=6912
+you dian shi 	優點是	c=1 d=7.35971e-12 t=6912
+you hua 	優化	c=2 d=0.0706117 t=6912
+you hua de shi xian 	優化的實現	c=1 d=0.282239 t=6912
+you hua shi xian 	優化實現	c=1 d=0.00132678 t=6912
+you ji 	郵寄	c=1 d=7.08823e-11 t=6912
+you jiao gao de 	有較高的	c=1 d=0.138761 t=6912
+you jie he 	右結合	c=1 d=1.63343e-08 t=6912
+you ke neng 	有可能	c=1 d=0.0259983 t=6912
+you li yu 	有利於	c=0 d=0.0574072 t=6912
+you liang 	優良	c=0 d=1.74794e-12 t=6912
+you liang ge 	有兩個	c=1 d=2.6612e-15 t=6912
+you mei 	優美	c=0 d=1.35101e-11 t=6912
+you mei yo 	優美喲	c=1 d=1.35778e-10 t=6912
+you mei you 	有沒有	c=2 d=1.03625e-06 t=6912
+you neng 	又能	c=1 d=1.05708e-06 t=6912
+you nian xing 	有粘性	c=0 d=7.73179e-05 t=6912
+you nian xing zai 	有粘性在	c=1 d=0.000777055 t=6912
+you shan 	友善	c=1 d=4.34244e-11 t=6912
+you shen me yang de 	有什麼樣的	c=1 d=5.83443e-15 t=6912
+you shi 	有時	c=2 d=0.00539348 t=6912
+you shi de 	有時的	c=1 d=0.054204 t=6912
+you wen ti de 	有問題的	c=0 d=0.000236968 t=6912
+you xian 	優先	c=1 d=0.00167826 t=6912
+you xian 	有限	c=1 d=5.49185e-09 t=6912
+you xian de 	有限的	c=1 d=3.83349e-15 t=6912
+you xian gong si 	有限公司	c=2 d=0.000392167 t=6912
+you xian ji 	優先級	c=1 d=1.09757e-07 t=6912
+you xie 	有些	c=0 d=2.99275e-15 t=6912
+you xie ruan jian 	有些軟件	c=1 d=3.00775e-14 t=6912
+you xing shi hua de ding yi 	有形式化的定義	c=1 d=0.174645 t=6912
+you xu 	有序	c=1 d=0.00143012 t=6912
+you yao qiu 	又要求	c=1 d=3.16196e-14 t=6912
+you yi 	有一	c=0 d=1.11453e-12 t=6912
+you yi dian 	有一點	c=0 d=0.0980199 t=6912
+you yi dian bao shou 	有一點保守	c=1 d=0.985112 t=6912
+you yi e gao 	有一惡搞	c=1 d=1.12012e-11 t=6912
+you yi ge 	又一個	c=4 d=0.0930145 t=6912
+you yi ge 	有一個	c=1 d=1.99026e-09 t=6912
+you yi yi 	有意義	c=1 d=7.54346e-08 t=6912
+you yi zhong 	有一種	c=0 d=0.0360595 t=6912
+you yi zhong qing kuang hui 	有一種情況會	c=1 d=0.362402 t=6912
+you ying xiang 	有影響	c=0 d=0.0232236 t=6912
+you yong 	有用	c=1 d=2.46807e-11 t=6912
+you yong de 	有用的	c=1 d=4.04817e-09 t=6912
+you you 	又有	c=1 d=0.0308074 t=6912
+you yu 	由於	c=3 d=3.43602e-06 t=6912
+you zhe 	有着	c=1 d=0.0179964 t=6912
+you zhe ji hu 	有着幾乎	c=1 d=0.180866 t=6912
+you zhuang tai de 	有狀態的	c=1 d=2.3469e-07 t=6912
+yu 	俞	c=2 d=0.025493 t=6912
+yu 	喻	c=1 d=4.2874e-08 t=6912
+yu 	域	c=4 d=0.000121672 t=6912
+yu 	與	c=31 d=2.24024 t=6912
+yu dao 	遇到	c=1 d=2.69147e-06 t=6912
+yu fa 	語法	c=2 d=1.15989e-07 t=6912
+yu fa de 	語法的	c=1 d=6.14526e-08 t=6912
+yu fa tang 	語法糖	c=3 d=4.46157e-06 t=6912
+yu ju 	語句	c=2 d=1.59497e-09 t=6912
+yu qi 	預期	c=0 d=0.0904837 t=6912
+yu qi xiao guo 	預期效果	c=1 d=0.909373 t=6912
+yu qu 	預取	c=9 d=0.113072 t=6912
+yu qu ce lve 	預取策略	c=1 d=3.09187e-15 t=6912
+yu qu zhi ling 	預取指令	c=1 d=0.0025415 t=6912
+yu shi 	於是	c=1 d=0.00501661 t=6912
+yu shi jiu ke yi 	於是就可以	c=1 d=3.59041e-09 t=6912
+yu ta 	與他	c=1 d=0.189191 t=6912
+yu yan 	語言	c=2 d=0.0151852 t=6912
+yu yan bao kuo 	語言包括	c=1 d=3.44904e-07 t=6912
+yu yan bu tong 	語言不同	c=1 d=6.23919e-10 t=6912
+yu yan de 	語言的	c=0 d=2.21633e-11 t=6912
+yu yan dou hui 	語言都會	c=1 d=1.4306e-07 t=6912
+yu zhi qian 	與之前	c=1 d=0.00677172 t=6912
+yu zhong 	雨中	c=0 d=7.88932e-07 t=6912
+yu zhong mao xian 	雨中冒險	c=1 d=7.92887e-06 t=6912
+yuan 	原	c=1 d=0.000183188 t=6912
+yuan 	源	c=4 d=7.147e-12 t=6912
+yuan 	苑	c=0 d=5.44943e-07 t=6912
+yuan cheng xu 	源程序	c=1 d=1.1345e-14 t=6912
+yuan gong 	員工	c=1 d=1.55028e-11 t=6912
+yuan lai 	原來	c=0 d=0.0115325 t=6912
+yuan lai de 	原來的	c=1 d=5.39704e-10 t=6912
+yuan li 	原理	c=0 d=0.00428521 t=6912
+yuan su 	元素	c=10 d=4.98338e-06 t=6912
+yuan su de 	元素的	c=0 d=1.2719e-07 t=6912
+yuan su shi bu ke yi xiu gai de 	元素是不可以修改的	c=1 d=1.38497e-08 t=6912
+yuan yin 	原因	c=2 d=9.31346e-07 t=6912
+yuan yin shi 	原因是	c=1 d=1.83787e-13 t=6912
+yuan yu 	源於	c=0 d=1.4854e-09 t=6912
+yuan zi 	原子	c=4 d=0.392448 t=6912
+yuan zi cao zuo 	原子操作	c=1 d=0.00611064 t=6912
+yuan zi cao zuo fen wei 	原子操作分爲	c=1 d=0.00509243 t=6912
+yuan zi cao zuo hou 	原子操作後	c=1 d=0.00486835 t=6912
+yuan zi cao zuo shi 	原子操作是	c=1 d=0.00467746 t=6912
+yuan zi de 	原子的	c=1 d=0.205975 t=6912
+yuan zi zhi ling 	原子指令	c=2 d=0.419311 t=6912
+yuan zi zhi ling dui de 	原子指令對的	c=1 d=0.224249 t=6912
+yuan zu 	元組	c=1 d=4.15528e-08 t=6912
+yuan zu de 	元組的	c=1 d=3.52782e-08 t=6912
+yuan zu nei 	元組內	c=1 d=3.65348e-08 t=6912
+yue 	月	c=5 d=0.0172094 t=6912
+yue du 	閱讀	c=1 d=3.33268e-15 t=6912
+yue lai yue 	越來越	c=1 d=4.43782e-15 t=6912
+yue lai yue zhong yao 	越來越重要	c=1 d=2.08797e-14 t=6912
+yun 	雲	c=0 d=1.19555e-14 t=6912
+yun suan 	運算	c=1 d=0.00941925 t=6912
+yun suan fu 	運算符	c=4 d=2.10887e-07 t=6912
+yun xing 	運行	c=7 d=7.20907e-05 t=6912
+yun xing de 	運行的	c=0 d=0.011475 t=6912
+yun xing duo ge 	運行多個	c=1 d=1.85186e-14 t=6912
+yun xing shi 	運行時	c=1 d=3.4837e-08 t=6912
+yun xing zai 	運行在	c=3 d=0.117772 t=6912
+yun xu 	允許	c=3 d=0.265211 t=6912
+zai 	再	c=6 d=0.012168 t=6912
+zai 	在	c=89 d=3.82027 t=6912
+zai chun 	在純	c=1 d=2.1287e-06 t=6912
+zai ci 	再次	c=1 d=0.00224287 t=6912
+zai ci zhi qian 	在此之前	c=1 d=0.00551656 t=6912
+zai he 	在覈	c=2 d=0.00329417 t=6912
+zai ji suan qian 	在計算前	c=1 d=3.3138e-07 t=6912
+zai kan 	再看	c=0 d=4.54077e-08 t=6912
+zai kan liang ge li zi 	再看兩個例子	c=1 d=4.56353e-07 t=6912
+zai mei yi ge 	在每一個	c=1 d=0.00193045 t=6912
+zai na 	在哪	c=0 d=9.33505e-16 t=6912
+zai na ge 	在哪個	c=0 d=0.000790705 t=6912
+zai qi ta 	在其他	c=1 d=1.31425e-09 t=6912
+zai xia 	在下	c=0 d=2.97529e-05 t=6912
+zai yu 	在於	c=1 d=2.53012e-09 t=6912
+zai yun xing shi 	在運行時	c=1 d=3.50116e-07 t=6912
+zai zhe li 	在這裏	c=1 d=5.83145e-09 t=6912
+zai zui kai shi de 	在最開始的	c=1 d=6.64441e-15 t=6912
+zao 	早	c=1 d=0.000254808 t=6912
+zao 	造	c=1 d=8.65759e-11 t=6912
+zao xie 	早些	c=0 d=1.90826e-15 t=6912
+zao xie nian 	早些年	c=1 d=1.91782e-14 t=6912
+ze 	則	c=5 d=0.0501247 t=6912
+ze bu neng sheng lve 	則不能省略	c=1 d=9.88334e-10 t=6912
+ze hui 	則會	c=1 d=4.22429e-10 t=6912
+ze ke yi 	則可以	c=0 d=0.000382958 t=6912
+ze ke yi bing xing 	則可以並行	c=1 d=0.00384878 t=6912
+ze shi 	則是	c=1 d=2.50494e-09 t=6912
+zei 	賊	c=1 d=7.178e-12 t=6912
+zen me 	怎麼	c=3 d=1.06496e-05 t=6912
+zen me yang 	怎麼樣	c=0 d=8.78544e-08 t=6912
+zen me yang cai neng rang na ge 	怎麼樣纔能讓那個	c=1 d=8.82948e-07 t=6912
+zeng 	曾	c=1 d=8.81118e-12 t=6912
+zeng jia 	增加	c=8 d=2.23074 t=6912
+zeng jia le 	增加了	c=6 d=0.250247 t=6912
+zeng qiang 	增強	c=1 d=6.36307e-06 t=6912
+zhan 	棧	c=2 d=2.62141e-09 t=6912
+zhan ping 	展平	c=1 d=1.84168e-08 t=6912
+zhan yong 	佔用	c=0 d=1.1808e-15 t=6912
+zhang 	張	c=1 d=0.000256085 t=6912
+zhang 	長	c=1 d=7.71839e-13 t=6912
+zhang fu 	張甫	c=1 d=9.45006e-12 t=6912
+zhang hua 	張華	c=1 d=9.17077e-12 t=6912
+zhang jie 	章節	c=1 d=0.106401 t=6912
+zhang qian 	張千	c=10 d=0.000186922 t=6912
+zhao 	找	c=3 d=0.168233 t=6912
+zhao dao 	找到	c=1 d=9.3287e-07 t=6912
+zhao de 	找的	c=0 d=9.38025e-14 t=6912
+zhao ren 	找人	c=1 d=1.6919e-10 t=6912
+zhe 	着	c=0 d=1.21007e-09 t=6912
+zhe 	者	c=0 d=0.0141564 t=6912
+zhe 	這	c=9 d=0.0520956 t=6912
+zhe dai 	這代	c=0 d=1.21007e-09 t=6912
+zhe dai biao zhe 	這代表着	c=1 d=1.21614e-08 t=6912
+zhe de 	者的	c=0 d=1.47417e-08 t=6912
+zhe dui 	這對	c=1 d=0.19398 t=6912
+zhe ge 	這個	c=48 d=0.489695 t=6912
+zhe ge can shu de 	這個參數的	c=1 d=1.53037e-06 t=6912
+zhe ge ding yi 	這個定義	c=1 d=8.87373e-07 t=6912
+zhe ge fu wu you 	這個服務由	c=1 d=5.22223e-05 t=6912
+zhe ge gong shi de yi si shi 	這個公式的意思是	c=1 d=0.0678809 t=6912
+zhe ge han shu 	這個函數	c=1 d=8.33681e-08 t=6912
+zhe ge mo xing 	這個模型	c=1 d=3.5997e-10 t=6912
+zhe ge sheng ming 	這個聲明	c=1 d=3.4153e-09 t=6912
+zhe ge wen ti 	這個問題	c=1 d=1.96589e-07 t=6912
+zhe hao xiang 	這好像	c=1 d=5.04348e-07 t=6912
+zhe hui 	這回	c=1 d=8.48327e-07 t=6912
+zhe ji ge 	這幾個	c=0 d=8.65611e-10 t=6912
+zhe ji ge han shu 	這幾個函數	c=1 d=8.6995e-09 t=6912
+zhe jiu 	這就	c=0 d=9.07643e-09 t=6912
+zhe jiu jiao zuo 	這就叫做	c=1 d=9.12192e-08 t=6912
+zhe jiu shi 	這就是	c=1 d=0.109701 t=6912
+zhe ku 	哲庫	c=9 d=0.000217752 t=6912
+zhe ku ke ji 	哲庫科技	c=1 d=0.000200439 t=6912
+zhe li 	這裏	c=8 d=0.816107 t=6912
+zhe li de 	這裏的	c=4 d=1.04913 t=6912
+zhe li wo men ding yi le 	這裏我們定義了	c=1 d=1.24071e-08 t=6912
+zhe li yao zhu yi wei shen e me 	這裏要注意爲什額麼	c=1 d=0.913931 t=6912
+zhe liang ge 	這兩個	c=2 d=2.87396e-08 t=6912
+zhe me 	這麼	c=1 d=0.00544839 t=6912
+zhe me duo 	這麼多	c=0 d=0.00116786 t=6912
+zhe me duo ge 	這麼多個	c=1 d=0.0117371 t=6912
+zhe me yong 	這麼用	c=1 d=6.33241e-08 t=6912
+zhe shi 	這是	c=9 d=1.10746e-08 t=6912
+zhe shi fou 	這是否	c=1 d=5.38219e-07 t=6912
+zhe shi yi ge 	這是一個	c=3 d=5.91074e-06 t=6912
+zhe wang zhan 	這網站	c=1 d=1.36835e-13 t=6912
+zhe xie 	這些	c=2 d=1.12832e-05 t=6912
+zhe xie xin xi 	這些信息	c=1 d=0.000112226 t=6912
+zhe yang 	這樣	c=11 d=0.369138 t=6912
+zhe yang de 	這樣的	c=3 d=0.423969 t=6912
+zhe yang de jie guo 	這樣的結果	c=1 d=0.0293049 t=6912
+zhe yang de xie fa 	這樣的寫法	c=1 d=1.02584e-06 t=6912
+zhe yang jiu 	這樣就	c=1 d=3.55468e-09 t=6912
+zhe yang rong yi dao zhi cuo wu 	這樣容易導致錯誤	c=1 d=0.118245 t=6912
+zhe yang shi xian de hua 	這樣實現的話	c=1 d=0.0117959 t=6912
+zhe yang wei fan le 	這樣違反了	c=1 d=0.229925 t=6912
+zhe yang xie 	這樣寫	c=2 d=6.21726e-06 t=6912
+zhe yang zuo 	這樣做	c=1 d=4.14995e-07 t=6912
+zhe yi 	這一	c=0 d=1.17148e-10 t=6912
+zhe yi lei 	這一類	c=1 d=0.000126573 t=6912
+zhe yi lei de wen jian 	這一類的文件	c=1 d=0.000115643 t=6912
+zhe yi wei zhe 	這意味着	c=2 d=1.86138e-06 t=6912
+zhe yi yang 	這一樣	c=1 d=1.17735e-09 t=6912
+zhe you 	這又	c=1 d=4.72608e-07 t=6912
+zhe you cheng wei 	這又稱爲	c=1 d=3.38074e-07 t=6912
+zhe zhi jie de 	這直接的	c=1 d=0.489192 t=6912
+zhe zhong 	這種	c=1 d=5.12502e-06 t=6912
+zhe zhong mo shi xia 	這種模式下	c=1 d=2.96811e-05 t=6912
+zhe zhou wu 	這週五	c=1 d=0.017249 t=6912
+zhen 	真	c=0 d=2.17843e-14 t=6912
+zhen 	鎮	c=1 d=5.44943e-06 t=6912
+zhen bu gan 	真不敢	c=1 d=2.18935e-13 t=6912
+zhen dui 	針對	c=3 d=6.62275e-06 t=6912
+zhen ke 	真可	c=0 d=0.000259284 t=6912
+zhen ke yi 	真可以	c=1 d=0.00260584 t=6912
+zhen zai 	真在	c=1 d=0.0175097 t=6912
+zhen zheng 	真正	c=1 d=1.09473e-06 t=6912
+zheng 	證	c=2 d=1.12811e-05 t=6912
+zheng chang 	正常	c=2 d=9.95769e-12 t=6912
+zheng ge 	崢哥	c=2 d=0.00970611 t=6912
+zheng ge 	整個	c=2 d=2.51057e-06 t=6912
+zheng ming 	證明	c=0 d=0.000115345 t=6912
+zheng que 	正確	c=3 d=0.0263584 t=6912
+zheng que de 	正確的	c=2 d=0.0029528 t=6912
+zheng que xing 	正確性	c=1 d=1.25989e-12 t=6912
+zheng que zhi xing 	正確執行	c=1 d=0.264477 t=6912
+zheng si 	整死	c=1 d=0.0114473 t=6912
+zheng zai 	正在	c=1 d=2.05653e-12 t=6912
+zheng zhong 	鄭重	c=0 d=2.38399e-16 t=6912
+zheng zhong cheng nuo 	鄭重承諾	c=1 d=2.39594e-15 t=6912
+zheng zhou 	鄭州	c=1 d=9.68434e-06 t=6912
+zhi 	之	c=1 d=4.30889e-08 t=6912
+zhi 	值	c=28 d=0.0780008 t=6912
+zhi 	只	c=2 d=0.360599 t=6912
+zhi 	址	c=0 d=3.05268e-13 t=6912
+zhi 	指	c=3 d=0.0337919 t=6912
+zhi 	至	c=1 d=4.51812e-08 t=6912
+zhi chi 	支持	c=16 d=0.690334 t=6912
+zhi chi tong shi 	支持同時	c=1 d=1.84263e-14 t=6912
+zhi chi yi ge 	支持一個	c=1 d=5.96364e-08 t=6912
+zhi dao 	指導	c=1 d=1.38927e-15 t=6912
+zhi dao 	直到	c=1 d=0.000958635 t=6912
+zhi dao le 	知道了	c=1 d=0.0555762 t=6912
+zhi de guan zhu 	值得關注	c=1 d=4.84572e-07 t=6912
+zhi ding 	指定	c=1 d=7.45183e-10 t=6912
+zhi du 	只讀	c=1 d=1.49309e-10 t=6912
+zhi guan 	直觀	c=0 d=6.17606e-09 t=6912
+zhi guan de 	直觀的	c=1 d=0.0398519 t=6912
+zhi hou 	之後	c=3 d=0.0677446 t=6912
+zhi hou de 	之後的	c=0 d=1.04205e-15 t=6912
+zhi hou le 	之後了	c=1 d=0.0655462 t=6912
+zhi hu 	知乎	c=4 d=0.000228266 t=6912
+zhi hui 	只會	c=5 d=1.69203e-05 t=6912
+zhi hui 	智慧	c=2 d=2.23802e-06 t=6912
+zhi hui tuan jian 	智慧團建	c=5 d=1.38924e-05 t=6912
+zhi hui zai 	只會在	c=1 d=3.03694e-10 t=6912
+zhi jian 	之間	c=2 d=0.0568845 t=6912
+zhi jian de 	之間的	c=0 d=1.93078e-06 t=6912
+zhi jie 	直接	c=11 d=0.00398677 t=6912
+zhi jie dang zuo 	直接當作	c=1 d=8.1548e-13 t=6912
+zhi jie de 	直接的	c=2 d=0.0538966 t=6912
+zhi jie di gui diao yong dang qian 	直接遞歸調用當前	c=1 d=3.10578e-09 t=6912
+zhi jie feng zhuang zai 	直接封裝在	c=1 d=5.91757e-05 t=6912
+zhi jie ming zhong le 	直接命中了	c=1 d=0.0244775 t=6912
+zhi jie shi yong 	直接使用	c=1 d=1.36789e-09 t=6912
+zhi jie yu qu 	直接預取	c=1 d=3.10737e-15 t=6912
+zhi jue 	直覺	c=1 d=5.01832e-07 t=6912
+zhi liang 	質量	c=1 d=1.25967e-10 t=6912
+zhi liao 	治療	c=0 d=1.40658e-07 t=6912
+zhi liao ren he bu ru dong wu 	治療任何哺乳動物	c=1 d=7.05048e-07 t=6912
+zhi ling 	指令	c=32 d=2.56473 t=6912
+zhi ling bian jie 	指令邊界	c=1 d=1.75276e-14 t=6912
+zhi ling ji 	指令集	c=2 d=1.28779e-06 t=6912
+zhi ling ji bie 	指令級別	c=1 d=1.3181e-14 t=6912
+zhi ling xu yao huo de 	指令需要獲得	c=1 d=0.267135 t=6912
+zhi ling zhi xing 	指令執行	c=1 d=0.0461896 t=6912
+zhi neng 	只能	c=3 d=3.77054e-09 t=6912
+zhi neng you 	只能有	c=0 d=1.51149e-08 t=6912
+zhi neng zai 	只能在	c=1 d=0.00427488 t=6912
+zhi qian 	之前	c=15 d=0.20672 t=6912
+zhi qian de 	之前的	c=6 d=0.69628 t=6912
+zhi qian de li zi 	之前的例子	c=1 d=0.346456 t=6912
+zhi qian de yi ge cheng xu 	之前的一個程序	c=1 d=0.88692 t=6912
+zhi qian ti dao de 	之前提到的	c=1 d=2.06579e-06 t=6912
+zhi shao 	至少	c=1 d=0.357007 t=6912
+zhi shao you 	至少有	c=1 d=4.03978e-14 t=6912
+zhi shi 	只是	c=6 d=0.0249417 t=6912
+zhi shi 	知識	c=2 d=6.55689e-11 t=6912
+zhi shi duo le yi ge 	只是多了一個	c=1 d=0.0968105 t=6912
+zhi shi xiang 	只是想	c=1 d=3.30581e-08 t=6912
+zhi shi yi ge 	只是一個	c=0 d=1.23431e-07 t=6912
+zhi shi yong yu yan 	只是用語言	c=1 d=0.15259 t=6912
+zhi wei 	只爲	c=1 d=1.79127e-05 t=6912
+zhi xiang 	只想	c=1 d=1.24994e-07 t=6912
+zhi xin 	置信	c=0 d=4.15277e-16 t=6912
+zhi xin du 	置信度	c=2 d=8.4743e-15 t=6912
+zhi xing 	執行	c=35 d=2.68303 t=6912
+zhi xing dao 	執行到	c=1 d=3.05216e-10 t=6912
+zhi xing de 	執行的	c=1 d=4.9342e-14 t=6912
+zhi xing ji suan 	執行計算	c=1 d=1.29805e-06 t=6912
+zhi xing jie shu 	執行結束	c=1 d=0.304221 t=6912
+zhi xing qi jian 	執行期間	c=1 d=2.6085e-15 t=6912
+zhi xing shi 	執行時	c=1 d=2.36477e-08 t=6912
+zhi xing shun xu 	執行順序	c=1 d=0.548812 t=6912
+zhi xing shun xu hen qi guai 	執行順序很奇怪	c=1 d=0.0544757 t=6912
+zhi xing wan 	執行完	c=1 d=0.00484407 t=6912
+zhi xing wan cheng hou 	執行完成後	c=1 d=0.242926 t=6912
+zhi xing xi tong diao yong 	執行系統調用	c=1 d=2.84679e-14 t=6912
+zhi xing yi lai 	執行依賴	c=1 d=0.0620385 t=6912
+zhi xing yu 	執行與	c=1 d=0.000934966 t=6912
+zhi xing zhan 	執行棧	c=2 d=5.75354e-09 t=6912
+zhi xu yao 	只需要	c=2 d=0.0795043 t=6912
+zhi yao 	只要	c=1 d=0.344493 t=6912
+zhi yao qiu 	只要求	c=2 d=0.00549469 t=6912
+zhi yao ta men zhi jian mei you shu ju yi lai 	只要他們之間沒有數據依賴	c=1 d=0.56836 t=6912
+zhi you 	只有	c=3 d=0.0507928 t=6912
+zhi you bei 	只有被	c=1 d=1.69132e-06 t=6912
+zhi you zai 	只有在	c=3 d=0.238115 t=6912
+zhi yu 	至於	c=1 d=7.12134e-07 t=6912
+zhi zai 	只在	c=1 d=9.26136e-10 t=6912
+zhi zao ye 	製造業	c=1 d=1.24092e-10 t=6912
+zhi zhao 	只找	c=1 d=9.70941e-07 t=6912
+zhi zhi chi 	只支持	c=1 d=1.58953e-11 t=6912
+zhong 	中	c=22 d=0.090303 t=6912
+zhong 	種	c=1 d=4.0391e-12 t=6912
+zhong bei 	中被	c=1 d=0.0198411 t=6912
+zhong de 	中的	c=7 d=0.3921 t=6912
+zhong ding yi 	中定義	c=2 d=9.18464e-06 t=6912
+zhong duan 	中斷	c=6 d=0.00269181 t=6912
+zhong duan de 	中斷的	c=1 d=0.000323925 t=6912
+zhong duan he 	中斷和	c=1 d=1.33366e-05 t=6912
+zhong duan jie gou ti 	中斷結構體	c=1 d=0.000422213 t=6912
+zhong duan kong zhi qi 	中斷控制器	c=1 d=0.000480828 t=6912
+zhong guo 	中國	c=12 d=8.17067e-07 t=6912
+zhong guo jing xiang 	中國鏡像	c=1 d=6.86215e-12 t=6912
+zhong guo ke xue ji shu da xue 	中國科學技術大學	c=3 d=0.000186498 t=6912
+zhong guo ke xue ji shu da xue yan jiu sheng 	中國科學技術大學研究生	c=3 d=1.03865e-05 t=6912
+zhong jian 	中間	c=1 d=1.12554e-09 t=6912
+zhong ke 	中科	c=1 d=1.19536e-11 t=6912
+zhong ke da 	中科大	c=8 d=0.00703691 t=6912
+zhong shi fen 	鍾世芬	c=1 d=9.30937e-12 t=6912
+zhong wen 	中文	c=2 d=7.19543e-11 t=6912
+zhong xin 	中心	c=2 d=1.62294e-11 t=6912
+zhong xing 	中興	c=1 d=0.0168231 t=6912
+zhong yao 	重要	c=2 d=0.0578634 t=6912
+zhong zhui 	中綴	c=1 d=2.35338e-10 t=6912
+zhou wu 	週五	c=0 d=0.0017163 t=6912
+zhu 	主	c=0 d=0.000759701 t=6912
+zhu dong 	主動	c=0 d=0.000597602 t=6912
+zhu duo 	諸多	c=1 d=2.2444e-11 t=6912
+zhu fen zhi 	主分支	c=1 d=0.00763509 t=6912
+zhu pin 	主頻	c=2 d=2.15027e-10 t=6912
+zhu ren 	助人	c=1 d=4.38608e-11 t=6912
+zhu ti 	主體	c=3 d=0.00738023 t=6912
+zhu yao 	主要	c=1 d=6.62688e-06 t=6912
+zhu yao you 	主要有	c=1 d=2.71265e-05 t=6912
+zhu yi 	注意	c=2 d=0.826959 t=6912
+zhu yi zhe li 	注意這裏	c=1 d=2.85911e-06 t=6912
+zhuan 	轉	c=0 d=2.42463e-09 t=6912
+zhuan hua 	轉化	c=0 d=0.014808 t=6912
+zhuan jia 	專家	c=2 d=1.20593e-12 t=6912
+zhuan ru 	轉入	c=1 d=5.90329e-06 t=6912
+zhuan wei 	轉爲	c=5 d=1.38271e-07 t=6912
+zhuan wei yi ge 	轉爲一個	c=1 d=2.43679e-08 t=6912
+zhuan ye 	專業	c=3 d=3.98638e-11 t=6912
+zhuan yong de 	專用的	c=2 d=0.000561058 t=6912
+zhuang 	裝	c=1 d=4.97093e-13 t=6912
+zhuang de 	裝的	c=2 d=1.32715e-05 t=6912
+zhuang ji 	撞擊	c=1 d=1.67854e-05 t=6912
+zhuang tai 	狀態	c=9 d=0.11705 t=6912
+zhuang tai de 	狀態的	c=1 d=0.00615802 t=6912
+zhun bei 	準備	c=2 d=0.0193463 t=6912
+zhun bei du bo 	準備讀博	c=1 d=0.0156076 t=6912
+zhun yu 	准予	c=1 d=5.89106e-11 t=6912
+zhuo shou 	着手	c=1 d=3.43301e-11 t=6912
+zi 	子	c=0 d=9.98951e-08 t=6912
+zi 	自	c=0 d=2.54851e-07 t=6912
+zi dai 	自帶	c=1 d=1.2197e-13 t=6912
+zi ding yi 	自定義	c=0 d=2.68284e-06 t=6912
+zi ding yi de 	自定義的	c=1 d=1.40204e-05 t=6912
+zi ding yi zhi ling ji 	自定義指令集	c=1 d=1.29424e-05 t=6912
+zi dong 	自動	c=3 d=0.0802559 t=6912
+zi dong chuang jian 	自動創建	c=1 d=5.05567e-06 t=6912
+zi dong ji cheng 	自動繼承	c=1 d=1.21908e-07 t=6912
+zi dong wei chi 	自動維持	c=1 d=0.806541 t=6912
+zi fu chuan 	字符串	c=2 d=2.25754e-08 t=6912
+zi han shu 	子函數	c=1 d=6.28456e-07 t=6912
+zi ji 	子集	c=1 d=4.20465e-14 t=6912
+zi ji 	自己	c=9 d=1.10666e-10 t=6912
+zi ji de 	自己的	c=1 d=2.55598e-11 t=6912
+zi ji xie 	自己寫	c=1 d=1.67506e-10 t=6912
+zi jie 	字節	c=3 d=0.000386044 t=6912
+zi jie de 	字節的	c=2 d=0.000949283 t=6912
+zi lei 	子類	c=5 d=2.30364e-06 t=6912
+zi lei de 	子類的	c=1 d=4.13628e-08 t=6912
+zi lei de shi li 	子類的實例	c=1 d=3.77385e-07 t=6912
+zi lei xing 	子類型	c=1 d=3.75503e-07 t=6912
+zi lei xing 	子類行	c=2 d=4.0808e-07 t=6912
+zi mu 	字母	c=1 d=1.22709e-07 t=6912
+zi mu kai tou 	字母開頭	c=1 d=1.03365e-07 t=6912
+zi mu shu ju 	字母數據	c=1 d=1.06513e-07 t=6912
+zi shen 	自身	c=1 d=2.28935e-09 t=6912
+zi ti 	字體	c=1 d=9.98777e-16 t=6912
+zi wo 	自我	c=1 d=2.35921e-11 t=6912
+zi wo jian ding 	自我鑑定	c=1 d=4.7752e-11 t=6912
+zi xiu 	自修	c=0 d=1.01125e-15 t=6912
+zi xiu gai 	子修改	c=1 d=1.01125e-14 t=6912
+zi xiu gai 	自修該	c=1 d=1.01632e-14 t=6912
+zi xun gong si 	諮詢公司	c=1 d=5.75754e-06 t=6912
+zi you 	自由	c=0 d=0.0142274 t=6912
+zi you xiang zuo 	自右向左	c=1 d=2.56129e-06 t=6912
+zi yuan 	資源	c=1 d=1.19116e-05 t=6912
+zi yuan de 	資源的	c=1 d=5.3185e-14 t=6912
+zong he 	綜合	c=2 d=9.09692e-06 t=6912
+zong jie 	總結	c=0 d=0.008291 t=6912
+zong jie wei xia biao 	總結爲下表	c=1 d=0.0833256 t=6912
+zong shi 	總是	c=3 d=7.5812e-11 t=6912
+zong zhi 	總之	c=1 d=4.26747e-12 t=6912
+zou 	走	c=1 d=1.43851e-13 t=6912
+zou le 	走了	c=0 d=0.00144076 t=6912
+zou le ma 	走了嗎	c=1 d=0.0144798 t=6912
+zou zai 	走在	c=1 d=2.23358e-13 t=6912
+zu 	組	c=2 d=0.0140519 t=6912
+zu cheng 	組成	c=1 d=1.68349e-05 t=6912
+zu xian 	祖先	c=0 d=1.45598e-09 t=6912
+zu zhi 	組織	c=0 d=1.40954e-10 t=6912
+zu zhi zai 	組織在	c=1 d=1.41661e-09 t=6912
+zu zhuang 	組裝	c=1 d=0.000227127 t=6912
+zui 	最	c=1 d=0.0398523 t=6912
+zui chu 	最初	c=1 d=0.00228818 t=6912
+zui chu de 	最初的	c=1 d=0.000129737 t=6912
+zui duo 	最多	c=2 d=5.8815e-08 t=6912
+zui duo de 	最多的	c=1 d=1.81081e-15 t=6912
+zui duo ke yi 	最多可以	c=1 d=1.68724e-07 t=6912
+zui hao 	最好	c=1 d=0.119433 t=6912
+zui hao de 	最好的	c=1 d=1.28556e-14 t=6912
+zui hao shi 	最好是	c=0 d=0.0151072 t=6912
+zui hao shi you xing shi hua de gong shi lai ding yi 	最好是有形式化的公式來定義	c=1 d=0.151829 t=6912
+zui hou 	最後	c=3 d=0.0332296 t=6912
+zui hou de 	最後的	c=1 d=2.25735e-07 t=6912
+zui hou de jie guo 	最後的結果	c=1 d=2.26033e-06 t=6912
+zui hou yi ge 	最後一個	c=1 d=8.42203e-10 t=6912
+zui jin 	最近	c=4 d=0.289508 t=6912
+zui kai shi 	最開始	c=1 d=3.12194e-11 t=6912
+zui kai shi shi 	最開始時	c=1 d=2.35258e-06 t=6912
+zui nan 	最難	c=0 d=6.89772e-15 t=6912
+zui nan de 	最難的	c=1 d=6.9323e-14 t=6912
+zui xin 	最新	c=1 d=8.57144e-11 t=6912
+zui zhi guan de 	最直觀的	c=1 d=0.400517 t=6912
+zui zhu yao de 	最主要的	c=1 d=2.08726e-10 t=6912
+zun jing 	尊敬	c=4 d=0.000164106 t=6912
+zuo 	做	c=5 d=0.000210918 t=6912
+zuo dao 	做到	c=0 d=0.00231676 t=6912
+zuo de 	做的	c=1 d=3.61775e-10 t=6912
+zuo fa 	做法	c=1 d=5.96668e-14 t=6912
+zuo nei cun cao zuo de 	做內存操作的	c=1 d=0.00111936 t=6912
+zuo shen me 	做什麼	c=1 d=1.11723e-10 t=6912
+zuo tian 	昨天	c=1 d=5.29107e-12 t=6912
+zuo wei 	作爲	c=3 d=3.24385e-06 t=6912
+zuo wei can shu 	作爲參數	c=2 d=2.02968e-08 t=6912
+zuo wei yi ge 	作爲一個	c=1 d=1.26555e-06 t=6912
+zuo yong 	作用	c=0 d=3.74533e-07 t=6912
+zuo yong yu 	作用域	c=1 d=3.76411e-06 t=6912

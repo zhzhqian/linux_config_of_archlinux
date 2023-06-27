@@ -1,0 +1,33 @@
+# Rime user dictionary
+#@/db_name	bianchengyuyan
+#@/db_type	userdb
+#@/rime_version	1.7.3
+#@/user_id	aae06e7b-1c87-4f88-82f7-00d22f8468fb
+bian liang 	变量	c=1 d=2e-08 t=0
+chang liang 	常量	c=1 d=2e-08 t=0
+cheng yuan 	成员	c=1 d=2e-08 t=0
+cheng yuan fang fa 	成员方法	c=1 d=2e-08 t=0
+cheng yuan han shu 	成员函数	c=1 d=2e-08 t=0
+cheng yuan shu xing 	成员属性	c=1 d=2e-08 t=0
+chu shi hua 	初始化	c=1 d=2e-08 t=0
+dai li mo shi 	代理模式	c=1 d=2e-08 t=0
+di yi lei dui xiang 	第一类对象	c=1 d=2e-08 t=0
+fang fa 	方法	c=1 d=2e-08 t=0
+fang wen qi 	访问器	c=1 d=2e-08 t=0
+gou zao han shu 	构造函数	c=1 d=2e-08 t=0
+ha xi 	哈希	c=1 d=2e-08 t=0
+han shu shi 	函数式	c=1 d=2e-08 t=0
+ju bu bian liang 	局部变量	c=1 d=2e-08 t=0
+lei bian liang 	类变量	c=1 d=2e-08 t=0
+lu bang xing 	鲁棒性	c=1 d=2e-08 t=0
+mian xiang dui xiang 	面向对象	c=1 d=2e-08 t=0
+mian xiang guo cheng 	面向过程	c=1 d=2e-08 t=0
+quan ju bian liang 	全局变量	c=1 d=2e-08 t=0
+shi li 	实例	c=1 d=2e-08 t=0
+shi li bian liang 	实例变量	c=1 d=2e-08 t=0
+shu xing 	属性	c=1 d=2e-08 t=0
+shu xing dai li 	属性代理	c=1 d=2e-08 t=0
+wei bian liang 	伪变量	c=1 d=2e-08 t=0
+wei tuo dai li 	委托代理	c=1 d=2e-08 t=0
+xi gou han shu 	析构函数	c=1 d=2e-08 t=0
+xie cheng 	协程	c=1 d=2e-08 t=0
