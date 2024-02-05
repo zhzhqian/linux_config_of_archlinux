@@ -13,6 +13,8 @@ map("i", "<C-f>", "<Right>", opt)
 -- windows switch
 map("n", "<C-h>", "<C-W>h", opt)
 map("n", "<C-l>", "<C-W>l", opt)
+map("n", "<C-j>", "<C-W>j", opt)
+map("n", "<C-k>", "<C-W>k", opt)
 -- windows 分屏快捷键
 map("n", "<leader>ss", ":vsp<CR>", opt)
 -- 关闭当前
@@ -22,9 +24,13 @@ map("n", "<leader>t", "<C-w>T", opt)
 -- visual模式下缩进代码
 map("v", "<", "<gv", opt)
 map("v", ">", ">gv", opt)
--- 上下移动选中文本
+-- 上下移动选中文本or
 map("v", "J", ":move '>+1<CR>gv-gv", opt)
 map("v", "K", ":move '<-2<CR>gv-gv", opt)
+
+vim.keymap.set('n', '<leader>c', require('osc52').copy_operator, {expr = true})
+vim.keymap.set('n', '<leader>cc', '<leader>c_', {remap = true})
+vim.keymap.set('v', '<leader>c', require('osc52').copy_visual)
 
 local pluginKeys = {}
 

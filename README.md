@@ -10,6 +10,9 @@ git clone --depth 1 https://github.com/wbthomason/packer.nvim\
 cd ~/.config/nvim && python -m venv nvim-python
 
 cd $HOME && ./.config/nvim/nvim-python/bin/python3 -m pip install pynvim
+
+
+pacman -S lua-language-server or download from `https://github.com/luals/lua-language-server`
 ```
 
 ## In vim command line

@@ -5,12 +5,12 @@ require("keybindings")
 require("plugins")
 
 require("colorscheme")
-
 require("hop").setup()
 require("lualine").setup()
 require("plugin-config.bufferline")
 require("plugin-config.dashboard")
 require("plugin-config.indent-blankline")
+require("plugin-config.spectre")
 require("plugin-config.mundo")
 require("plugin-config.nvim-tree")
 require("plugin-config.transparent")
@@ -19,12 +19,11 @@ require("plugin-config.vista")
 require("plugin-config.misc")
 require("plugin-config.telescope")
 require("plugin-config.which-key")
-
 require("lsp/setup")
 require("lsp/nvim-cmp")
 require("lsp/null-ls")
 
-vim.lsp.set_log_level("trace")
+vim.lsp.set_log_level("warn")
 -- aliases
 local execute = vim.api.nvim_command
 local vim     = vim
@@ -86,4 +85,5 @@ local autocmds = {
 }
 
 nvim_create_augroups(autocmds)
+vim.opt.termguicolors = false
 -- autocommands END

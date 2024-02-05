@@ -10,6 +10,9 @@ return require("packer").startup(function()
     use("ful1e5/onedark.nvim")
     use("rmehri01/onenord.nvim")
     use("xiyaowong/nvim-transparent")
+    use("folke/tokyonight.nvim")
+    use("sainnhe/gruvbox-material") 
+    
     -- 首页
     use("goolord/alpha-nvim")
     -- 对齐线
@@ -33,14 +36,14 @@ return require("packer").startup(function()
     use("tpope/vim-surround")
     use("tpope/vim-unimpaired")
     -- 快速跳转
-    use({
-        "phaazon/hop.nvim",
-        branch = "v1",
-        config = function()
-            require("hop").setup({ keys = "etovxqpdygfblzhckisuran" })
-        end,
-    })
-    -- 函数列表
+    use {
+      'smoka7/hop.nvim',
+      tag = '*', -- optional but strongly recommended
+      config = function()
+        -- you can configure Hop the way you like here; see :h hop-config
+        require'hop'.setup { keys = 'etovxqpdygfblzhckisuran' }
+      end
+    }    -- 函数列表
     use("liuchengxu/vista.vim")
     -- 代码补全
     use("hrsh7th/cmp-nvim-lsp")
@@ -78,4 +81,6 @@ return require("packer").startup(function()
     use 'nvim-telescope/telescope.nvim'
     use { 'nvim-telescope/telescope-fzf-native.nvim', run = 'make' } -- telescope search tool
     use { "folke/which-key.nvim" }
+    -- copy words from ssh server, reference: https://sspai.com/post/71018
+    use {'ojroques/nvim-osc52'}
 end)

@@ -1,12 +1,12 @@
 -- the servers that should be automatically installed
 local lsp_servers = {
-    "sumneko_lua",
-    "gopls",
+    "lua_ls",
+    -- "gopls",
     "pyright",
-    "jsonls",
-    "html",
-    "bashls",
-    "tsserver",
+    -- "jsonls",
+    -- "html",
+    -- "bashls",
+    -- "tsserver",
     "clangd",
     "cmake",
 }
