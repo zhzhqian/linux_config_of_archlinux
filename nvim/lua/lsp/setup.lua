@@ -12,7 +12,7 @@ local lsp_servers = {
 }
 -- using plug "nvim-lsp-installer" to ensure the installation
 -- should before the lsp config
-require("nvim-lsp-installer").setup({
+require("mason").setup({
     ensure_installed = lsp_servers,
     automatic_installation = true,
     ui = {
@@ -30,6 +30,7 @@ local lsp_server_configs = {
     sumneko_lua = require("lsp.lua"), -- /lua/lsp/lua
     clangd_lua = require("lsp.clangd"), -- /lua/lsp/lua
     cmake_lua = require("lsp.cmake"), -- /lua/lsp/lua
+    python_lua = require("lsp.pyright"), -- /lua/lsp/lua
 }
 
 local lspconfig = require("lspconfig")

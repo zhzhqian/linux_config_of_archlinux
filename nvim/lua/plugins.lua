@@ -25,7 +25,7 @@ return require("packer").startup(function()
     -- 语法高亮，折叠代码，缩进处理
     use({ "nvim-treesitter/nvim-treesitter", run = ":TSUpdate" })
     -- lsp支持
-    use({ "neovim/nvim-lspconfig", "williamboman/nvim-lsp-installer" })
+    use({ "neovim/nvim-lspconfig", "williamboman/mason.nvim" })
     -- 模糊匹配工具
     use("junegunn/fzf")
     use("junegunn/fzf.vim")

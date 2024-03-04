@@ -70,7 +70,7 @@ pluginKeys.mapLSP = function(mapbuf)
     mapbuf("n", "gk", "<cmd>lua vim.diagnostic.goto_prev()<CR>", opt)
     mapbuf("n", "gj", "<cmd>lua vim.diagnostic.goto_next()<CR>", opt)
     -- format
-    mapbuf("n", "<leader>ff", "<cmd>lua vim.lsp.buf.formatting()<CR>", { noremap = true })
+    mapbuf("n", "<leader>ff", "<cmd>lua vim.lsp.buf.format()<CR>", { noremap = true })
 end
 
 pluginKeys.cmp = function(cmp)
