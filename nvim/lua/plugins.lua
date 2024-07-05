@@ -17,7 +17,7 @@ return require("packer").startup(function()
     use("goolord/alpha-nvim")
     -- 对齐线
     use("lukas-reineke/indent-blankline.nvim")
-    use({ "akinsho/bufferline.nvim", tag = "v2.*", requires = "kyazdani42/nvim-web-devicons" })
+    use({"akinsho/bufferline.nvim", tag = "*", requires = "kyazdani42/nvim-web-devicons" })
     -- 状态栏
     use("nvim-lualine/lualine.nvim")
     -- 编辑历史
@@ -71,7 +71,7 @@ return require("packer").startup(function()
     })
     -- search and replace
     use("nvim-lua/plenary.nvim")
-    use('windwp/nvim-spectre')
+    use('nvim-pack/nvim-spectre')
     -- Github copilot
     use({ "github/copilot.vim" })
     -- 格式化代码

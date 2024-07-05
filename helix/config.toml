@@ -1,0 +1,19 @@
+theme = "github_dark_dimmed"
+[keys.normal]
+#C-d = "page_down"
+S-g = "goto_last_line"
+0 = "goto_line_start"
+C-e = "goto_line_end"
+C-a = "goto_line_start"
+C-h ="jump_view_left"
+C-l ="jump_view_right"
+C-j ="jump_view_down"
+C-k ="jump_view_up"
+[keys.select]
+S-g = "goto_last_line"
+
+[editor]
+true-color = true
+line-number = "relative"
+ 
+
