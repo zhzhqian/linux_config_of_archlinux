@@ -116,7 +116,9 @@ export PATH=/Users/banma-424177/Library/Python/3.9/bin:$PATH
 export PATH=/opt/homebrew/Cellar/minicom/2.8/bin:$PATH
 export PATH=/home/zhqian/cs162_pintos/src/utils:$PATH
 export PATH=/opt/gnu_gcc/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin:$PATH
+export PATH=/home/zhqian/.cargo/bin:$PATH
 
+[[ -s /etc/profile.d/autojump.zsh ]] && source /etc/profile.d/autojump.zsh
 
 export FZF_DEFAULT_OPTS=" \
 --height 80% \
@@ -125,3 +127,4 @@ export FZF_DEFAULT_OPTS=" \
 --color=bg+:#363a4f,bg:#24273a,spinner:#f4dbd6,hl:#ed8796 \
 --color=fg:#cad3f5,header:#ed8796,info:#c6a0f6,pointer:#f4dbd6 \
 --color=marker:#f4dbd6,fg+:#cad3f5,prompt:#c6a0f6,hl+:#ed8796"
+
